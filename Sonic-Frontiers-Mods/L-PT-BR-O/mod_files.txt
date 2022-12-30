@@ -1,0 +1,2 @@
+add mod.ini
+add pak.text_caption_pt-br/raw/text/text_caption_pt.pac

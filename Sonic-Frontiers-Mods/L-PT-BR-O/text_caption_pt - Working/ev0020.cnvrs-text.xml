@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev0020_010" id="3050658399" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estamos chegando nas Ilhas Starfall.
+    </text>
+    <text name="ev0020_020" id="3050658526" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Que emoção!
+    </text>
+    <text name="ev0020_030" id="3050658653" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tô surpreso que você quis vir junto, Knux.
+    </text>
+    <text name="ev0020_040" id="3050658780" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      As Esmeraldas do Chaos sumiram. Isso é sério e merece uma resposta à altura.
+    </text>
+    <text name="ev0020_050" id="3050658907" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E somos a equipe perfeita pra averiguar.
+    </text>
+    <text name="ev0020_055" id="3050658912" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A localização das Esmeraldas do Chaos que você encontrou é aqui, certo? Vamos descobrir o que as trouxe aqui!
+    </text>
+    <text name="ev0020_060" id="3050659034" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nossa! Tem um tipo de carga atmosférica aqui! Se segura aí!
+    </text>
+    <text name="ev0020_070" id="3050659161" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev0020_080" id="3050659288" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev0020_090" id="3050659415" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev0020_100" id="3050674401" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
