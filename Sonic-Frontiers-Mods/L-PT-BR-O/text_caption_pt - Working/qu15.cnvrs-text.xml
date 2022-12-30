@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="qu1510_010" id="554862167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você conseguiu, Sonic! Sinto que o Titã está logo à frente. É agora! O grande confronto!
+    </text>
+    <text name="qu1510_020" id="554862294" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas vai ser uma luta bem curta se eu não encontrar a última Esmeralda do Caos.
+    </text>
+    <text name="qu1510_030" id="554862421" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Procurei em todo o canto. Não sei mais o que fazer.
+    </text>
+    <text name="qu1510_040" id="554862548" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Cadê ela? Bom, talvez eu Encontre no Caminho.
+    </text>
+    <text name="qu1500_010" id="1876231128" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E aí, Amy?
+    </text>
+    <text name="qu1500_020" id="1876231255" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Olha! Essa região não é aquela que estava bloqueada? Acho que dá pra interagir com ela agora!
+    </text>
+    <text name="qu1500_030" id="1876231382" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que algumas das lápides giram. 
+    </text>
+    <text name="qu1500_040" id="1876231509" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Talvez elas funcionem como as outras travas interativas e me mostrem como chegar àquele Titã!
+    </text>
+    <text name="qu1500_050" id="1876231636" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vale a pena tentar!
+    </text>
+    <text name="qu1500_060" id="1876231763" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Certo... qual é o jeito certo de fazer isso? Hmm? Parece que tem um desenho no chão.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

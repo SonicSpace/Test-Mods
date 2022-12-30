@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ko1900_000" id="284161117" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É um prazer poder ajudar.
+    </text>
+    <text name="ko1900_005" id="284161122" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mais alguma coisa?
+    </text>
+    <text name="ko1900_010" id="284161244" font="Range_FNT" layout="Range_LAY">
+      Trocar Velocidade por Capacidade de Rings
+    </text>
+    <text name="ko1900_020" id="284161371" font="Range_FNT" layout="Range_LAY">
+      Trocar Capacidade de Rings por Velocidade
+    </text>
+    <text name="ko1900_030" id="284161498" font="Range_FNT" layout="Range_LAY">
+      Não, Obrigado!
+    </text>
+    <text name="ko1900_040" id="284161625" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmmm... mmm!!
+    </text>
+    <text name="ko1900_050" id="284161752" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Retardei os seus passos para que você possa carregar mais Rings.
+    </text>
+    <text name="ko1900_060" id="284161879" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmmm... mmm!!
+    </text>
+    <text name="ko1900_070" id="284162006" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acelerei os seus passos, mas você não conseguirá carregar tantos Rings.
+    </text>
+    <text name="ko1900_080" id="284162133" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estou cansado e retornarei ao sonho. Deixe-me descansar, jovem.
+    </text>
+    <text name="ko1900_090" id="284162260" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah!
+      Então meu irmão liberou todo o seu talento.
+    </text>
+    <text name="ko1900_100" id="284177246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, haha! Se tivéssemos um herói como você naquela época, talvez as cosas estivessem diferentes agora.
+    </text>
+    <text name="ko1900_110" id="284177373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Conheço um viajante do tempo. Quer que reescrevamos a história quando isso tudo acabar?
+    </text>
+    <text name="ko1900_120" id="284177500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É tentador, mas não posso. A vida segue adiante, com ou sem a gente. Encontramos nossos próprios meios de perseverar.
+    </text>
+    <text name="ko1900_130" id="284177627" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E eu... talvez eu esteja apegado demais ao passado. 
+    </text>
+    <text name="ko1900_140" id="284177754" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O Koco Ancestral cuidou do nosso povo enquanto fiquei aqui dormindo, vagando pelo Sonho Digital.
+    </text>
+    <text name="ko1900_150" id="284177881" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nosso tempo passou. Este mundo é seu agora. Proteja-o e desfrute dele como nós teríamos feito.
+    </text>
+    <text name="ko1900_160" id="284178008" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Cuide-se, Sonic.
+      Venha me visitar de vez em quando.
+    </text>
+    <text name="ko1900_170" id="284178135" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Já fiz tudo o que podia para ajudá-lo, Sonic.
+      Ficarei no Sonho Digital observando a sua jornada.
+      Vá e nos deixe orgulhosos, Jovem.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

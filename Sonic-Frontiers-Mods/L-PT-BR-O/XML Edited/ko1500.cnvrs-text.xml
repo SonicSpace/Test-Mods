@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ko1500_010" id="1524695256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Finalmente nos encontramos, Sonic the Hedgehog.
+    </text>
+    <text name="ko1500_020" id="1524695383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Prazer em conhecê-lo.
+    </text>
+    <text name="ko1500_030" id="1524695510" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Assim como os Kocos, você teve contato com o Sonho Digital. Ao contrário da maioria, eu sei como escutá-lo e ouvir alguns dos segredos que ele guarda.
+    </text>
+    <text name="ko1500_040" id="1524695637" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Porém, para ouvi-lo direito, tenho que ficar sozinho no meu canto. Pode me chamar de Eremita, se quiser. É o caminho que escolhi.
+    </text>
+    <text name="ko1500_041" id="1524695638" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Encontrou alguma Semente na sua jornada?
+    </text>
+    <text name="ko1500_042" id="1524695639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tá falando dessas coisas que os robôs às vezes deixam pra trás?
+    </text>
+    <text name="ko1500_043" id="1524695640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Exato! Liberarei o poder delas e o repassarei para você.
+    </text>
+    <text name="ko1500_044" id="1524695641" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Traga-me mais Sementes e você terá mais poder em troca.
+    </text>
+    <text name="ko1500_045" id="1524695642" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sementes de Potência permitem que você ataque com mais força.
+      Sementes de Defesa aumentam a sua resistência.
+    </text>
+    <text name="ko1500_046" id="1524695643" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Isso é bem bacana. E você também é, Eremita!
+    </text>
+    <text name="ko1500_047" id="1524695644" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, haha! É tudo graças aos sussurros do Sonho Digital que eu escuto.
+    </text>
+    <text name="ko1500_048" id="1524695645" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm?
+    </text>
+    <text name="ko1500_050" id="1524695764" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Parece que você encontrou aquele meu irmão velho e preguiçoso. Ele despertou um grande poder dentro de você. E ainda tem muito mais para explorar.
+    </text>
+    <text name="ko1500_060" id="1524695891" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas eu posso ajudar a equilibrar melhor essa energia. O que acha?
+    </text>
+    <text name="ko1500_070" id="1524696018" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Qualquer ajuda é Bem-Vinda!s
+    </text>
+    <text name="ko1500_080" id="1524696145" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu esperei e escutei por tanto tempo...
+      O que deseja que eu faça?
+    </text>
+    <text name="ko1500_090" id="1524696272" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm...
+      Você tem muito potencial inexplorado, mas não consigo alcançá-lo. 
+    </text>
+    <text name="ko1500_100" id="1524711258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Que coisa. Sabe de alguém que consiga?
+    </text>
+    <text name="ko1500_110" id="1524711385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hã... infelizmente, sim. Procure meu irmão, o Koco Ancestral.
+    </text>
+    <text name="ko1500_120" id="1524711512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ele vai conseguir liberar a sua força interior. 
+    </text>
+    <text name="ko1500_130" id="1524711639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Depois, volte aqui para eu verificar se ele fez tudo direito!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

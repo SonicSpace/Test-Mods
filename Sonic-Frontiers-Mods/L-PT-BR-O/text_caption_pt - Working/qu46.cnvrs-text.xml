@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="qu4610_010" id="2342948309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Esmeralda número seis! Lá vamos nós!
+    </text>
+    <text name="qu4610_020" id="2342948436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então... você tinha dito que eu não tinha nenhuma chance de vencer.
+      Já mudou de ideia?
+    </text>
+    <text name="qu4610_030" id="2342948563" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não. Mas... também não fiz uma simulação com as nossas circunstâncias atuais.
+    </text>
+    <text name="qu4610_040" id="2342948690" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah sim, então tá dizendo que pode ter uma chance?
+    </text>
+    <text name="qu4610_050" id="2342948817" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estou dizendo que estamos em uma situação desesperadora.
+      O perigo que enfrentamos é inconcebível.
+    </text>
+    <text name="qu4610_060" id="2342948944" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei, se tiver pelo menos um por cento de chance de eu transformar esse seu desespero em esperança,
+      não vou decepcionar.
+    </text>
+    <text name="qu4600_010" id="3664317270" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tem uma Esmeralda do Caos ali dentro.
+      É preciso usar o seu poder para resgatá-la.
+    </text>
+    <text name="qu4600_020" id="3664317397" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Primeiro, a gente tem que abrir aquela porta.
+    </text>
+    <text name="qu4600_030" id="3664317524" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não tem problema você estar aqui? Achei que era pra você estar cuidando
+      do Eggman enquanto ele ajuda a procurar as esmeraldas.
+    </text>
+    <text name="qu4600_040" id="3664317651" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estarei ao lado dele quando ele precisar de mim.
+    </text>
+    <text name="qu4600_050" id="3664317778" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Por ora, temos que manter o foco na nossa missão. Use seu poder para iniciar o sistema. Rápido.
+      Nosso tempo é curto.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

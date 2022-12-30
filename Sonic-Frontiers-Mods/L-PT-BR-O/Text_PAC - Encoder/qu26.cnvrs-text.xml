@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="qu2600_010" id="833848408" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic! Olha isso aqui.
+    </text>
+    <text name="qu2600_020" id="833848535" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que esse maquinário antigo não estava ativo antes. Alguma ideia do que mudou?
+    </text>
+    <text name="qu2600_030" id="833848662" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aconteceu uma coisa parecida na última ilha. Vamos chamar de uma pequena "Intervenção Divina".
+    </text>
+    <text name="qu2600_040" id="833848789" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Se eu solucionar o código dessa trava, o caminho até o Titã voador deve se abrir.
+    </text>
+    <text name="qu2600_050" id="833848916" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Espera, Sonic. Ainda falta uma Esmeralda do Caos, não é? Aquela coisa vai te estraçalhar.
+    </text>
+    <text name="qu2600_060" id="833849043" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O último Titã estava com a Esmeralda restante. Aposto que vai ser a mesma coisa aqui.
+    </text>
+    <text name="qu2600_070" id="833849170" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas, primeiro, preciso resolver esse esquema. Vejamos...
+      as pedras e os encaixes parecem ter cores correspondentes...
+    </text>
+    <text name="qu2610_010" id="3807446743" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hm. Você conseguiu. Bom trabalho.
+    </text>
+    <text name="qu2610_020" id="3807446870" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E você ainda duvidava?
+      Pronto pra ir contra todas as probabilidades?
+    </text>
+    <text name="qu2610_030" id="3807446997" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ha! Já lidamos com coisa pior.
+      Vamos lá! Tenta manter o ritmo!
+    </text>
+    <text name="qu2610_040" id="3807447124" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Opa, peraí! Essa frase é minha!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
