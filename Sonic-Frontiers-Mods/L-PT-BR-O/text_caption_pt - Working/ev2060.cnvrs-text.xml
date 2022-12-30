@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev2060_010" id="595651417" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Meu Pai tinha razão! Você é irresponsável e destrutivo!
+    </text>
+    <text name="ev2060_020" id="595651544" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sei lá qual é o seu problema, mas se a gente pudesse conversar...
+    </text>
+    <text name="ev2060_030" id="595651671" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      NÃO! Sem discursos, sem negociações, apenas eliminação!
+    </text>
+    <text name="ev2060_040" id="595651798" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2060_050" id="595651925" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Opa, opa, OPA! Calma ai!
+    </text>
+    <text name="ev2060_060" id="595652052" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Calma"? Ela te atacou!
+    </text>
+    <text name="ev2060_070" id="595652179" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sim, ela faz essas coisas.
+    </text>
+    <text name="ev2060_080" id="595652306" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas ela tá tentando proteger alguma coisa... ou alguém.
+    </text>
+    <text name="ev2060_090" id="595652433" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu estou disposto a ajudar, mas antes eu tenho que saber o que tá acontecendo.
+    </text>
+    <text name="ev2060_100" id="595667419" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não! Você não sabe do que está falando!
+    </text>
+    <text name="ev2060_110" id="595667546" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você é muito inocente, Sonic.
+    </text>
+    <text name="ev2060_120" id="595667673" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Confia em mim, Não sou, não.
+    </text>
+    <text name="ev2060_130" id="595667800" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev2900_010" id="1437696360" font="Range_FNT" layout="Range_LAY">
+      Fale com o Knuckles
+    </text>
+    <text name="ev2900_020" id="1437696487" font="Range_FNT" layout="Range_LAY">
+      Encontre o Knuckles
+    </text>
+    <text name="ev2900_030" id="1437696614" font="Range_FNT" layout="Range_LAY">
+      Obtenha a Esmeralda do Caos
+    </text>
+    <text name="ev2900_040" id="1437696741" font="Range_FNT" layout="Range_LAY">
+      Colete Chaves de Cofre de Portais
+    </text>
+    <text name="ev2900_050" id="1437696868" font="Range_FNT" layout="Range_LAY">
+      Entre na Caverna
+    </text>
+    <text name="ev2900_070" id="1437697122" font="Range_FNT" layout="Range_LAY">
+      Resolva o Quebra-Cabeça
+    </text>
+    <text name="ev2900_080" id="1437697249" font="Range_FNT" layout="Range_LAY">
+      Colete itens Mnemônicos do Knuckles
+    </text>
+    <text name="ev2900_090" id="1437697376" font="Range_FNT" layout="Range_LAY">
+      Procure pelos Amigos
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

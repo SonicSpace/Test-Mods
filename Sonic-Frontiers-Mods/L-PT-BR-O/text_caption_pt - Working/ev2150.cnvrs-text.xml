@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev2150_010" id="1606886875" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eles... se foram. Ele o matou.
+    </text>
+    <text name="ev2150_020" id="1606887002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nada mau. Teria acabado mais rápido se eu estivesse de "Super Knuckles", mas até que você se saiu bem.
+    </text>
+    <text name="ev2150_030" id="1606887129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, fique se iludindo.
+    </text>
+    <text name="ev2150_040" id="1606887256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tenho mais um robô Titã pra enfrentar. Espero que eu encontre o Tails também. Tô preocupado com ele.
+    </text>
+    <text name="ev2150_050" id="1606887383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ele vai ficar bem. Agora vai logo e trata de salvar o mundo.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

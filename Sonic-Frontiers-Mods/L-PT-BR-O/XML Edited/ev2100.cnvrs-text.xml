@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev2100_010" id="3918764384" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2100_020" id="3918764511" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aí, o robô bateu nele outra vez!
+    </text>
+    <text name="ev2100_030" id="3918764638" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2100_040" id="3918764765" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estou ansioso para ouvir seus relatórios de batalha quando chegarmos em casa.
+    </text>
+    <text name="ev2100_050" id="3918764892" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Casa?
+    </text>
+    <text name="ev2100_060" id="3918765019" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vou integrá-la ao meu sistema e deixá-la responsável pela EggNet! Você vai coordenar todos os meus robôs.
+    </text>
+    <text name="ev2100_070" id="3918765146" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vai ser uma mudança agradável em relação ao Orbot e ao Cubot.
+    </text>
+    <text name="ev2100_080" id="3918765273" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      São suas criações, assim como eu. Isso não faria deles meus... irmãos?
+    </text>
+    <text name="ev2100_090" id="3918765400" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm. É provável.
+    </text>
+    <text name="ev2100_100" id="3918780386" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+       Estou ansiosa para isso.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

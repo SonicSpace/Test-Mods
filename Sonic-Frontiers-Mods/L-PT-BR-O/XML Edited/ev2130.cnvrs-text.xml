@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev2130_010" id="4249624797" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Esse é o lugar?
+    </text>
+    <text name="ev2130_020" id="4249624924" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aí, Knux.
+    </text>
+    <text name="ev2130_030" id="4249625051" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic, isso... isso aqui parece as ruínas da nossa terra. E se o povo dessas ilhas sobreviveu
+      e se restabeleceu na Ilha dos Anjos?
+    </text>
+    <text name="ev2130_040" id="4249625178" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Daí esse seria um baita achado.
+    </text>
+    <text name="ev2130_050" id="4249625305" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2130_060" id="4249625432" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Esse som não é nada promissor.
+    </text>
+    <text name="ev2130_070" id="4249625559" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eles vão atacar o abrigo! 
+    </text>
+    <text name="ev2130_080" id="4249625686" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não posso... não posso perder...
+    </text>
+    <text name="ev2130_090" id="4249625813" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A gente dá conta, amigo. Tô aqui pra ajudar.
+    </text>
+    <text name="ev2130_100" id="4249640799" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Obrigado, Sonic.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
