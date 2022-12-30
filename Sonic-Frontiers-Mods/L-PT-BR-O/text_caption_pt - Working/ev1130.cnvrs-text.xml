@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev1130_010" id="686906718" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estou ampliando o alcance do meu controle, mas ainda só consigo comandar algumas relíquias Anciãs
+      de cada vez.
+    </text>
+    <text name="ev1130_020" id="686906845" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Admirável, mas que tal achar um jeito de me tirar desta dimensão digital?
+    </text>
+    <text name="ev1130_030" id="686906972" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Realizei um milhão e setecentas mil e cinquenta simulações. Não existe um cenário
+      em que você seja removido do Ciberespaço em segurança.
+    </text>
+    <text name="ev1130_040" id="686907099" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Inaceitável! Continue procurando! Esta deve ser a sua prioridade!
+    </text>
+    <text name="ev1130_050" id="686907226" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas... mantê-lo em segurança é a minha prioridade...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

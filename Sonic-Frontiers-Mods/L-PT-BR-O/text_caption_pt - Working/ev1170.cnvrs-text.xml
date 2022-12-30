@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev1170_010" id="3991365466" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não! Vamos achar outro jeito!
+    </text>
+    <text name="ev1170_020" id="3991365593" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O primeiro selo foi rompido. Vosso próximo inimigo aguarda na ilha lacerada pela areia.
+    </text>
+    <text name="ev1170_030" id="3991365720" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, é. Você disse "Titãs" antes. No plural.
+    </text>
+    <text name="ev1170_040" id="3991365847" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Droga.
+    </text>
+    <text name="ev1170_050" id="3991365974" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que isso só vai acabar quando eu derrotar todos os robozões. Foi mal, Amy.
+    </text>
+    <text name="ev1170_060" id="3991366101" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tô me sentindo mais como eu mesma, tá funcionando. Continua e não me deixa esperando.
+    </text>
+    <text name="ev1170_070" id="3991366228" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vou voltar tão rápido que não vai dar tempo nem de ler a sorte. Falou!
+    </text>
+    <text name="ev1170_075" id="3991366233" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vou voltar tão rápido que nem vai dar tempo de ler a sorte. Falou!
+    </text>
+    <text name="ev1170_076" id="3991366234" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vou voltar tão rápido que nem vai dar tempo de ler a sorte. Falou!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

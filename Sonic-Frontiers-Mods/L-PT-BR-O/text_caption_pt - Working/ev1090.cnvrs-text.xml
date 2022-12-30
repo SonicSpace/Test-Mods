@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev1090_010" id="1658761047" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você de novo?
+    </text>
+    <text name="ev1090_020" id="1658761174" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Entregue-se. Sua irresponsabilidade põe o mundo em risco.
+    </text>
+    <text name="ev1090_030" id="1658761301" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei, e por que salvar meus amigos seria algo negativo?
+    </text>
+    <text name="ev1090_040" id="1658761428" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você é um combatente inimigo. Não compartilharei dados com você.
+    </text>
+    <text name="ev1090_050" id="1658761555" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Qual é o seu problema? O Sonic nunca colocaria ninguém em risco! Ele vai até ajudar essa Koco
+      a reencontrar o verdadeiro amor da vida dela!
+    </text>
+    <text name="ev1090_060" id="1658761682" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Amor". Um estado emocional de definição vaga e variável demais.
+    </text>
+    <text name="ev1090_070" id="1658761809" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      ARGH! É impossível ajudar dois ignorantes como vocês!
+    </text>
+    <text name="ev1090_080" id="1658761936" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Quem... o que era aquela menina?
+    </text>
+    <text name="ev1090_090" id="1658762063" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Além de ser uma chata? Não faço ideia.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
