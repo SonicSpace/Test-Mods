@@ -5,7 +5,7 @@
       Volume Principal
     </text>
     <text name="menu_map_releaserate" id="40411268" font="Range_FNT" layout="Range_LAY">
-      Mapeado
+      Descoberto
     </text>
     <text name="menu_map_percent" id="41719106" font="Range_FNT" layout="Range_LAY">
       %
@@ -222,7 +222,7 @@
       Retorna à tela do menu principal
     </text>
     <text name="menu_btnguide_selector_off" id="1231816590" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sair da seleção de mapa
+      Sair da Seleção de Mapa
     </text>
     <text name="menu_cmn_system_mtips" id="1236108016" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Recomeça ou sai da fase/objetivo
@@ -313,7 +313,7 @@
       Exibição das Legendas
     </text>
     <text name="menu_mapicon_knuckles" id="1755320650" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_knuckles" /> <image name="exchara_micon_sage" /> História secundária
+      <image name="exchara_micon_knuckles" /> <image name="exchara_micon_sage" /> História Secundária
     </text>
     <text name="menu_cmn_op1_gameconfig_mtips" id="1785761156" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Ajusta as configurações do jogo
@@ -368,7 +368,7 @@
     </text>
     <text name="menu_field_save_mtips_Xbox" id="1965970474" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op1ke_camD2A_mtips" id="1987350778" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para Pessoas que não conhecem os jogos de sonic.
+      Recomendado para pessoas que não conhecem os jogos de Sonic.
     </text>
     <text name="menu_mapicon_spana" id="2019084813" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_spana" /> Item Mnemônico
@@ -377,10 +377,10 @@
       Sim!
     </text>
     <text name="menu_btnguide_skip" id="2028299646" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Pular
+      Pular Cenass
     </text>
     <text name="menu_field_skill_mtips" id="2049702930" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Adquire Habilidades
+      Adquirir Novas Habilidades Para o Sonic
     </text>
     <text name="menu_cmn_choice_normal" id="2130057866" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Normal
@@ -414,7 +414,7 @@
       Define a velocidade inicial
     </text>
     <text name="menu_mapicon_tails" id="2248632505" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_tails" /> <image name="exchara_micon_sage" /> História secundária
+      <image name="exchara_micon_tails" /> <image name="exchara_micon_sage" /> História Secundária
     </text>
     <text name="menu_cmn_op1ga_boostTS_mtips" id="2274141784" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Define a velocidade boost dos giros
@@ -554,7 +554,7 @@
     </text>
     <text name="menu_field_save_mtips_Switch" id="2861834315" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_autosave" id="2866396103" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Automático
+      SISTEMA
     </text>
     <text name="menu_cmn_op3gr_quality_mtips_pc" id="2867920490" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Escolha a qualidade dos gráficos para um conjunto de configurações
@@ -732,10 +732,10 @@
       Ângulo da Câmera
     </text>
     <text name="menu_cmn_op1ke_camD1H" id="3604814844" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Velocidade
+      Modo Alta Velocidade
     </text>
     <text name="menu_cmn_op1ke_camD2A" id="3604814964" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Ação
+      Modo Ação
     </text>
     <text name="menu_cmn_op1ga_training_mtips" id="3624986256" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Treine enquanto o jogo carregue
