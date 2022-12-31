@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="extra_Initial_Xbox" id="215959869" />
+    <text name="extra_notice_event" id="325126402" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Aviso: Cenas
+    </text>
+    <text name="extra_item_1_choice_1" id="495685310" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Luvas e Sapatos do Aventureiro
+    </text>
+    <text name="extra_item_1_choice_2" id="495685311" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Rathalos
+    </text>
+    <text name="extra_item_1_choice_3" id="495685312" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Rathalos Felyno
+    </text>
+    <text name="extra_item_1_choice_7" id="495685316" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Luvas e Sapatos do Sonic Colaboração Inugami Korone
+    </text>
+    <text name="extra_item_1_choice_8" id="495685317" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Sapatos do Sonic Adventure 2
+    </text>
+    <text name="extra_item_1_choice_9" id="495685318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Boas Festas - 2022
+    </text>
+    <text name="extra_Initial_detail_PC" id="810760887" />
+    <text name="extra_item_1" id="1034028148" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Visuais do Sonic
+    </text>
+    <text name="extra_item_2" id="1034028149" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Aparência do Koco
+    </text>
+    <text name="extra_item_3" id="1034028150" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Efeitos Sonoros
+    </text>
+    <text name="extra_item_4" id="1034028151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Caixa de Tesouro de Aventureiro
+    </text>
+    <text name="extra_item_5" id="1034028152" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Caixa de Tesouro de Explorador
+    </text>
+    <text name="extra_item_7" id="1034028154" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Expressão do Sonic com Koco
+    </text>
+    <text name="extra_item_2_choice_2" id="1208128318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Visual de Koco "Koronesuki" Colaboração Inugami Korone
+    </text>
+    <text name="extra_detail_PC" id="1347013586">
+      Agora você pode acessar os cosméticos adquiridos pelo menu DLC's
+    </text>
+    <text name="extra_Initial_PC" id="1396162973" />
+    <text name="extra_item_3_choice_1" id="1920571324" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Efeitos Sonoros Colaboração Inugami Korone
+    </text>
+    <text name="extra_detail_Xbox" id="2054446706">
+      Agora você pode acessar os cosméticos adquiridos pelo menu DLC's
+    </text>
+    <text name="extra_item_5_detail" id="2067412056" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Caixa de Tesouro de Explorador resgatada.
+      Itens mnemônicos, engrenagens de portal e chaves de cofre de Esmeralda Chaos estão disponíveis.
+    </text>
+    <text name="extra_Initial_detail" id="2112010011" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Restaurar todo o conteúdo em Extras?
+    </text>
+    <text name="extra_item_7_mtips" id="2241324800" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Animações adicionais para o estado inativo de Sonic
+    </text>
+    <text name="extra_check_detail" id="2388262135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Instale "Caixa de Tesouro de Aventureiro" e "Caixa de Tesouro de Explorador" antes de começar um novo jogo. Note que o conteúdo não será validado se for instalado após concluir o tutorial.
+    </text>
+    <text name="extra_item_5_mtips" id="2861591806" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Itens mnemônicos extras, engrenagens de portal e chaves de cofre de Esmeralda Chaos serão desbloqueados no final do tutorial.  
+    </text>
+    <text name="extra_Initial_detail_Xbox" id="2898798679" />
+    <text name="extra_item_4_mtips" id="3171725309" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Tenha um início vantajoso com Pontos de Habilidade, Sementes de Potência Vermelhas e Sementes de Defesa Azuis!
+    </text>
+    <text name="extra_Initial_detail_Switch" id="3177514872" />
+    <text name="extra_btnguide_Initial" id="3258851700" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Restaurar
+    </text>
+    <text name="extra_Initial_Switch" id="3465855582" />
+    <text name="extra_item_3_mtips" id="3481858812" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Trocar Efeitos Sonoros
+    </text>
+    <text name="extra_adapted" id="3586602834" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      DLC Instalado
+    </text>
+    <text name="extra_detail" id="3769236864" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Agora você pode acessar o DLC adquirido pelo menu DLC's
+    </text>
+    <text name="extra_item_2_mtips" id="3791992315" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Trocar a Aparência do Koco
+    </text>
+    <text name="extra_notice_event_detail" id="3858141902" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Alguns visuais não aparecerão em certas cenas
+    </text>
+    <text name="extra_detail_Switch" id="3965837971">
+      Agora você pode acessar os cosméticos adquiridos pelo menu DLC's
+    </text>
+    <text name="extra_item_0_choice_0" id="4078209598" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Padrão
+    </text>
+    <text name="extra_item_1_mtips" id="4102125818" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Trocar o Visual do Sonic
+    </text>
+    <text name="extra_Initial" id="4200257333" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Restaurar conteúdo em DLC's
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_textbox">
+      <typeface>RANGEmixStd</typeface>
+      <size>34</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_menuitem">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_mtips">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_textbox">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_menuitem">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_mtips">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
