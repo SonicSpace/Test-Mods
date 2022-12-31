@@ -268,7 +268,7 @@
       Define se a câmera redefine sua posição em certos locais do jogo
     </text>
     <text name="menu_cmn_sys3_giveup" id="1474522410" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Sair
+      Sair da fase
     </text>
     <text name="menu_cmn_op3gr_speedm_mtips" id="1489100937" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita a exibição do velocímetro
@@ -331,7 +331,7 @@
       Combo Automático
     </text>
     <text name="menu_cmn_sys3_giveup_mtips" id="1815297968" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Sai da fase e volta para o jogo
+      Sai da fase e volta para a Zona Aberta
     </text>
     <text name="menu_cmn_op1ga_turn_mtips" id="1827822611" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Define a resistência da direção
@@ -502,7 +502,7 @@
       Trocar de Mapa
     </text>
     <text name="menu_cmn_sys3_giveup2" id="2580752392" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Sair
+      Sair da fase
     </text>
     <text name="menu_cmn_choice_hard_mtips" id="2584523892" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Recomendado para quem deseja batalhas desafiadoras e passar dos limites.
@@ -720,7 +720,7 @@
       Monitor <var name="monitor_num" />
     </text>
     <text name="menu_cmn_sys3_giveup2_mtips" id="3501383822" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Sai do objetivo e volta ao jogo
+      Sai do objetivo e volta para a Zona Aberta
     </text>
     <text name="menu_cmn_op2so_voice_mtips" id="3514525803" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Ajusta o volume da dublagem
@@ -754,7 +754,7 @@
     </text>
     <text name="menu_field_save_mtips_PC" id="3645077898" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_title_choice_continue" id="3733174942" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
-      Continuar o Jogo
+      Continuar a fase
     </text>
     <text name="menu_cmn_op3gr_Ccursor_mtips" id="3736910434" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita a exibição do cursor do jogo
