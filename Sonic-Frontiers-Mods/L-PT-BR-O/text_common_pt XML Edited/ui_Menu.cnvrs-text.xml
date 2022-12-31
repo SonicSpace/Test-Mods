@@ -14,13 +14,13 @@
       Inverter
     </text>
     <text name="menu_cmn_op3gr_antialiasing_mtips" id="53829495" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha o tipo de Anti-aliasing
+      Escolha o Tipo de Anti-aliasing
     </text>
     <text name="menu_field_save" id="54145346" font="Range_FNT_tablv1" layout="Range_LAY_tablv1">
       Salvar
     </text>
     <text name="menu_cmn_op3gr_compass_mtips" id="114323035" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou desabilita a exibição da bússola
+      Habilita ou Desabilita a Exibição da Bússola
     </text>
     <text name="menu_cmn_op3gr_volumetric" id="177415151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Iluminação Volumétrica
@@ -65,7 +65,7 @@
       Velocidade Máxima
     </text>
     <text name="menu_cmn_op2_sound_mtips" id="500839788" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o volume de diferentes Configurações Sonoras
+      Ajusta o Volume de Diferentes Configurações Sonoras
     </text>
     <text name="menu_cmn_op3gr_bloom" id="525497190" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Bloom
@@ -92,7 +92,7 @@
       Treino Durante Carregamento
     </text>
     <text name="menu_cmn_op1ga_bumpjump_mtips" id="696868410" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a altura dos saltos em Terrenos Irregulares
+      Define a Altura dos Pulos em Terrenos Irregulares
     </text>
     <text name="menu_cmn_op1ke_vibration_PC" id="711080336" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_cmn_op4la_subtitle" id="723613738" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
@@ -120,7 +120,7 @@
       Requisito de acesso: +<var name="Ekey_num" /> <image name="exchara_skill_Ekey" />
     </text>
     <text name="menu_cmn_option_headtips" id="769885959" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Algumas alterações não serão refletidas em certas situações
+      Algumas Alterações Não Serão Refletidas em Certas Situações
     </text>
     <text name="menu_cmn_op3gr_combo" id="791753073" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição de Combo
@@ -144,7 +144,7 @@
       <image name="exchara_micon_fish" /> Ponto de Pesca
     </text>
     <text name="menu_cmn_nodata" id="840661958" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Sem dados
+      Sem Dados
     </text>
     <text name="menu_cmn_op1ke_camD1H_mtips_Switch" id="842788497" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Recomendado para pessoas acostumadas com os Títulos de Sonic.
@@ -174,7 +174,7 @@
       Sim
     </text>
     <text name="menu_btnguide_notapply" id="980890490" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Descartar Alterações
+      Descartar Alterações Feitas
     </text>
     <text name="menu_cmn_op1ke_vibration_Switch" id="993776721" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Vibração HD
@@ -192,7 +192,7 @@
       Exibição de Pontos de Habilidade
     </text>
     <text name="menu_cmn_op1ga_load" id="1057219606" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Treino durante Carregamento/Fim de Jogo
+      Treino durante o Loading
     </text>
     <text name="menu_cmn_op1ga_turn" id="1073705613" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Sensibilidade da Direção
@@ -201,13 +201,13 @@
       Restaurar Configurações Padrão
     </text>
     <text name="menu_cmn_sys1_continue2" id="1087918315" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Continuar o objetivo
+      Continuar o Objetivo
     </text>
     <text name="menu_field_sa1_save" id="1128272734" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Salvar
     </text>
     <text name="menu_cmn_op1ga_load_mtips_ps5" id="1134416495" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se há treino em uma Tela de Espera ou após um Fim de Jogo
+      Define se há Treino em uma Tela de Espera ou após um Fim de Jogo
     </text>
     <text name="menu_title_choice_arcade" id="1137910567" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Modo Fliperama
@@ -260,12 +260,12 @@
       Menu Principal
     </text>
     <text name="menu_cmn_op3gr_vsync" id="1447922548" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      VSync
+      Sincronização Vertical
     </text>
     <text name="menu_field_save_PC" id="1467333392" font="Range_FNT_tablv1" layout="Range_LAY_tablv1" />
     <text name="menu_cmn_op1ke_vibration_Xbox" id="1468960304" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_cmn_op1ke_camAT_mtips" id="1473414008" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se a Câmera Redefine sua posição em certos locais do Jogo
+      Define se a Câmera Redefine sua Posição em Certos Locais do Jogo
     </text>
     <text name="menu_cmn_sys3_giveup" id="1474522410" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Sair
@@ -289,7 +289,7 @@
       Reiniciar
     </text>
     <text name="menu_cmn_op4la_text" id="1621000447" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Texto da IU
+      Texto da Interface
     </text>
     <text name="menu_cmn_op1ke_camV_mtips" id="1626002429" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Define se a Câmera Vertical Fica Normal ou Invertida
@@ -322,10 +322,10 @@
       Resolução
     </text>
     <text name="menu_cmn_choice_easy_mtips" id="1792076683" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para quem deseja um foco maior na história.
+      Recomendado Para Quem Deseja um Foco Maior na História.
     </text>
     <text name="menu_cmn_op1ke_camD2A_mtips_Switch" id="1796930073" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para pessoas que não conhecem os Títulos de Sonic.
+      Recomendado Para Pessoas Que Não Conhecem os Títulos de Sonic.
     </text>
     <text name="menu_cmn_op1ke_Acombo" id="1811772861" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Combo Automático
@@ -368,13 +368,13 @@
     </text>
     <text name="menu_field_save_mtips_Xbox" id="1965970474" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op1ke_camD2A_mtips" id="1987350778" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para pessoas que não conhecem os Jogos de Sonic.
+      Recomendado Para Pessoas Que Não Conhecem os Jogos de Sonic.
     </text>
     <text name="menu_mapicon_spana" id="2019084813" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_spana" /> Item Mnemônico
     </text>
     <text name="menu_btnguide_quit" id="2024364174" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sair
+      Sim!
     </text>
     <text name="menu_btnguide_skip" id="2028299646" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Pular
@@ -430,7 +430,7 @@
       Exibição do Velocímetro
     </text>
     <text name="menu_cmn_choice_100p" id="2354899906" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      100%
+      100% (Padrão)
     </text>
     <text name="menu_title_choice_manual" id="2356715037" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Manual do Usuário
@@ -505,7 +505,7 @@
       Sair
     </text>
     <text name="menu_cmn_choice_hard_mtips" id="2584523892" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para quem deseja Batalhas Desafiadoras e Passar dos Limites.
+      Recomendado Para Quem Deseja Batalhas Desafiadoras e Passar dos Limites.
     </text>
     <text name="menu_cmn_op1_keyconfig" id="2590327543" font="Range_FNT_tablv2" layout="Range_LAY_tablv2">
       Controles
@@ -535,12 +535,12 @@
       Ir para o Treinamento
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips2" id="2770975649" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Neste jogo, você pode escolher o Nível de Dificuldade das Batalhas.
-      Você também pode alterar o nível de Dificuldade durante o Jogo.
+      Neste jogo, Você Pode Escolher o Nível de Dificuldade das Batalhas.
+      Você Também pode Alterar o Nível de Dificuldade durante o Jogo.
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips3" id="2770975650" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Permite selecionar o Melhor Estilo de Jogo para Você.
-      Você pode acessar as Opções para Personalizar o Estilo de Jogo sempre que quiser.
+      Permite Selecionar o Melhor Estilo de Jogo para Você.
+      Você Pode Acessar as Opções para Personalizar o Estilo de Jogo sempre que quiser.
     </text>
     <text name="menu_btnguide_marker_off" id="2776568329" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Remover Marcador de Local
@@ -569,7 +569,7 @@
       Exibição de Itens
     </text>
     <text name="menu_cmn_op3gr_antialiasing" id="2904138225" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Suavização
+      Antisserrilhado
     </text>
     <text name="menu_cmn_sys3_giveup_mtips2" id="2909575298" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Sai da Fase e Volta para o Menu de Seleção
@@ -687,28 +687,28 @@
       Altera o Idioma da Dublagem
     </text>
     <text name="menu_title_choice_excontents" id="3446621124" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
-      Extras
+      DLC's
     </text>
     <text name="menu_mapicon_fast_0" id="3448393239" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Viagem rápida
+      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Viagem Rápida
     </text>
     <text name="menu_mapicon_fast_1" id="3448393240" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_fish" /> Viagem rápida
+      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_fish" /> Viagem Rápida
     </text>
     <text name="menu_mapicon_fast_2" id="3448393241" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Viagem rápida
+      <image name="exchara_micon_portal" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Viagem Rápida
     </text>
     <text name="menu_mapicon_fast_3" id="3448393242" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_fish" /> Viagem rápida
+      <image name="exchara_micon_portal" /><image name="exchara_micon_fish" /> Viagem Rápida
     </text>
     <text name="menu_mapicon_fast_4" id="3448393243" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /> Viagem rápida
+      <image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /> Viagem Rápida
     </text>
     <text name="menu_mapicon_fast_5" id="3448393244" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_hermit" /> Viagem rápida
+      <image name="exchara_micon_hermit" /> Viagem Rápida
     </text>
     <text name="menu_mapicon_fast_6" id="3448393245" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_elder" /> Viagem rápida
+      <image name="exchara_micon_elder" /> Viagem Rápida
     </text>
     <text name="menu_cmn_op3_graphics" id="3464244403" font="Range_FNT_tablv2" layout="Range_LAY_tablv2">
       Gráficos
@@ -732,7 +732,7 @@
       Ângulo da Câmera
     </text>
     <text name="menu_cmn_op1ke_camD1H" id="3604814844" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Alta Velocidade
+      Velocidade
     </text>
     <text name="menu_cmn_op1ke_camD2A" id="3604814964" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Ação
@@ -890,7 +890,7 @@
     </font>
     <font name="Range_FNT_mtips">
       <typeface>RANGEmixStd</typeface>
-      <size>30</size>
+      <size>32</size>
       <lineSpacing>8</lineSpacing>
       <unknown1>1067450368</unknown1>
       <unknown2>2</unknown2>

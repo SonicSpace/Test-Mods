@@ -2,25 +2,25 @@
 <cnvrsText>
   <sheet name="pt" index="9">
     <text name="menu_keyconfig_mtips" id="304999207" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Pressione a tecla (botão) que deseja atribuir. Use ESC para voltar às Configurações.
+      Pressione a Tecla (botão) que deseja Atribuir. Use ESC para Voltar às Configurações Padrão.
     </text>
     <text name="keyconfig_ui_01" id="316436238" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      IU: Mover mira para cima
+      IU: Mover Mira para Cima
     </text>
     <text name="keyconfig_ui_02" id="316436239" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      IU: Mover mira para baixo
+      IU: Mover Mira para Baixo
     </text>
     <text name="keyconfig_ui_03" id="316436240" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      IU: Mover mira para a esquerda
+      IU: Mover Mira para a Esquerda
     </text>
     <text name="keyconfig_ui_04" id="316436241" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      IU: Mover mira para a direita
+      IU: Mover Mira para a Direita
     </text>
     <text name="keyconfig_ui_05" id="316436242" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      IU: Aba à esquerda
+      IU: Aba à Esquerda
     </text>
     <text name="keyconfig_ui_06" id="316436243" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      IU: Aba à direita
+      IU: Aba à Direita
     </text>
     <text name="keyconfig_ui_07" id="316436244" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       IU: Confirmar
@@ -45,28 +45,28 @@
       placeholder
     </text>
     <text name="keyconfig_action_01" id="743030668" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Mover câmera para cima
+      ATO: Mover Câmera para Cima
     </text>
     <text name="keyconfig_action_02" id="743030669" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Mover câmera para baixo
+      ATO: Mover Câmera para Baixo
     </text>
     <text name="keyconfig_action_03" id="743030670" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Mover câmera para a esquerda
+      ATO: Mover Câmera para a Esquerda
     </text>
     <text name="keyconfig_action_04" id="743030671" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Mover câmera para a direita
+      ATO: Mover Câmera para a Direita
     </text>
     <text name="keyconfig_action_05" id="743030672" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Andar para frente
+      ATO: Andar para Frente
     </text>
     <text name="keyconfig_action_06" id="743030673" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Andar para trás
+      ATO: Andar para Trás
     </text>
     <text name="keyconfig_action_07" id="743030674" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Andar para a esquerda
+      ATO: Andar para a Esquerda
     </text>
     <text name="keyconfig_action_08" id="743030675" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Andar para a direita
+      ATO: Andar para a Direita
     </text>
     <text name="keyconfig_action_09" id="743030676" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       ATO: Deslocamento Rápido (esquerda)
@@ -93,13 +93,13 @@
       ATO: Explosão Sônica
     </text>
     <text name="keyconfig_action_17" id="743030801" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Travar a mira
+      ATO: Travar a Mira
     </text>
     <text name="keyconfig_action_18" id="743030802" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       ATO: CyberEspaço
     </text>
     <text name="keyconfig_action_19" id="743030803" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Parar caça-níqueis
+      ATO: Parar Caça-Níqueis
     </text>
     <text name="keyconfig_action_20" id="743030921" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       ATO: Menu de Pausa
@@ -111,7 +111,7 @@
       ATO: Arrancada Suave
     </text>
     <text name="keyconfig_action_23" id="743030924" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ATO: Exibir tutorial de novo
+      ATO: Exibir Tutorial de Novo
     </text>
     <text name="keyconfig_action_24" id="743030925" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       ATO:
@@ -120,13 +120,13 @@
       ATO:
     </text>
     <text name="notice_keyconfig_nochange" id="799397206" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Voltar sem alterar as configurações?
+      Voltar Sem Alterar as Configurações?
     </text>
     <text name="notice_keyconfig_error" id="2043894947" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Um item não foi definido
+      Um Comando não foi Definido
     </text>
     <text name="notice_keyconfig_overwrite" id="3889437958" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Esta tecla (botão) já está atribuída. Deseja prosseguir com as configurações atuais?
+      Esta Tecla (botão) Já está Atribuída. Deseja Prosseguir com as Configurações Atuais?
     </text>
   </sheet>
   <fonts>
