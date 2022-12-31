@@ -20,7 +20,7 @@
       Salvar
     </text>
     <text name="menu_cmn_op3gr_compass_mtips" id="114323035" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição da Bússola
+      Habilita ou desabilita a exibição da bússola
     </text>
     <text name="menu_cmn_op3gr_volumetric" id="177415151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Iluminação Volumétrica
@@ -292,7 +292,7 @@
       Texto da Interface
     </text>
     <text name="menu_cmn_op1ke_camV_mtips" id="1626002429" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se a câmera vertical fica Normal ou invertida
+      Define se a câmera vertical fica normal ou invertida
     </text>
     <text name="menu_cmn_op3gr_ambient" id="1663148763" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Oclusão do Ambiente
@@ -604,7 +604,7 @@
       Salva ou carrega os saves do jogo, ou retorna à tela do menu principal
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips" id="3079208264" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou desabilita a vibração de ataques feitos pelos NPCS na tela do jogo (Exemplo: Mini Boss Asura)
+      Vibrações de ataques feitos pelos NPCS na tela do jogo (Exemplo: ASURA, GIGANTO)
     </text>
     <text name="menu_cmn_op1ke_camD" id="3102484581" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Distância da Câmera
