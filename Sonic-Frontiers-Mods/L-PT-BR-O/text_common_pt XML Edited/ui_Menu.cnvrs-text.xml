@@ -14,7 +14,7 @@
       Inverter
     </text>
     <text name="menu_cmn_op3gr_antialiasing_mtips" id="53829495" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha o Tipo de Anti-aliasing
+      Escolha o tipo de suavização dos cenários e personagens
     </text>
     <text name="menu_field_save" id="54145346" font="Range_FNT_tablv1" layout="Range_LAY_tablv1">
       Salvar
@@ -26,7 +26,7 @@
       Iluminação Volumétrica
     </text>
     <text name="menu_cmn_op3gr_framerate_mtips" id="189228470" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define o Limite da Taxa de Quadros
+      Define o limite da taxa de quadros
     </text>
     <text name="menu_field_sk1_remove" id="234612335" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Desligar Habilidade
@@ -38,52 +38,52 @@
       Qualidade das Sombras
     </text>
     <text name="menu_cmn_sys2_retry_mtips" id="289479503" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomeça do Início
+      Recomeça do início
     </text>
     <text name="menu_cmn_manualsave" id="334285630" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       ESPAÇO <var name="saveslot_num" />
     </text>
     <text name="menu_cmn_op3gr_brightness_mtips" id="376791700" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define o Brilho da Tela
+      Define o brilho da tela
     </text>
     <text name="menu_btnguide_selector_decide" id="390789353" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Ir Para Esta Ilha
+      Ir para Esta ilha
     </text>
     <text name="menu_cmn_op1ga_acceleration" id="405762800" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Aceleração
     </text>
     <text name="menu_cmn_op3gr_quality_mtips" id="426440424" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Qualidade dos Gráficos
+      Define a qualidade dos gráficos
     </text>
     <text name="menu_mapicon_medal" id="435731501" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_medal" /> Item Mnemônico
     </text>
     <text name="menu_cmn_op3gr_resolution_mtips" id="464003951" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Resolução do Jogo
+      Define a resolução do jogo
     </text>
     <text name="menu_cmn_op1ga_maxspeed" id="476444275" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Velocidade Máxima
     </text>
     <text name="menu_cmn_op2_sound_mtips" id="500839788" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o Volume de Diferentes Configurações Sonoras
+      Ajusta o volume de diferentes configurações sonoras
     </text>
     <text name="menu_cmn_op3gr_bloom" id="525497190" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Bloom
     </text>
     <text name="menu_cmn_op1ke_camD1H_mtips" id="548665474" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para pessoas acostumadas com os Jogos de Sonic.
+      Recomendado para pessoas acostumadas com os jogos de Sonic.
     </text>
     <text name="menu_btnguide_pagefeed" id="581137516" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Virar Página
     </text>
     <text name="menu_cmn_op4la_subtitleV_mtips" id="593619378" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita as Legendas nas Cenas
+      Habilita ou desabilita as legendas nas cenas
     </text>
     <text name="menu_cmn_op3gr_rendering_mtips" id="635814645" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Escala de Renderização
+      Define a escala de renderização
     </text>
     <text name="menu_cmn_op3gr_blur_mtips" id="662968330" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita o Efeito de Desfoque
+      Habilita ou desabilita o efeito de desfoque
     </text>
     <text name="menu_cmn_op2so_voice" id="679184101" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Dublagem
@@ -92,17 +92,17 @@
       Treino Durante Carregamento
     </text>
     <text name="menu_cmn_op1ga_bumpjump_mtips" id="696868410" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Altura dos Pulos em Terrenos Irregulares
+      Define a altura dos pulos do Sonic em terrenos irregulares
     </text>
     <text name="menu_cmn_op1ke_vibration_PC" id="711080336" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_cmn_op4la_subtitle" id="723613738" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Legendas
     </text>
     <text name="menu_cmn_op1ga_turnspeed_mtips" id="727810144" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Velocidade dos Giros
+      Define a velocidade dos giros
     </text>
     <text name="menu_cmn_op3gr_plv_mtips" id="736898947" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição de Melhorias
+      Habilita ou desabilita a exibição de melhorias
     </text>
     <text name="menu_cmn_choice_resolution" id="738083823" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       <var name="horizontal" /> x <var name="vertical" />
@@ -114,46 +114,46 @@
       Áudio
     </text>
     <text name="menu_cmn_op1ke_camTS_mtips" id="755714276" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Velocidade de Movimento da Câmera
+      Define a velocidade de movimento da câmera
     </text>
     <text name="menu_mapicon_Ekey" id="767058564" font="Range_FNT_needitem" layout="Range_LAY_needitem">
       Requisito de acesso: +<var name="Ekey_num" /> <image name="exchara_skill_Ekey" />
     </text>
     <text name="menu_cmn_option_headtips" id="769885959" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Algumas Alterações Não Serão Refletidas em Certas Situações
+      Algumas alterações não serão refletidas em certas situações
     </text>
     <text name="menu_cmn_op3gr_combo" id="791753073" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição de Combo
     </text>
     <text name="menu_cmn_op3gr_item_mtips" id="800992918" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição de itens (Rings, Chaves etc.)
+      Habilita ou desabilita a exibição de itens (Rings, Chaves etc.)
     </text>
     <text name="menu_cmn_op2so_se" id="803899775" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Efeitos Sonoros
     </text>
     <text name="menu_cmn_op1ga_boostIV_mtips" id="808548070" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Velocidade Boost Inicial
+      Define a velocidade boost inicial
     </text>
     <text name="menu_mapicon_boss" id="826527959" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_boss" /> Guardião
     </text>
     <text name="menu_cmn_op1ke_gamepad_mtips" id="829952759" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Sensibilidade do Controle
+      Define a sensibilidade do controle
     </text>
     <text name="menu_mapicon_fish" id="834624706" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_fish" /> Ponto de Pesca
     </text>
     <text name="menu_cmn_nodata" id="840661958" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Sem Dados
+      Sem dados
     </text>
     <text name="menu_cmn_op1ke_camD1H_mtips_Switch" id="842788497" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para pessoas acostumadas com os Títulos de Sonic.
+      Recomendado para pessoas acostumadas com os títulos de Sonic.
     </text>
     <text name="menu_cmn_op1_gameconfig" id="849557246" font="Range_FNT_tablv2" layout="Range_LAY_tablv2">
       Configurações
     </text>
     <text name="menu_cmn_op1ke_Acombo_mtips" id="853200707" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ativa ou Desativa o uso de Habilidades nos Combos Automáticos
+      Ativa ou desativa o uso de habilidades nos combos automáticos
     </text>
     <text name="menu_mapicon_safe" id="861122999" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_emerald" /> Cofre da Esmeralda do Caos
@@ -162,7 +162,7 @@
       <image name="exchara_micon_sage" /> Sage
     </text>
     <text name="menu_cmn_op3gr_shadow_mtips" id="881902339" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Qualidade das Sombras
+      Define a qualidade das sombras
     </text>
     <text name="menu_btnguide_elder_shortcut" id="888651866" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ir até o Koco Ancestral
@@ -174,13 +174,13 @@
       Sim
     </text>
     <text name="menu_btnguide_notapply" id="980890490" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Descartar Alterações Feitas
+      Não Salvar Alterações
     </text>
     <text name="menu_cmn_op1ke_vibration_Switch" id="993776721" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Vibração HD
     </text>
     <text name="menu_cmn_op2so_bgm_mtips" id="1028392929" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o Volume da Música
+      Ajusta o volume da música
     </text>
     <text name="menu_cmn_choice_custom" id="1048278164" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Personalizado
@@ -192,7 +192,7 @@
       Exibição de Pontos de Habilidade
     </text>
     <text name="menu_cmn_op1ga_load" id="1057219606" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Treino durante o Loading
+      Treino Durante Carregamento
     </text>
     <text name="menu_cmn_op1ga_turn" id="1073705613" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Sensibilidade da Direção
@@ -207,7 +207,7 @@
       Salvar
     </text>
     <text name="menu_cmn_op1ga_load_mtips_ps5" id="1134416495" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se há Treino em uma Tela de Espera ou após um Fim de Jogo
+      Define se há treino em uma tela de Espera ou após um fim de jogo
     </text>
     <text name="menu_title_choice_arcade" id="1137910567" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Modo Fliperama
@@ -219,32 +219,32 @@
       Velocidade de Giro
     </text>
     <text name="menu_field_sy4_backtitle_mtips" id="1175097313" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Retorna à Tela do Menu Principal
+      Retorna à tela do menu principal
     </text>
     <text name="menu_btnguide_selector_off" id="1231816590" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sair da Seleção de Mapa
+      Sair da seleção de mapa
     </text>
     <text name="menu_cmn_system_mtips" id="1236108016" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomeça ou Sai da Fase/Objetivo
+      Recomeça ou sai da fase/objetivo
     </text>
     <text name="menu_btnguide_exit_practice" id="1240815677" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Sair do Treinamento
     </text>
     <text name="menu_map_Sitem1" id="1251129486" font="Range_FNT_needitem" layout="Range_LAY_needitem">
-      Quantidade Necessária de <image name="exchara_heart" />: <var name="sequence1_num" />
+      Quantidade necessária de <image name="exchara_heart" />: <var name="sequence1_num" />
     </text>
     <text name="menu_map_Sitem2" id="1251129487" font="Range_FNT_needitem" layout="Range_LAY_needitem">
-      Quantidade Necessária de <image name="exchara_medal" />: <var name="sequence2_num" />
+      Quantidade necessária de <image name="exchara_medal" />: <var name="sequence2_num" />
     </text>
     <text name="menu_map_Sitem3" id="1251129488" font="Range_FNT_needitem" layout="Range_LAY_needitem">
-      Quantidade Necessária de <image name="exchara_spanner" />: <var name="sequence3_num" />
+      Quantidade necessária de <image name="exchara_spanner" />: <var name="sequence3_num" />
     </text>
     <text name="menu_cmn_op3gr_compass" id="1276009685" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição da Bússola
     </text>
     <text name="menu_field_sa1_save_Xbox" id="1307177876" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_op_message_01_detail" id="1310021465" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Deseja Salvar as Alterações Feitas?
+      Deseja Salvar as Alterações?
     </text>
     <text name="menu_btnguide_mapzoom_Steam_1" id="1344870835" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ampliar
@@ -265,22 +265,22 @@
     <text name="menu_field_save_PC" id="1467333392" font="Range_FNT_tablv1" layout="Range_LAY_tablv1" />
     <text name="menu_cmn_op1ke_vibration_Xbox" id="1468960304" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_cmn_op1ke_camAT_mtips" id="1473414008" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se a Câmera Redefine sua Posição em Certos Locais do Jogo
+      Define se a câmera redefine sua posição em certos locais do jogo
     </text>
     <text name="menu_cmn_sys3_giveup" id="1474522410" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Sair
     </text>
     <text name="menu_cmn_op3gr_speedm_mtips" id="1489100937" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição do Velocímetro
+      Habilita ou desabilita a exibição do velocímetro
     </text>
     <text name="menu_cmn_op1ke_mouse" id="1508809429" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Sensibilidade do Mouse
     </text>
     <text name="menu_cmn_op3gr_reflection_mtips" id="1533662318" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha uma Configuração para a Reflexão Local
+      Escolha uma configuração para a reflexão local
     </text>
     <text name="menu_cmn_op1ke_mouse_mtips" id="1551281243" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Sensibilidade do Mouse
+      Define a sensibilidade do mouse
     </text>
     <text name="menu_cmn_choice_window" id="1553434355" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Modo Janela
@@ -292,22 +292,22 @@
       Texto da Interface
     </text>
     <text name="menu_cmn_op1ke_camV_mtips" id="1626002429" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se a Câmera Vertical Fica Normal ou Invertida
+      Define se a câmera vertical fica Normal ou invertida
     </text>
     <text name="menu_cmn_op3gr_ambient" id="1663148763" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Oclusão do Ambiente
     </text>
     <text name="menu_cmn_op1ke_camH_mtips" id="1672904175" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se a Câmera Horizontal fica Normal ou Invertida
+      Define se a câmera horizontal fica normal ou invertida
     </text>
     <text name="menu_cmn_op3gr_framerate" id="1695098160" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Limite da Taxa de Quadros
     </text>
     <text name="menu_cmn_op3gr_screen_mtips" id="1696177263" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define como o Jogo será Exibido
+      Define como o jogo será exibido
     </text>
     <text name="menu_cmn_op1ga_maxspeed_mtips" id="1701555705" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Velocidade Máxima (ajustes podem não refletir as melhorias)
+      Define a velocidade máxima (ajustes podem não refletir as melhorias)
     </text>
     <text name="menu_cmn_op4la_subtitleV" id="1704631596" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição das Legendas
@@ -316,34 +316,34 @@
       <image name="exchara_micon_knuckles" /> <image name="exchara_micon_sage" /> História secundária
     </text>
     <text name="menu_cmn_op1_gameconfig_mtips" id="1785761156" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta as Configurações do Jogo
+      Ajusta as configurações do jogo
     </text>
     <text name="menu_cmn_op3gr_resolution" id="1789808105" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Resolução
     </text>
     <text name="menu_cmn_choice_easy_mtips" id="1792076683" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado Para Quem Deseja um Foco Maior na História.
+      Recomendado para quem deseja um foco maior na história.
     </text>
     <text name="menu_cmn_op1ke_camD2A_mtips_Switch" id="1796930073" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado Para Pessoas Que Não Conhecem os Títulos de Sonic.
+      Recomendado para Pessoas que não conhecem os títulos de Sonic.
     </text>
     <text name="menu_cmn_op1ke_Acombo" id="1811772861" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Combo Automático
     </text>
     <text name="menu_cmn_sys3_giveup_mtips" id="1815297968" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Sai da Fase e Volta para o Jogo
+      Sai da fase e volta para o jogo
     </text>
     <text name="menu_cmn_op1ga_turn_mtips" id="1827822611" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Resistência da Direção
+      Define a resistência da direção
     </text>
     <text name="menu_mapicon_hermit" id="1844073933" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_hermit" /> Koco Eremita
     </text>
     <text name="menu_cmn_op1ga_load_ps5" id="1846661097" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Treinar Enquanto Espera ou após o Fim do Jogo
+      Treinar enquanto espera ou após o fim do jogo
     </text>
     <text name="menu_cmn_option_mtips" id="1849223766" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta Diversas Configurações do Jogo
+      Ajusta diversas configurações do jogo
     </text>
     <text name="menu_cmn_choice_middle" id="1861737848" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Média
@@ -368,7 +368,7 @@
     </text>
     <text name="menu_field_save_mtips_Xbox" id="1965970474" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op1ke_camD2A_mtips" id="1987350778" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado Para Pessoas Que Não Conhecem os Jogos de Sonic.
+      Recomendado para Pessoas que não conhecem os jogos de sonic.
     </text>
     <text name="menu_mapicon_spana" id="2019084813" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_spana" /> Item Mnemônico
@@ -404,26 +404,26 @@
       TAA
     </text>
     <text name="menu_cmn_op3_graphics_mtips" id="2152670265" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Configurações de Gráfico e Desempenho
+      Configurações de gráfico e desempenho
     </text>
     <text name="menu_cmn_op1ke_camAoV_mtips" id="2161029967" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o Ângulo da Câmera
+      Ajusta o angulo da câmera
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips_PC" id="2165602314" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op1ga_initialvelocity_mtips" id="2174723159" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Velocidade Inicial
+      Define a velocidade inicial
     </text>
     <text name="menu_mapicon_tails" id="2248632505" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_tails" /> <image name="exchara_micon_sage" /> História secundária
     </text>
     <text name="menu_cmn_op1ga_boostTS_mtips" id="2274141784" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Velocidade Boost dos Giros
+      Define a velocidade boost dos giros
     </text>
     <text name="menu_cmn_op3gr_skillp_mtips" id="2281177730" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição dos Pontos de Habilidade
+      Habilita ou desabilita a exibição dos pontos de habilidade
     </text>
     <text name="menu_cmn_op1ke_gamepad_mtips2" id="2324785339" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Sensibilidade da Câmera quando estiver usando um Controle
+      Define a sensibilidade da câmera quando estiver usando um controle
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips_Xbox" id="2342572714" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op3gr_speedm" id="2345130243" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
@@ -439,7 +439,7 @@
       Predefinição do Gráfico
     </text>
     <text name="menu_cmn_op1ga_acceleration_mtips" id="2400482166" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Aceleração
+      Define a aceleração
     </text>
     <text name="menu_cmn_op3gr_plv" id="2457835005" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição de Melhorias
@@ -463,7 +463,7 @@
       Alta
     </text>
     <text name="menu_cmn_op3gr_notification_mtips" id="2470791790" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita as Notificações Enquanto Você Explora as Ilhas
+      Habilita ou desabilita as notificações enquanto você explora as ilhas
     </text>
     <text name="menu_cmn_choice_near" id="2480712331" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Perto
@@ -472,13 +472,13 @@
       Nenhum
     </text>
     <text name="menu_cmn_op4_language_mtips" id="2481846501" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Altera o Idioma de Texto e Dublagem
+      Altera o idioma de texto e dublagem
     </text>
     <text name="menu_cmn_sys1_continue_mtips" id="2543636045" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Fecha o Menu e Retorna ao Jogo
+      Fecha o menu e retorna ao jogo
     </text>
     <text name="menu_cmn_sys1_continue" id="2544964295" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Continuar
+      Continuar o Jogo
     </text>
     <text name="menu_title_choice_right" id="2553023589" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Direitos Autorais
@@ -496,7 +496,7 @@
       Controle
     </text>
     <text name="menu_cmn_op3gr_monitor_mtips" id="2564110083" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define Qual Monitor Exibirá o Jogo
+      Define qual monitor exibirá o jogo
     </text>
     <text name="menu_btnguide_selector_on" id="2579916000" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Trocar de Mapa
@@ -505,7 +505,7 @@
       Sair
     </text>
     <text name="menu_cmn_choice_hard_mtips" id="2584523892" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado Para Quem Deseja Batalhas Desafiadoras e Passar dos Limites.
+      Recomendado para quem deseja batalhas desafiadoras e passar dos limites.
     </text>
     <text name="menu_cmn_op1_keyconfig" id="2590327543" font="Range_FNT_tablv2" layout="Range_LAY_tablv2">
       Controles
@@ -523,7 +523,7 @@
       Monitor
     </text>
     <text name="menu_cmn_op1ga_load_mtips" id="2716070556" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se há Treino em uma Tela de Carregamento ou após um Fim de Jogo
+      Define se há treino em uma tela de carregamento ou após um fim de jogo
     </text>
     <text name="menu_map_Ppiece" id="2718748129" font="Range_FNT_needitem" layout="Range_LAY_needitem">
       Requisito de acesso: <var name="Ppiece_num" /> x <image name="exchara_portalkey" />
@@ -535,18 +535,18 @@
       Ir para o Treinamento
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips2" id="2770975649" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Neste jogo, Você Pode Escolher o Nível de Dificuldade das Batalhas.
-      Você Também pode Alterar o Nível de Dificuldade durante o Jogo.
+      Neste jogo, você Pode escolher o nível de dificuldade das batalhas.
+      Você também pode alterar o nível de dificuldade durante o jogo.
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips3" id="2770975650" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Permite Selecionar o Melhor Estilo de Jogo para Você.
-      Você Pode Acessar as Opções para Personalizar o Estilo de Jogo sempre que quiser.
+      Permite selecionar o melhor estilo de jogo para você.
+      Você pode acessar as opções para personalizar o estilo de jogo sempre que quiser.
     </text>
     <text name="menu_btnguide_marker_off" id="2776568329" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Remover Marcador de Local
     </text>
     <text name="menu_cmn_op1ke_ScamAT_mtips" id="2785628357" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se a Câmera Gira automaticamente na Direção dos Movimentos de Sonic
+      Define se a câmera gira automaticamente na direção dos movimentos de Sonic
     </text>
     <text name="menu_field_sa2_load_mtips_Xbox" id="2835679334" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_btnguide_mapreset" id="2855556882" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
@@ -554,10 +554,10 @@
     </text>
     <text name="menu_field_save_mtips_Switch" id="2861834315" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_autosave" id="2866396103" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      SAVE AUTOMÁTICO
+      Automático
     </text>
     <text name="menu_cmn_op3gr_quality_mtips_pc" id="2867920490" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha a Qualidade dos Gráficos para um Conjunto de Configurações
+      Escolha a qualidade dos gráficos para um conjunto de configurações
     </text>
     <text name="menu_cmn_op3gr_blur" id="2878722948" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Desfoque
@@ -572,13 +572,13 @@
       Antisserrilhado
     </text>
     <text name="menu_cmn_sys3_giveup_mtips2" id="2909575298" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Sai da Fase e Volta para o Menu de Seleção
+      Sai da fase e volta para o menu de seleção
     </text>
     <text name="menu_cmn_op1ke_camD_mtips" id="2913438187" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Distância da Câmera
+      Define a distância da câmera
     </text>
     <text name="menu_cmn_op4la_subtitle_mtips" id="2928691888" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Altera o Idioma do Texto da Interface de Usuário
+      Altera o idioma do texto da interface de usuário
     </text>
     <text name="menu_cmn_op1ke_difficulty" id="2933022091" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Dificuldade
@@ -588,23 +588,23 @@
       Peixepédia
     </text>
     <text name="menu_cmn_sys2_retry2_mtips" id="2995967087" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomeça o Objetivo
+      Recomeça o objetivo
     </text>
     <text name="menu_cmn_op1ke_soli_mtips" id="3005818767" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define se Sonic pode se Mover ao Comentar sobre os Arredores
+      Define se Sonic pode se mover ao comentar sobre os arredores
     </text>
     <text name="menu_cmn_op2so_se_mtips" id="3030654213" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o Volume dos Efeitos Sonoros
+      Ajusta o volume dos efeitos sonoros
     </text>
     <text name="menu_field_sa2_load_mtips_Switch" id="3032848519" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op3gr_quality" id="3055996002" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Qualidade dos Gráficos
     </text>
     <text name="menu_field_save_mtips" id="3063397320" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Salva ou Carrega os Saves do Jogo, ou Retorna à Tela do Menu Principal
+      Salva ou carrega os saves do jogo, ou retorna à tela do menu principal
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips" id="3079208264" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Vibração de NPCS na Tela do Jogo
+      Habilita ou desabilita a vibração de ataques feitos pelos NPCS na tela do jogo (Exemplo: Mini Boss Asura)
     </text>
     <text name="menu_cmn_op1ke_camD" id="3102484581" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Distância da Câmera
@@ -616,19 +616,19 @@
       Eixo Y da Câmera
     </text>
     <text name="menu_cmn_op1_keyconfig_mtips" id="3128192637" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Altera as Configurações de Controle
+      Altera as configurações de controle
     </text>
     <text name="menu_cmn_op1ke_soli" id="3135484425" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Restringir Movimentação durante Monólogo
+      Movimentação Durante Monólogo
     </text>
     <text name="menu_cmn_op3gr_ambient_mtips" id="3148358241" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Oclusão do Ambiente
+      Define a oclusão do ambiente
     </text>
     <text name="menu_cmn_op3gr_brightness" id="3149609998" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Brilho da Tela
     </text>
     <text name="menu_cmn_op1ke_camAT" id="3173517554" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Redefinição Automática da Posição da Câmera
+      Redefinição Automática da Câmera
     </text>
     <text name="menu_cmn_op1ke_camTS" id="3173519966" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Velocidade da Câmera
@@ -637,7 +637,7 @@
       Altura do Pulo do Sonic
     </text>
     <text name="menu_btnguide_portalshortcut" id="3190732657" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Ir para este Portal
+      Ir Para Este Portal
     </text>
     <text name="menu_cmn_datadate" id="3199567539" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       <var name="date_day" />/<var name="date_month" />/<var name="date_year" /> <var name="date_hour" />
@@ -646,29 +646,29 @@
       Registros de Voz
     </text>
     <text name="menu_field_sa2_load_mtips" id="3214766476" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Carrega os Saves e Restaura a Instância Anterior
+      Carrega os saves e restaura a instância anterior
     </text>
     <text name="menu_title_choice_ps45" id="3228931355" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
-      Transferir Saves salvos do PlayStation®4
+      Transferir saves salvos do PlayStation®4
     </text>
     <text name="menu_title_choice_quit" id="3231018790" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Sair do Jogo
     </text>
     <text name="menu_cmn_op3gr_volumetric_mtips" id="3231803253" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha uma Configuração para a Iluminação Volumétrica
+      Escolha uma configuração para a iluminação volumétrica
     </text>
     <text name="menu_cmn_choice_30fps" id="3240705001" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       30 FPS
     </text>
     <text name="menu_cmn_op1ga_training_ps5" id="3257513949" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Treine Enquanto o Jogo Carregue
+      Treine enquanto o jogo carregue
     </text>
     <text name="menu_field_save_Switch" id="3280754129" font="Range_FNT_tablv1" layout="Range_LAY_tablv1" />
     <text name="menu_cmn_op3gr_screen" id="3284846313" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Modo de Tela
     </text>
     <text name="menu_cmn_op3gr_vsync_mtips" id="3302490106" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha uma configuração para o Tearing
+      Sincroniza a taxa de quadros de um jogo com a taxa de atualização de um monitor.
     </text>
     <text name="menu_cmn_op2so_bgm" id="3310749787" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Música
@@ -678,7 +678,7 @@
       Exibição do Cursor do Jogo
     </text>
     <text name="menu_op_message_01" id="3427098103" font="Range_FNT" layout="Range_LAY">
-      Alterar Configurações
+      Configurações do Jogo
     </text>
     <text name="menu_mapicon_heart" id="3429929372" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_heart" /> Item Mnemônico
@@ -720,13 +720,13 @@
       Monitor <var name="monitor_num" />
     </text>
     <text name="menu_cmn_sys3_giveup2_mtips" id="3501383822" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Sai do Objetivo e Volta ao jogo
+      Sai do objetivo e volta ao jogo
     </text>
     <text name="menu_cmn_op2so_voice_mtips" id="3514525803" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o Volume da Dublagem
+      Ajusta o volume da dublagem
     </text>
     <text name="menu_cmn_op1ga_training_mtips_ps5" id="3553680995" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Treine Enquanto o Jogo Carregue
+      Treine enquanto o jogo carregue
     </text>
     <text name="menu_cmn_op1ke_camAoV" id="3604774345" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Ângulo da Câmera
@@ -738,10 +738,10 @@
       Ação
     </text>
     <text name="menu_cmn_op1ga_training_mtips" id="3624986256" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Treine Enquanto o Jogo Carregue
+      Treine enquanto o jogo carregue
     </text>
     <text name="menu_cmn_op3gr_combo_mtips" id="3636358903" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição de Combos
+      Habilita ou desabilita a exibição de combos
     </text>
     <text name="menu_title_choice_manual_mtips1" id="3643210254" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Acesse a seguinte URL para ler o manual online de Sonic Frontiers:
@@ -754,16 +754,16 @@
     </text>
     <text name="menu_field_save_mtips_PC" id="3645077898" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_title_choice_continue" id="3733174942" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
-      Continuar
+      Continuar o Jogo
     </text>
     <text name="menu_cmn_op3gr_Ccursor_mtips" id="3736910434" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição do Cursor do Jogo
+      Habilita ou desabilita a exibição do cursor do jogo
     </text>
     <text name="menu_cmn_op3gr_goal_mtips" id="3737022102" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Exibição de Objetivos
+      Habilita ou desabilita a exibição de objetivos
     </text>
     <text name="menu_cmn_op1ke_mouse_mtips2" id="3739189591" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Define a Sensibilidade da Câmera Quando Estiver Usando o Mouse
+      Define a sensibilidade da câmera quando estiver usando o mouse
     </text>
     <text name="menu_field_sk1_release" id="3744997468" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Desbloquear Habilidade
@@ -781,13 +781,13 @@
       Tentar Novamente o Objetivo
     </text>
     <text name="menu_btnguide_apply" id="3813702767" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Aplicar Alterações Feitas
+      Salvar Alterações
     </text>
     <text name="menu_btnguide_hermit_shortcut" id="3890217411" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ir até o Koco Eremita
     </text>
     <text name="menu_cmn_op3gr_bloom_mtips" id="3891302892" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Escolha uma Configuração para o Bloom
+      Escolha uma configuração para o bloom
     </text>
     <text name="menu_cmn_choice_fullscreen" id="3911675902" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Tela Cheia
@@ -808,7 +808,7 @@
       Fechar
     </text>
     <text name="menu_cmn_op4la_text_mtips" id="3918632069" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Altera o Idioma do Texto da Interface de Usuário
+      Altera o idioma do texto da interface de usuário
     </text>
     <text name="menu_cmn_op3gr_reflection" id="3921525736" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Reflexão Local
@@ -817,13 +817,13 @@
       Todos os Ícones
     </text>
     <text name="menu_mapicon_emy" id="3963337127" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_emy" /> <image name="exchara_micon_sage" /> História secundária
+      <image name="exchara_micon_emy" /> <image name="exchara_micon_sage" /> História Secundária
     </text>
     <text name="menu_cmn_choice_borderless" id="3986808840" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Tela Cheia (Janela)
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips_Switch" id="3995606731" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou Desabilita a Vibração HD
+      Habilita ou desabilita a Vibração HD
     </text>
     <text name="menu_btnguide_no" id="3998180736" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Não
@@ -847,14 +847,14 @@
       Opções
     </text>
     <text name="menu_cmn_choice_normal_mtips" id="4117089552" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomendado para quem deseja um Equilíbrio entre a História e os Inimigos Desafiadores.
+      Recomendado para quem deseja um equilíbrio entre a história e os inimigos desafiadores.
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips" id="4181511441" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Altera o Nível de Dificuldade
+      Altera o nível de dificuldade
     </text>
     <text name="menu_field_sa1_save_PC" id="4197319412" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_cmn_op2so_master_mtips" id="4207514389" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ajusta o Volume Geral do Jogo
+      Ajusta o volume geral do jogo
     </text>
     <text name="menu_cmn_choice_normal2" id="4229376680" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Normal

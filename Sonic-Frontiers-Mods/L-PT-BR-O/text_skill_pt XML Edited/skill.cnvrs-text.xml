@@ -87,7 +87,7 @@
       Pancada Fatal
     </text>
     <text name="skill_15_name" id="1896021592" font="Range_FNT_skillname" layout="Range_LAY_skillname">
-      Combo automático
+      Combo Automático
     </text>
     <text name="skill_28_name" id="1916748502" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
     <text name="skill_16_command" id="1988470751" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />

@@ -2,38 +2,38 @@
 <cnvrsText>
   <sheet name="pt" index="9">
     <text name="notice_save_unfound" id="8721998" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Saves não Encontrados.
-      Voltando à tela do Menu Principal.
+      Saves não encontrados.
+      Voltando à tela do menu principal.
     </text>
     <text name="notice_liveitem_00" id="30418297">
       Site Oficial
     </text>
     <text name="notice_liveitem_01" id="30418298">
-      Manual online
+      Manual Online
     </text>
     <text name="notice_liveitem_02" id="30418299">
       Pesquisa
     </text>
     <text name="menu_btnguide_ENDdifficulty" id="275797559" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Altera o Nível de Dificuldade
+      Altera o nível de dificuldade
     </text>
     <text name="notice_save_battle_Xbox" id="295215199" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_header_battle_Switch" id="440620080" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
     <text name="notice_save_auto_Switch" id="474724713" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_task_tit_00" id="490265331">
-      Derrote GIGANTO
+      Derrote o GIGANTO
     </text>
     <text name="notice_task_tit_01" id="490265332">
-      Derrote WYVERN
+      Derrote o WYVERN
     </text>
     <text name="notice_task_tit_02" id="490265333">
-      Derrote KNIGHT
+      Derrote o KNIGHT
     </text>
     <text name="notice_task_tit_03" id="490265334">
-      Derrote SUPREME
+      Derrote o SUPREME
     </text>
     <text name="notice_task_tit_04" id="490265335">
-      Derrote THE END
+      Derrote o THE END
     </text>
     <text name="notice_task_help_00" id="505721675">
       Chegue ao Topo das Torres da Ilha e Desligue os Despositivos
@@ -48,15 +48,15 @@
     </text>
     <text name="notice_save_auto_PC" id="603475624" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_displayset" id="656043879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      As Configurações de Renderização foram Alteradas.
-      Deseja Salvá-las?
-      As Configurações Voltam às Predefinições Padrão em <var name="rendering_sec" />.
+      As Configurações foram alteradas.
+      Deseja salvá-las?
+      As configurações voltam às predefinições padrão em <var name="rendering_sec" />.
     </text>
     <text name="notice_save_battle" id="717761299" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Salvar ou Carregar Saves não ficaram disponíveis quando Sonic estiver em uma batalha, resolvendo quebra-cabeças, jogando mini-games e nas cenas que Sonic não está no controle.
+      Salvar ou carregar saves não ficaram disponíveis quando Sonic estiver em uma batalha, resolvendo quebra-cabeças, jogando mini-games e nas cenas que Sonic não está no controle.
     </text>
     <text name="error_disconnect_controller_pc" id="727590474">
-      O Controle ou Teclado foi Desconectado. Confira a Conexão.
+      O controle ou teclado foi desconectado. Confira a conexão.
     </text>
     <text name="notice_header_error" id="762637821" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
       Erro do Sistema
@@ -67,7 +67,7 @@
     <text name="notice_save_auto_Xbox" id="1079348040" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_save_battle_PC" id="1134672575" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="ErrorwindowText_5" id="1300377115" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Não há Armazenamento Local Suficiente. Libere Espaço e Tente de Novo.
+      Não há armazenamento no disco suficiente. Por favor, libere espaço e tente de novo.
     </text>
     <text name="notice_displayset_header" id="1310078597" font="Range_FNT_toast" layout="Range_LAY_toast">
       Configurações de Tela
@@ -76,15 +76,15 @@
       Alterar a Dificuldade
     </text>
     <text name="XBOX_con_active" id="1391052367" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Pressione o Botão A no Controle que deseja usar.
+      Pressione o botão A no controle que deseja usar.
     </text>
     <text name="notice_header_battle_PC" id="1435957103" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
     <text name="error_disconnect_controller_xbox" id="1472487626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Seu Controle foi Desconectado.
-      Reconecte o Controle.
+      Seu Controle foi desconectado.
+      Reconecte o controle.
     </text>
     <text name="notice_playgo_header" id="1515577321" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Cópia dos Saves em Andamento
+      Cópia dos dados em andamento...
     </text>
     <text name="notice_save_battle_Switch" id="1874818944" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_header_message" id="1878982908" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
@@ -95,20 +95,19 @@
     </text>
     <text name="notice_header_battle_Xbox" id="2105355535" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
     <text name="notice_ENDdifficulty_detail" id="2364183169" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Se Alterar a Dificuldade, não haverá a batalha com THE END.
-      Deseja Mesmo Alterar a Dificuldade?
+      Se alterar a dificuldade, não haverá a batalha com THE END.
+      Deseja mesmo fazer essas alterações na dificuldade?
     </text>
     <text name="notice_save_auto" id="2541107626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Este Jogo Possui Salvamento Automático.
-      Não desligue seu Hardware enquanto o ícone de "Salvamento" Estiver Em Exibição.
-      Caso Contrário, os Dados Salvos podem ficar Corrompidos/Inacessiveis.
+      Este jogo possui salvamento automático. Não desligue seu Hardware enquanto o ícone de "Salvamento" estiver em exibição.
+      Caso contrário, os dados do seu jogo podem ficar corrompidos/inacessiveis.s
     </text>
     <text name="notice_playgo_detail" id="2544957261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Aguarde até que a Cópia dos Dados Seja Concluída
+      Aguarde até que a cópia dos dados seja concluída
       Progresso: <var name="copy_progress" />%
     </text>
     <text name="SecondaryActivityAll" id="2649127134">
-      Reinicie a Partir da Seção Atual.
+      Reinicie a partir da seção atual.
     </text>
     <text name="notice_error_0" id="2681308626" font="Range_FNT_notice" layout="Range_LAY_notice" />
     <text name="notice_task_help_01_Xbox" id="2822907558">
@@ -129,7 +128,7 @@
     </text>
     <text name="notice_save_unfound_Switch" id="3999537861" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="ErrorwindowHead_5" id="4224531886" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
-      Armazenamento Local Insuficiente
+      Armazenamento no disco insuficientes
     </text>
   </sheet>
   <fonts>

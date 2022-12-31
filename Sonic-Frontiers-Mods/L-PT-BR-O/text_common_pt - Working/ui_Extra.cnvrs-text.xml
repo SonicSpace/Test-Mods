@@ -3,7 +3,7 @@
   <sheet name="pt" index="9">
     <text name="extra_Initial_Xbox" id="215959869" />
     <text name="extra_notice_event" id="325126402" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
-      Aviso: Cenas
+      Aviso: cenas
     </text>
     <text name="extra_item_1_choice_1" id="495685310" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Luvas e Sapatos do Aventureiro
@@ -18,10 +18,10 @@
       Luvas e Sapatos do Sonic Colaboração Inugami Korone
     </text>
     <text name="extra_item_1_choice_8" id="495685317" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Sapatos do Sonic Adventure 2
+      Sapatos Sonic Adventure 2
     </text>
     <text name="extra_item_1_choice_9" id="495685318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Boas Festas - 2022
+      Visual Boas Festas
     </text>
     <text name="extra_Initial_detail_PC" id="810760887" />
     <text name="extra_item_1" id="1034028148" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
@@ -31,7 +31,7 @@
       Aparência do Koco
     </text>
     <text name="extra_item_3" id="1034028150" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Efeitos Sonoros
+      Efeitos sonoros
     </text>
     <text name="extra_item_4" id="1034028151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Caixa de Tesouro de Aventureiro
@@ -46,21 +46,21 @@
       Visual de Koco "Koronesuki" Colaboração Inugami Korone
     </text>
     <text name="extra_detail_PC" id="1347013586">
-      Agora você pode acessar os cosméticos adquiridos pelo menu DLC's
+      Agora você pode acessar todos os conteúdos adquiridos através do menu DLC's
     </text>
     <text name="extra_Initial_PC" id="1396162973" />
     <text name="extra_item_3_choice_1" id="1920571324" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Efeitos Sonoros Colaboração Inugami Korone
     </text>
     <text name="extra_detail_Xbox" id="2054446706">
-      Agora você pode acessar os cosméticos adquiridos pelo menu DLC's
+      Agora você pode acessar todos os conteúdos adquiridos através do menu DLC's
     </text>
     <text name="extra_item_5_detail" id="2067412056" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Caixa de Tesouro de Explorador resgatada.
-      Itens mnemônicos, engrenagens de portal e chaves de cofre de Esmeralda Chaos estão disponíveis.
+      Itens mnemônicos, engrenagens de portal e chaves de cofre das Esmeralda do Caos agora estão disponíveis.
     </text>
     <text name="extra_Initial_detail" id="2112010011" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Restaurar todo o conteúdo em Extras?
+      Restaurar todo o conteúdo em DLC's?
     </text>
     <text name="extra_item_7_mtips" id="2241324800" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Animações adicionais para o estado inativo de Sonic
@@ -69,7 +69,7 @@
       Instale "Caixa de Tesouro de Aventureiro" e "Caixa de Tesouro de Explorador" antes de começar um novo jogo. Note que o conteúdo não será validado se for instalado após concluir o tutorial.
     </text>
     <text name="extra_item_5_mtips" id="2861591806" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Itens mnemônicos extras, engrenagens de portal e chaves de cofre de Esmeralda Chaos serão desbloqueados no final do tutorial.  
+      Itens mnemônicos extras, engrenagens de portal e chaves de cofre das Esmeralda do Caos serão desbloqueados no final do tutorial.
     </text>
     <text name="extra_Initial_detail_Xbox" id="2898798679" />
     <text name="extra_item_4_mtips" id="3171725309" font="Range_FNT_mtips" layout="Range_LAY_mtips">
@@ -81,28 +81,28 @@
     </text>
     <text name="extra_Initial_Switch" id="3465855582" />
     <text name="extra_item_3_mtips" id="3481858812" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Trocar Efeitos Sonoros
+      Trocar efeitos sonoros
     </text>
     <text name="extra_adapted" id="3586602834" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      DLC Instalado
+      DLC instalado
     </text>
     <text name="extra_detail" id="3769236864" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Agora você pode acessar o DLC adquirido pelo menu DLC's
+      Agora você pode acessar todos os conteúdos adquiridos através do menu DLC's
     </text>
     <text name="extra_item_2_mtips" id="3791992315" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Trocar a Aparência do Koco
+      Trocar a aparência do Koco
     </text>
     <text name="extra_notice_event_detail" id="3858141902" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Alguns visuais não aparecerão em certas cenas
     </text>
     <text name="extra_detail_Switch" id="3965837971">
-      Agora você pode acessar os cosméticos adquiridos pelo menu DLC's
+      Agora você pode acessar todos os conteúdos adquiridos através do menu DLC's
     </text>
     <text name="extra_item_0_choice_0" id="4078209598" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Padrão
     </text>
     <text name="extra_item_1_mtips" id="4102125818" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Trocar o Visual do Sonic
+      Trocar o visual do Sonic
     </text>
     <text name="extra_Initial" id="4200257333" font="Range_FNT_toast" layout="Range_LAY_toast">
       Restaurar conteúdo em DLC's
