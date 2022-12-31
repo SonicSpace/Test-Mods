@@ -41,7 +41,7 @@
       Recomeça do início
     </text>
     <text name="menu_cmn_manualsave" id="334285630" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      ESPAÇO <var name="saveslot_num" />
+      SAVE <var name="saveslot_num" />
     </text>
     <text name="menu_cmn_op3gr_brightness_mtips" id="376791700" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Define o brilho da tela
@@ -377,7 +377,7 @@
       Sim!
     </text>
     <text name="menu_btnguide_skip" id="2028299646" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Pular Cenass
+      Pular Cenas
     </text>
     <text name="menu_field_skill_mtips" id="2049702930" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Adquirir Novas Habilidades Para o Sonic

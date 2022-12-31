@@ -5,7 +5,7 @@
       PREPARADO?
     </text>
     <text name="toast_trainingroom_complete" id="164217963" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Carregamento Concluído!
+      Concluído!
     </text>
     <text name="toast_quest_clear" id="225724664" font="Range_FNT" layout="Range_LAY">
       SUCESSO!
@@ -69,7 +69,7 @@
       Ganhou <var name="token_num" /> Fichas!
     </text>
     <text name="toast_trainingroom_complete_ps5" id="2736162366" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Carregamento Concluído!
+      Concluído!
     </text>
     <text name="toast_lvup_MaxSpeed" id="2903837125" font="Range_FNT_toast" layout="Range_LAY_toast">
       <image name="exchara_level_speed" />Subiu o nível de Velocidade!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
