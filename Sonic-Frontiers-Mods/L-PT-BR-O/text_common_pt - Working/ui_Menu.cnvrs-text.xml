@@ -5,7 +5,7 @@
       Volume Principal
     </text>
     <text name="menu_map_releaserate" id="40411268" font="Range_FNT" layout="Range_LAY">
-      Ilhas Starfall
+      Progresso do Mapa
     </text>
     <text name="menu_map_percent" id="41719106" font="Range_FNT" layout="Range_LAY">
       %
@@ -47,7 +47,7 @@
       Define o brilho da tela
     </text>
     <text name="menu_btnguide_selector_decide" id="390789353" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Ir Para Esta Ilha
+      Ir para esta Ilha
     </text>
     <text name="menu_cmn_op1ga_acceleration" id="405762800" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Aceleração
@@ -244,7 +244,7 @@
     </text>
     <text name="menu_field_sa1_save_Xbox" id="1307177876" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_op_message_01_detail" id="1310021465" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Mudanças Nas Configurações do Jogo Foram Feitas. Deseja Salvá-las?
+      As configurações do jogo foram alteradas. Deseja Salvá-las?
     </text>
     <text name="menu_btnguide_mapzoom_Steam_1" id="1344870835" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ampliar
@@ -678,7 +678,7 @@
       Exibição do Cursor do Jogo
     </text>
     <text name="menu_op_message_01" id="3427098103" font="Range_FNT" layout="Range_LAY">
-      Configurações do Jogo
+      AVISO!!
     </text>
     <text name="menu_mapicon_heart" id="3429929372" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_heart" /> Item Mnemônico
