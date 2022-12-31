@@ -99,8 +99,9 @@
       Deseja mesmo fazer essas alterações na dificuldade?
     </text>
     <text name="notice_save_auto" id="2541107626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Este jogo possui salvamento automático. Não desligue seu Hardware enquanto o ícone de "Salvamento" estiver em exibição.
-      Caso contrário, os dados do seu jogo podem ficar corrompidos/inacessiveis.s
+      Este jogo possui salvamento automático. 
+      Não desligue seu Hardware enquanto o ícone de "Salvamento" estiver em exibição.
+      Caso contrário, os dados do seu jogo podem ficar corrompidos/inacessiveis.
     </text>
     <text name="notice_playgo_detail" id="2544957261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Aguarde até que a cópia dos dados seja concluída
@@ -128,7 +129,7 @@
     </text>
     <text name="notice_save_unfound_Switch" id="3999537861" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="ErrorwindowHead_5" id="4224531886" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
-      Armazenamento no disco insuficientes
+      Armazenamento no disco insuficiente
     </text>
   </sheet>
   <fonts>

@@ -445,7 +445,7 @@
       Exibição de Melhorias
     </text>
     <text name="menu_cmn_choice_easy" id="2462214661" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Fácil
+      Dificuldade Fácil
     </text>
     <text name="menu_mapicon_portal" id="2464615126" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_portal" /> Portal 
@@ -454,7 +454,7 @@
       FXAA
     </text>
     <text name="menu_cmn_choice_hard" id="2468359662" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Difícil
+      Dificuldade Difícil
     </text>
     <text name="menu_cmn_choice_hd60" id="2468400377" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Modo Desempenho
@@ -535,7 +535,7 @@
       Ir para o Treinamento
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips2" id="2770975649" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Neste jogo, você Pode escolher o nível de dificuldade das batalhas.
+      Neste jogo, você pode escolher o nível de dificuldade das batalhas.
       Você também pode alterar o nível de dificuldade durante o jogo.
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips3" id="2770975650" font="Range_FNT_mtips" layout="Range_LAY_mtips">
@@ -857,7 +857,7 @@
       Ajusta o volume geral do jogo
     </text>
     <text name="menu_cmn_choice_normal2" id="4229376680" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Normal
+      Dificuldade Normal
     </text>
   </sheet>
   <fonts>
