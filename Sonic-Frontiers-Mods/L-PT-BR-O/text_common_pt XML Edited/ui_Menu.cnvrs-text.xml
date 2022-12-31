@@ -377,7 +377,7 @@
       Sim!
     </text>
     <text name="menu_btnguide_skip" id="2028299646" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Pular Cenas
+      Pular Cena
     </text>
     <text name="menu_field_skill_mtips" id="2049702930" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Adquirir Novas Habilidades Para o Sonic
@@ -478,7 +478,7 @@
       Fecha o menu e retorna ao jogo
     </text>
     <text name="menu_cmn_sys1_continue" id="2544964295" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Continuar o Jogo
+      Continuar a fase
     </text>
     <text name="menu_title_choice_right" id="2553023589" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Direitos Autorais
@@ -754,7 +754,7 @@
     </text>
     <text name="menu_field_save_mtips_PC" id="3645077898" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_title_choice_continue" id="3733174942" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
-      Continuar a fase
+      Continuar o Jogo
     </text>
     <text name="menu_cmn_op3gr_Ccursor_mtips" id="3736910434" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita a exibição do cursor do jogo
