@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Corra em volta do inimigo e execute uma série de ondas de choque.
+    </text>
+    <text name="skill_05_command_Steam" id="222808912" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Segure <image name="s_button_attack" /> durante um combo
+    </text>
+    <text name="skill_13_name" id="243792218" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Tiro Teleguiado
+    </text>
+    <text name="skill_26_name" id="264519128" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_12_command" id="308918235" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione <image name="button_right" /> durante um combo
+    </text>
+    <text name="skill_17_explain" id="337832556" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_15_command" id="494840798" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_03_name" id="553925721" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      CyberLoop Rápido
+    </text>
+    <text name="skill_16_name" id="574652631" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_29_name" id="595379541" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_21_explain" id="678430437" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_18_command" id="680763361" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_02_explain" id="747174376" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Siga o comando e execute um ataque poderoso.
+    </text>
+    <text name="skill_13_command_Steam" id="819994829" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Pressione<image name="button_right_trigger" />no ar →<image name="s_button_attack" />no ar
+    </text>
+    <text name="skill_24_explain" id="864353000" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_06_name" id="884786134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Esmagada de Recuperação
+    </text>
+    <text name="skill_19_name" id="905513044" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_05_explain" id="933096939" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Execute um ataque poderoso que desfere múltiplos golpes conforme Sonic sobe.
+    </text>
+    <text name="skill_22_command" id="1021361242" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_27_explain" id="1050275563" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_03_command" id="1090105181" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione <image name="button_top" /> durante um combo
+    </text>
+    <text name="skill_08_explain" id="1119019502" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Um chute em alta velocidade que causa ondas de choque contra o inimigo.
+    </text>
+    <text name="skill_title_unknown_01" id="1187941067" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      ????
+    </text>
+    <text name="skill_25_command" id="1207283805" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_03_command_Steam" id="1209686350" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Pressione <image name="s_button_cyloop" /> durante um combo
+    </text>
+    <text name="skill_09_name" id="1215646547" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Impulso Radical
+    </text>
+    <text name="skill_22_name" id="1255027676" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_06_command" id="1276027744" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione<image name="button_bottom" />quando o comando aparecer
+    </text>
+    <text name="skill_28_command" id="1393206368" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_12_explain" id="1459617383" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Inicie um ataque por cima e pise no inimigo.
+    </text>
+    <text name="skill_09_command" id="1461950307" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione <image name="button_left_shoulder" /> / <image name="button_right_shoulder" /> → <image name="button_left" />
+    </text>
+    <text name="skill_12_name" id="1565161179" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Pisada
+    </text>
+    <text name="skill_25_name" id="1585888089" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_10_command" id="1616625625" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione<image name="button_right_trigger" />no ar →<image name="button_right" />no ar
+    </text>
+    <text name="skill_explain_unknown_01" id="1619053676" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Avance na história para desbloquear.
+    </text>
+    <text name="skill_15_explain" id="1645539946" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Habilidades de combate desbloqueadas são ativadas automaticamente durante os combos, mas o dano causado será reduzido. Após desbloquear alguma, é possível habilitar ou desabilitar o combo automático nas Opções.
+    </text>
+    <text name="skill_13_command" id="1802548188" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione<image name="button_right_trigger" />no ar →<image name="button_left" />no ar
+    </text>
+    <text name="skill_18_explain" id="1831462509" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_02_name" id="1875294682" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Pancada Fatal
+    </text>
+    <text name="skill_15_name" id="1896021592" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Combo automático
+    </text>
+    <text name="skill_28_name" id="1916748502" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_16_command" id="1988470751" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_22_explain" id="2172060390" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_19_command" id="2174393314" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_01_command_Steam" id="2196563788" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Segure <image name="s_button_cyloop" /> em movimento
+    </text>
+    <text name="skill_05_name" id="2206155095" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Chute Ciclone
+    </text>
+    <text name="skill_18_name" id="2226882005" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_03_explain" id="2240804329" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Faça um CyberLoop Rápido em volta do inimigo quando o medidor ficar no máximo e na cor azul. O medidor é preenchido a cada ataque. É possível usá-lo sem interrupção enquanto estiver azul.
+    </text>
+    <text name="skill_20_command" id="2329068632" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_25_explain" id="2357982953" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_01_command" id="2397812571" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Segure <image name="button_top" /> em movimento
+    </text>
+    <text name="skill_06_explain" id="2426726892" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Se Sonic for empurrado por um ataque e executar o comando antes de aterrissar, ele contra-ataca imediatamente com Esmagada de Recuperação.
+    </text>
+    <text name="skill_23_command" id="2514991195" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_08_name" id="2537015508" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Explosão Sônica
+    </text>
+    <text name="skill_28_explain" id="2543905516" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_09_command_Steam" id="2544021332" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Pressione <image name="s_button_qsleft" /> / <image name="s_button_qsright" /> → <image name="s_button_attack" />
+    </text>
+    <text name="skill_21_name" id="2576396637" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_04_command" id="2583735134" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_09_explain" id="2612649455" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Um ataque de alta velocidade em zigue-zague.
+    </text>
+    <text name="skill_26_command" id="2700913758" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Um chute veloz em loop no ar.
+    </text>
+    <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Mova <image name="button_left_stick" /> no ar
+    </text>
+    <text name="skill_11_name" id="2886530140" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Golpe Giratório
+    </text>
+    <text name="skill_29_command" id="2886836321" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_24_name" id="2907257050" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_13_explain" id="2953247336" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Lance uma salva de esferas de energia contra o inimigo.
+    </text>
+    <text name="skill_30_command" id="3041511639" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_11_command" id="3110255578" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione <image name="button_bottom" /> durante um combo
+    </text>
+    <text name="skill_16_explain" id="3139169899" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_01_name" id="3196663643" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      CyberLoop
+    </text>
+    <text name="skill_14_name" id="3217390553" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Golpe Cruzado
+    </text>
+    <text name="skill_27_name" id="3238117463" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_14_command" id="3296178141" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione<image name="button_right_trigger" />no ar →<image name="button_bottom" />no ar
+    </text>
+    <text name="skill_19_explain" id="3325092462" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_20_explain" id="3479767780" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_17_command" id="3482100704" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_04_name" id="3527524056" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Impulso Espectral
+    </text>
+    <text name="skill_17_name" id="3548250966" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_01_explain" id="3548511719" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Corra e deixe um rastro de luz. Após criar um círculo com ele e soltar o botão, é possível ativar diversos efeitos.
+    </text>
+    <text name="skill_30_name" id="3587632095" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_23_explain" id="3665690343" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_04_explain" id="3734434282" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Quando o medidor de combo fica no máximo, o estado de Impulso Espectral é ativado, tornando os ataques 1,2x mais potentes.
+      Este estado dura até o medidor de combo chegar a 0.
+    </text>
+    <text name="skill_21_command" id="3822698585" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_02_command_Steam" id="3850608717" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Pressione<image name="s_button_cyloop" />+<image name="button_right" />quando o comando aparecer
+    </text>
+    <text name="skill_26_explain" id="3851612906" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_07_name" id="3858384469" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Truque Aéreo
+    </text>
+    <text name="skill_02_command" id="3891442524" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Pressione<image name="button_top" />+<image name="button_right" />quando o comando aparecer
+    </text>
+    <text name="skill_20_name" id="3897765598" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_07_explain" id="3920356845" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Sonic pode executar Truques Aéreos se houver faíscas ao seu redor enquanto estiver no ar. Execute Truques Aéreos para ganhar fragmentos de habilidade.
+    </text>
+    <text name="skill_24_command" id="4008621148" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_29_explain" id="4037535469" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_05_command" id="4077365087" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Segure <image name="button_left" /> durante um combo
+    </text>
+    <text name="skill_30_explain" id="4192210787" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_27_command" id="4194543711" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_10_name" id="4207899101" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Chute Giratório
+    </text>
+    <text name="skill_23_name" id="4228626011" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_11_explain" id="4260954726" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Cerque o inimigo com um ataque giratório de múltiplos golpes.
+    </text>
+    <text name="skill_08_command" id="4263287650" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Segure<image name="button_left_trigger" />no ar ou durante um combo
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_skillexp">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillname">
+      <typeface>RANGEmixBld</typeface>
+      <size>34</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillcmd">
+      <typeface>RANGEmixStd</typeface>
+      <size>24</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_skillexp">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_skillname">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_skillcmd">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

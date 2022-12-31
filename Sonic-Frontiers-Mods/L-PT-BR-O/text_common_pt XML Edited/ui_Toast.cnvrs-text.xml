@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="toast_quest_start" id="109396333" font="Range_FNT" layout="Range_LAY">
+      PREPARADO?
+    </text>
+    <text name="toast_trainingroom_complete" id="164217963" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Carregamento Concluído
+    </text>
+    <text name="toast_quest_clear" id="225724664" font="Range_FNT" layout="Range_LAY">
+      SUCESSO!
+    </text>
+    <text name="toast_trainingroom_finish" id="251438053" font="Range_FNT" layout="Range_LAY">
+      ACABOU!
+    </text>
+    <text name="toast_map_hermitscroll" id="285946827" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_hermit" /> Viagem Rápida até o Koco Eremita Agora Está Desbloqueada
+    </text>
+    <text name="toast_map_bothscroll" id="355534409" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_elder" /> <image name="exchara_micon_hermit" /> Viagem Rápida até o Koco Ancestral e o Koco Eremita Agora Estão Desbloqueados
+    </text>
+    <text name="toast_quest_failed" id="374867314" font="Range_FNT" layout="Range_LAY">
+      VOCÊ FALHOU!
+    </text>
+    <text name="toast_use_lightpillar" id="536324624" font="Range_FNT_toast" layout="Range_LAY_toast" />
+    <text name="toast_lvup_power" id="912411555" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_pow" /> Subiu o nível de potência!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_lvup_MaxRing" id="1238175762" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_ring" /> Subiu o Nível de Ring!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_lvup_defense" id="1355895550" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_def" /> Subiu o Nível de Defesa!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_map_elderscroll" id="1739276796" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_elder" /> Viagem Rápida até o Koco Ancestral Agora Está Desbloqueada
+    </text>
+    <text name="toast_fishing_token" id="1813462540" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Ganhou 1 Ficha!
+    </text>
+    <text name="toast_map_fasttravel_portal" id="1935271674" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_portal" /> Viagem Rápida para Todos os Portais Agora Estão Desbloqueados
+    </text>
+    <text name="toast_extra_bonus" id="1937249112" font="Range_FNT_toast" layout="Range_LAY_toast">
+      BÔNUS!! ×<var name="extra_bonus" />
+    </text>
+    <text name="toast_get_lightpillars" id="2213165268" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Obteve <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Chaves de Cofre!
+    </text>
+    <text name="toast_lvup_both" id="2379630051" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_def" /> Subiu o nNível de Defesa!  <var name="prev_level_def" /> <image name="exchara_arrow_right" /> <var name="new_level_def" />   <image name="exchara_level_pow" /> Subiu o Nível de Potência!　 <var name="prev_level_pow" /> <image name="exchara_arrow_right" /> <var name="new_level_pow" /> 
+    </text>
+    <text name="toast_fishing_fishup_1" id="2501299506" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Pescou <var name="fish_name" />!
+    </text>
+    <text name="toast_fishing_fishup_2" id="2501299507" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Boa, Você Pescou <var name="fish_name" />!
+    </text>
+    <text name="toast_fishing_fishup_3" id="2501299508" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Você Fisgou <var name="fish_name" />! Excelente!
+    </text>
+    <text name="toast_fishing_fishup_4" id="2501299509" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Você Fisgou <var name="fish_name" />! Incrível!
+    </text>
+    <text name="toast_lvup_speedtoring" id="2559788784" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_speed" /> Reduziu o Nível de Velocidade <var name="prev_level_speed" />  <image name="exchara_arrow_right" /> <var name="new_level_speed" />　<image name="exchara_level_ring" /> Aumentou o Nível de Ring <var name="prev_level_ring" />  <image name="exchara_arrow_right" /> <var name="new_level_ring" /> 
+    </text>
+    <text name="toast_fishing_tokens" id="2676476007" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Ganhou <var name="token_num" /> Fichas!
+    </text>
+    <text name="toast_trainingroom_complete_ps5" id="2736162366" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Carregamento Concluído
+    </text>
+    <text name="toast_lvup_MaxSpeed" id="2903837125" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_speed" />Subiu o Nível de Velocidade!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_release_safe" id="3248066525" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Um Cofre foi Desbloqueado e Agora pode ser Aberto com as <image name="exchara_skill_Ekey" /> Chaves de Cofre.
+    </text>
+    <text name="toast_trainingroom_ready" id="3284404881" font="Range_FNT" layout="Range_LAY">
+      PREPARADO?
+    </text>
+    <text name="toast_lvup_ringtospeed" id="3356100506" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_ring" /> Reduziu o Nível de Ring <var name="prev_level_ring" />  <image name="exchara_arrow_right" /> <var name="new_level_ring" />　<image name="exchara_level_speed" /> Aumentou o Nível de Velocidade <var name="prev_level_speed" />  <image name="exchara_arrow_right" /> <var name="new_level_speed" />
+    </text>
+    <text name="toast_get_lightpillar_add" id="3371366561" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Concluiu a Missão e Obteve 1 <image name="exchara_skill_Ekey" /> Chave de Cofre Adicional!
+    </text>
+    <text name="toast_use_lightpillars" id="3688717923" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Abriu com <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Chaves de Cofre
+    </text>
+    <text name="toast_get_lightpillar" id="3703658271" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Obteve uma <image name="exchara_skill_Ekey" /> Chave de Cofre!
+    </text>
+    <text name="toast_get_lightpillars_add" id="3865571414" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Concluiu as Missões eOobteve <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Chaves de Cofre Adicionais!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="notice_save_unfound" id="8721998" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Saves não Encontrados.
+      Voltando à tela do Menu Principal.
+    </text>
+    <text name="notice_liveitem_00" id="30418297">
+      Site Oficial
+    </text>
+    <text name="notice_liveitem_01" id="30418298">
+      Manual online
+    </text>
+    <text name="notice_liveitem_02" id="30418299">
+      Pesquisa
+    </text>
+    <text name="menu_btnguide_ENDdifficulty" id="275797559" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Altera o Nível de Dificuldade
+    </text>
+    <text name="notice_save_battle_Xbox" id="295215199" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_header_battle_Switch" id="440620080" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
+    <text name="notice_save_auto_Switch" id="474724713" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_task_tit_00" id="490265331">
+      Derrote GIGANTO
+    </text>
+    <text name="notice_task_tit_01" id="490265332">
+      Derrote WYVERN
+    </text>
+    <text name="notice_task_tit_02" id="490265333">
+      Derrote KNIGHT
+    </text>
+    <text name="notice_task_tit_03" id="490265334">
+      Derrote SUPREME
+    </text>
+    <text name="notice_task_tit_04" id="490265335">
+      Derrote THE END
+    </text>
+    <text name="notice_task_help_00" id="505721675">
+      Chegue ao Topo das Torres da Ilha e Desligue os Despositivos
+    </text>
+    <text name="notice_task_help_01" id="505721676">
+      Mova o controle esquerdo para a esquerda ou direita para controlar o programa
+      do Comandante. Tente não ser atingido pelos projéteis inimigos.
+    </text>
+    <text name="notice_task_help_02" id="505721677">
+      O laser teleguiado pode ser disparado quando o medidor especial estiver no máximo.
+      Caso precise, é possível usá-lo para eliminar projéteis inimigos!
+    </text>
+    <text name="notice_save_auto_PC" id="603475624" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_displayset" id="656043879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      As Configurações de Renderização foram Alteradas.
+      Deseja Salvá-las?
+      As Configurações Voltam às Predefinições Padrão em <var name="rendering_sec" />.
+    </text>
+    <text name="notice_save_battle" id="717761299" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Salvar ou Carregar Saves não ficaram disponíveis quando Sonic estiver em uma batalha, resolvendo quebra-cabeças, jogando mini-games e nas cenas que Sonic não está no controle.
+    </text>
+    <text name="error_disconnect_controller_pc" id="727590474">
+      O Controle ou Teclado foi Desconectado. Confira a Conexão.
+    </text>
+    <text name="notice_header_error" id="762637821" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Erro do Sistema
+    </text>
+    <text name="notice_task_help_01_Steam" id="762957885">
+      É possível mover o programa do Comandante para a esquerda ou direita. Tente não ser atingido pelos projéteis inimigos.
+    </text>
+    <text name="notice_save_auto_Xbox" id="1079348040" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_save_battle_PC" id="1134672575" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="ErrorwindowText_5" id="1300377115" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Não há Armazenamento Local Suficiente. Libere Espaço e Tente de Novo.
+    </text>
+    <text name="notice_displayset_header" id="1310078597" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Configurações de Tela
+    </text>
+    <text name="notice_ENDdifficulty_header" id="1334803229" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Alterar a Dificuldade
+    </text>
+    <text name="XBOX_con_active" id="1391052367" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Pressione o Botão A no Controle que deseja usar.
+    </text>
+    <text name="notice_header_battle_PC" id="1435957103" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
+    <text name="error_disconnect_controller_xbox" id="1472487626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Seu Controle foi Desconectado.
+      Reconecte o Controle.
+    </text>
+    <text name="notice_playgo_header" id="1515577321" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Cópia dos Saves em Andamento
+    </text>
+    <text name="notice_save_battle_Switch" id="1874818944" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_header_message" id="1878982908" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Mensagem do Sistema
+    </text>
+    <text name="notice_header_battle" id="1911547491" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Salvar/Carregar está Indisponível
+    </text>
+    <text name="notice_header_battle_Xbox" id="2105355535" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
+    <text name="notice_ENDdifficulty_detail" id="2364183169" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Se Alterar a Dificuldade, não haverá a batalha com THE END.
+      Deseja Mesmo Alterar a Dificuldade?
+    </text>
+    <text name="notice_save_auto" id="2541107626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Este Jogo Possui Salvamento Automático.
+      Não desligue seu Hardware enquanto o ícone de "Salvamento" Estiver Em Exibição.
+      Caso Contrário, os Dados Salvos podem ficar Corrompidos/Inacessiveis.
+    </text>
+    <text name="notice_playgo_detail" id="2544957261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Aguarde até que a Cópia dos Dados Seja Concluída
+      Progresso: <var name="copy_progress" />%
+    </text>
+    <text name="SecondaryActivityAll" id="2649127134">
+      Reinicie a Partir da Seção Atual.
+    </text>
+    <text name="notice_error_0" id="2681308626" font="Range_FNT_notice" layout="Range_LAY_notice" />
+    <text name="notice_task_help_01_Xbox" id="2822907558">
+      Mova o direcional analógico esquerdo para a esquerda ou direita para controlar o programa
+      do Comandante. Tente não ser atingido pelos projéteis inimigos.
+    </text>
+    <text name="notice_quit_header" id="2836786806" font="Range_FNT_toast" layout="Range_LAY_toast">
+      SONIC FRONTIERS
+    </text>
+    <text name="notice_task_help_01_Switch" id="3195303623">
+      Mova o botão analógico da esquerda para a esquerda ou direita para controlar o programa
+      do Comandante. Tente não ser atingido pelos projéteis inimigos.
+    </text>
+    <text name="notice_save_unfound_PC" id="3224987652" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_save_unfound_Xbox" id="3788785828" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_quit_detail" id="3866166746" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Deseja Fechar o Jogo?
+    </text>
+    <text name="notice_save_unfound_Switch" id="3999537861" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="ErrorwindowHead_5" id="4224531886" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Armazenamento Local Insuficiente
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_notice">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_notice">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
