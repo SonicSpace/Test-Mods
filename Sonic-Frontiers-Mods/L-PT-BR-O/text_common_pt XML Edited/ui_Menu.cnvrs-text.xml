@@ -38,7 +38,7 @@
       Qualidade das Sombras
     </text>
     <text name="menu_cmn_sys2_retry_mtips" id="289479503" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomeça do início
+      Recomeça a fase novamente
     </text>
     <text name="menu_cmn_manualsave" id="334285630" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       SAVE <var name="saveslot_num" />
@@ -286,7 +286,7 @@
       Modo Janela
     </text>
     <text name="menu_cmn_sys2_retry" id="1619453385" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Reiniciar
+      Tentar a fase novamente
     </text>
     <text name="menu_cmn_op4la_text" id="1621000447" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Texto da Interface
@@ -588,7 +588,7 @@
       Peixepédia
     </text>
     <text name="menu_cmn_sys2_retry2_mtips" id="2995967087" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recomeça o objetivo
+      Recomeça o objetivo novamente
     </text>
     <text name="menu_cmn_op1ke_soli_mtips" id="3005818767" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Define se Sonic pode se mover ao comentar sobre os arredores
