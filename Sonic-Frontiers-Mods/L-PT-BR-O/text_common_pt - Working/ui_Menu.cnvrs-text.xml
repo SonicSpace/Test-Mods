@@ -5,7 +5,7 @@
       Volume Principal
     </text>
     <text name="menu_map_releaserate" id="40411268" font="Range_FNT" layout="Range_LAY">
-      Descoberto
+      Ilhas Starfall
     </text>
     <text name="menu_map_percent" id="41719106" font="Range_FNT" layout="Range_LAY">
       %
@@ -47,7 +47,7 @@
       Define o brilho da tela
     </text>
     <text name="menu_btnguide_selector_decide" id="390789353" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Ir para Esta ilha
+      Ir Para Esta Ilha
     </text>
     <text name="menu_cmn_op1ga_acceleration" id="405762800" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Aceleração
@@ -174,7 +174,7 @@
       Sim
     </text>
     <text name="menu_btnguide_notapply" id="980890490" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Não Salvar Alterações
+      Não!
     </text>
     <text name="menu_cmn_op1ke_vibration_Switch" id="993776721" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Vibração HD
@@ -186,7 +186,7 @@
       Personalizado
     </text>
     <text name="menu_btnguide_cancel" id="1049729657" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Cancelar
+      Não!
     </text>
     <text name="menu_cmn_op3gr_skillp" id="1052714492" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição de Pontos de Habilidade
@@ -244,7 +244,7 @@
     </text>
     <text name="menu_field_sa1_save_Xbox" id="1307177876" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_op_message_01_detail" id="1310021465" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Deseja Salvar as Alterações?
+      Mudanças Nas Configurações do Jogo Foram Feitas. Deseja Salvá-las?
     </text>
     <text name="menu_btnguide_mapzoom_Steam_1" id="1344870835" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ampliar
@@ -395,7 +395,7 @@
       Distante
     </text>
     <text name="menu_cmn_choice_low" id="2150076529" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Baixa
+      Qualidade Baixa
     </text>
     <text name="menu_cmn_choice_max" id="2150090881" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Máx.
@@ -460,7 +460,7 @@
       Modo Desempenho
     </text>
     <text name="menu_cmn_choice_high" id="2468487301" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Alta
+      Qualidade Alta
     </text>
     <text name="menu_cmn_op3gr_notification_mtips" id="2470791790" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita as notificações enquanto você explora as ilhas
@@ -469,7 +469,7 @@
       Perto
     </text>
     <text name="menu_cmn_choice_none" id="2480875259" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Nenhum
+      Desligado
     </text>
     <text name="menu_cmn_op4_language_mtips" id="2481846501" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Altera o idioma de texto e dublagem
@@ -781,7 +781,7 @@
       Tentar Novamente o Objetivo
     </text>
     <text name="menu_btnguide_apply" id="3813702767" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Salvar Alterações
+      Sim!
     </text>
     <text name="menu_btnguide_hermit_shortcut" id="3890217411" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ir até o Koco Eremita
@@ -802,7 +802,7 @@
       Voltar à Ilha
     </text>
     <text name="menu_btnguide_close4" id="3913627099" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Fechar Mapa
+      Fechar o Mapa
     </text>
     <text name="menu_btnguide_close5" id="3913627100" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Fechar
@@ -820,7 +820,7 @@
       <image name="exchara_micon_emy" /> <image name="exchara_micon_sage" /> História Secundária
     </text>
     <text name="menu_cmn_choice_borderless" id="3986808840" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Tela Cheia (Janela)
+      Janela Em Tela Cheia
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips_Switch" id="3995606731" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita a Vibração HD
