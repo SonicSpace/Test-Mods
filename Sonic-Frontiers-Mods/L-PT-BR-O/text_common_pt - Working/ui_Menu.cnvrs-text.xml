@@ -244,7 +244,8 @@
     </text>
     <text name="menu_field_sa1_save_Xbox" id="1307177876" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_op_message_01_detail" id="1310021465" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      As configurações do jogo foram alteradas. Deseja Salvá-las?
+      As configurações do jogo foram alteradas. 
+      Deseja Salvar estas alterações?
     </text>
     <text name="menu_btnguide_mapzoom_Steam_1" id="1344870835" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ampliar
@@ -678,7 +679,7 @@
       Exibição do Cursor do Jogo
     </text>
     <text name="menu_op_message_01" id="3427098103" font="Range_FNT" layout="Range_LAY">
-      AVISO!!
+      AVISO
     </text>
     <text name="menu_mapicon_heart" id="3429929372" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_heart" /> Item Mnemônico
