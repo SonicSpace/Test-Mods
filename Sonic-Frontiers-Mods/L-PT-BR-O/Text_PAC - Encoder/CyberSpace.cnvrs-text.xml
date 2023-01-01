@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="obj_cys_mission_001" id="451017684" font="Range_FNT" layout="Range_LAY">
+      Chegue ao final da fase
+    </text>
+    <text name="obj_cys_mission_002" id="451017685" font="Range_FNT" layout="Range_LAY">
+      Termine a fase com Rank S
+    </text>
+    <text name="obj_cys_mission_004" id="451017687" font="Range_FNT" layout="Range_LAY">
+      Conclua com <var name="mission_ring" /> Rings
+    </text>
+    <text name="obj_cys_mission_005" id="451017688" font="Range_FNT" layout="Range_LAY">
+      Pegue todas as Rings Estrela Vermelha
+    </text>
+    <text name="obj_cys_mission_006" id="451017689" font="Range_FNT" layout="Range_LAY">
+      Conclua as 4 missões!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

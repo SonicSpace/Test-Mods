@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="tip_063_Steam" id="21981754" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Persiga o SQUID para derrotá-lo! Para desviar dos projéteis, movimente-se para a esquerda ou direita.
+    </text>
+    <text name="tip_003_Steam" id="120509760" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="s_button_cyloop_Wh" /> para executar o CyberLoop Rápido durante um combo enquanto o medidor do CyberLoop estiver azul.
+      O medidor é preenchido a cada ataque que atinge o inimigo.
+    </text>
+    <text name="tip_021_PC" id="373962631" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se você segurar <image name="button_right_trigger_Wh" /> enquanto se move, Sonic acelera na direção que está correndo. Isto consome carga do medidor de Turbo.
+    </text>
+    <text name="tip_000" id="641237324" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Segure <image name="button_top_Wh" /> ao mover-se para deixar um rastro de luz.
+      Soltar <image name="button_top_Wh" /> ao fechar um círculo com o rastro de luz pode produzir vários efeitos.
+    </text>
+    <text name="tip_001" id="641237325" font="Range_FNT_tips" layout="Range_LAY_tips">
+      <image name="button_right_stick_Wh" /> gira a câmera.
+      Não é possível ajustar a câmera quando o ícone de controle de câmera desabilitado está em exibição.
+    </text>
+    <text name="tip_002" id="641237326" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se vir alguma coisa suspeita, use um CyberLoop.
+      Assim, é possível encontrar itens escondidos ou meios de concluir um desafio.
+    </text>
+    <text name="tip_003" id="641237327" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_top_Wh" /> para executar o CyberLoop Rápido durante um combo enquanto o medidor do CyberLoop estiver azul.
+      O medidor é preenchido a cada ataque que atinge o inimigo.
+    </text>
+    <text name="tip_004" id="641237328" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_right_stick_Wh" /> quando a mira for exibida para travá-la no alvo.
+      Com a mira travada, a câmera segue o alvo automaticamente.
+    </text>
+    <text name="tip_005" id="641237329" font="Range_FNT_tips" layout="Range_LAY_tips">
+      O Parry não depende de sincronismo. 
+      Segure <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> para aparar, e Sonic repelirá ataques automaticamente.
+    </text>
+    <text name="tip_006" id="641237330" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_left_shoulder_Wh" /> ou <image name="button_right_shoulder_Wh" /> para esquivar.
+      A Esquiva é mais rápida do que se movimentar normalmente e é útil para evitar ataques de inimigos.
+    </text>
+    <text name="tip_007" id="641237331" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando o medidor de combo fica cheio, o Impulso Espectral é ativado. O Impulso Espectral dura até o medidor de combo chegar a 0, deixando os ataques 1,2x mais fortes enquanto está ativo.
+    </text>
+    <text name="tip_008" id="641237332" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, pressione <image name="button_left_shoulder_Wh" /> para esquivar com Impulso Radical ou pressione <image name="button_right_shoulder_Wh" /> e depois <image name="button_left_Wh" />.
+    </text>
+    <text name="tip_009" id="641237333" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e depois <image name="button_left_Wh" /> no ar para executar um Tiro Teleguiado na sequência de um Turbo Aéreo.
+    </text>
+    <text name="tip_010" id="641237451" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Durante um combo, use <image name="button_right_Wh" /> para ativar uma Pisada.
+    </text>
+    <text name="tip_011" id="641237452" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Segure <image name="button_left_trigger_Wh" /> no ar ou durante um combo para ativar uma Explosão Sônica.
+    </text>
+    <text name="tip_012" id="641237453" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em um combo, pressione <image name="button_bottom_Wh" /> para ativar um Golpe Giratório.
+    </text>
+    <text name="tip_013" id="641237454" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e, em seguida, <image name="button_right_Wh" /> no ar para ativar um Chute Giratório após um Turbo Aéreo.
+    </text>
+    <text name="tip_014" id="641237455" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e, em seguida, <image name="button_bottom_Wh" /> no ar para ativar um Golpe Cruzado após um Turbo Aéreo.
+    </text>
+    <text name="tip_015" id="641237456" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Segure <image name="button_left_Wh" /> durante um combo para executar um Chute Ciclone.
+    </text>
+    <text name="tip_016" id="641237457" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_top_Wh" />+<image name="button_right_Wh" /> quando o comando aparecer na tela para executar uma Pancada Fatal.
+    </text>
+    <text name="tip_017" id="641237458" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se Sonic for empurrado por um ataque, pressione <image name="button_bottom_Wh" /> antes de ele atingir o chão. Assim, Sonic contra-ataca imediatamente com uma Esmagada de Recuperação.
+    </text>
+    <text name="tip_018" id="641237459" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_bottom_Wh" /> para pular.
+      Pular é útil para ultrapassar obstáculos e impedir quedas.
+    </text>
+    <text name="tip_019" id="641237460" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_bottom_Wh" /> no ar para dar um Pulo Duplo.
+      Use o Pulo Duplo para ajustar a direção dos seus pulos.
+    </text>
+    <text name="tip_020" id="641237578" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_left_Wh" /> quando surgir uma mira para executar um Ataque Direcionado.
+    </text>
+    <text name="tip_021" id="641237579" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se você segurar <image name="button_right_trigger_Wh" /> enquanto se move, Sonic acelera na direção que está correndo. Isto consome carga do medidor de Turbo.
+    </text>
+    <text name="tip_022" id="641237580" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_right_Wh" /> no ar para pousar com uma Pisada. Isto permite descer mais rapidamente.
+    </text>
+    <text name="tip_023" id="641237581" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se você pressionar e segurar <image name="button_right_Wh" /> Sonic vai fazer uma série de pisadas. A terceira pisada é a mais poderosa e causa um estouro bem amplo.
+    </text>
+    <text name="tip_024" id="641237582" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_right_trigger_Wh" /> no ar para executar um Turbo Aéreo. Isto é útil para chegar a áreas que não podem ser acessadas apenas pulando.
+    </text>
+    <text name="tip_025" id="641237583" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_left_shoulder_Wh" /> ou <image name="button_right_shoulder_Wh" /> ao movimentar-se para ir para a direita ou esquerda rapidamente.
+      Use para fazer Sonic desviar de obstáculos ao correr.
+    </text>
+    <text name="tip_026" id="641237584" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_left_stick_Wh" /> perto de uma fileira de Rings. Sonic vai coletá-los enquanto passa correndo pela fileira.
+    </text>
+    <text name="tip_027" id="641237585" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Após um Pulo Duplo, pressione e segure <image name="button_bottom_Wh" /> outra vez até aterrissar para movimentar-se mais rapidamente por um breve período.
+    </text>
+    <text name="tip_028" id="641237586" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_right_Wh" /> para deslizar.
+      Use para destruir obstáculos ou para fazer Sonic desacelerar.
+    </text>
+    <text name="tip_029" id="641237587" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Segure <image name="button_right_trigger_Wh" /> para Sonic correr por certas paredes enquanto escala.
+    </text>
+    <text name="tip_030" id="641237705" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando usar o Turbo Aéreo em direção a uma parede escalável, segure <image name="button_right_trigger_Wh" /> para movimentar-se mais rápido pela parede.
+    </text>
+    <text name="tip_031" id="641237706" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic desliza automaticamente pelos trilhos. Para sair do trilho, basta pular.
+    </text>
+    <text name="tip_032" id="641237707" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Não é possível executar Ataques Direcionados nos trilhos de deslizamento.
+    </text>
+    <text name="tip_033" id="641237708" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando houver trilhos de deslizamento paralelos, mova <image name="button_left_stick_Wh" /> na direção desejada para trocar de trilho.
+    </text>
+    <text name="tip_034" id="641237709" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando Sonic estiver no ar e houver faíscas ao seu redor, use <image name="button_left_stick_Wh" /> para executar um Truque Aéreo. Truques Aéreos concedem fragmentos de habilidade.
+    </text>
+    <text name="tip_035" id="641237710" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_036" id="641237711" font="Range_FNT_tips" layout="Range_LAY_tips">
+      GIGANTO pode repelir CyberLoops Rápidos. Sonic será jogado para longe se tentar usar esse golpe.
+    </text>
+    <text name="tip_037" id="641237712" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Os mísseis de WYVERN podem ser aparados. Rebata um míssil para desacelerar WYVERN.
+    </text>
+    <text name="tip_038" id="641237713" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use um CyberLoop Rápido para prender WYVERN.
+    </text>
+    <text name="tip_039" id="641237714" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Os inimigos andam forte demais? Experimente subir o nível dos atributos do Sonic com o Koco Ancestral ou o Koco Eremita.
+      Prefere mudar o foco da história? Basta mudar a dificuldade do jogo em Opções.
+    </text>
+    <text name="tip_040" id="641237832" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pule ou esquive para desviar dos ataques inimigos.
+      Quando a mira aparece, Sonic pode atacar com Ataques Direcionados e combos.
+    </text>
+    <text name="tip_041" id="641237833" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Os escudos dos inimigos podem ser quebrados com CyberLoops.
+    </text>
+    <text name="tip_042" id="641237834" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando o inimigo estiver se defendendo, use <image name="button_left_shoulder_Wh" /> ou <image name="button_right_shoulder_Wh" /> para ficar atrás dele.
+    </text>
+    <text name="tip_043" id="641237835" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use o CyberLoop para remover os espetos dos inimigos.
+    </text>
+    <text name="tip_044" id="641237836" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Apare golpes para repelir os inimigos que entrarem no caminho do Sonic.
+    </text>
+    <text name="tip_045" id="641237837" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use o Parry para rebater o ataque de feixe do inimigo. 
+      Se Sonic conseguir ficar por cima do inimigo, use uma Pisada.
+    </text>
+    <text name="tip_046" id="641237838" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando Sonic se aproxima, este inimigo se encolhe para se proteger. Use o CyberLoop para derrotá-lo.
+    </text>
+    <text name="tip_047" id="641237839" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Às vezes, as rotações dos inimigos ficam mais rápidas. Calcule bem seus ataques!
+    </text>
+    <text name="tip_048" id="641237840" font="Range_FNT_tips" layout="Range_LAY_tips">
+      O CyberLoop é capaz de derrubar um inimigo com um único golpe. Use-o no intervalo após uma investida do inimigo.
+    </text>
+    <text name="tip_049" id="641237841" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se o inimigo vier girando de lado na direção do Sonic, use o Parry para derrotá-lo.
+    </text>
+    <text name="tip_050" id="641237959" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Tente atacar o inimigo nos intervalos entre as descargas elétricas.
+    </text>
+    <text name="tip_051" id="641237960" font="Range_FNT_tips" layout="Range_LAY_tips">
+      A armadura que reveste o corpo do inimigo é resistente, mas o CyberLoop pode deixá-lo temporariamente vulnerável.
+    </text>
+    <text name="tip_052" id="641237961" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Ataques Direcionados para se aproximar de inimigos no céu. Cuidado para não atingir as bolas vermelhas!
+    </text>
+    <text name="tip_053" id="641237962" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se Sonic ficar preso dentro do inimigo, use Pulo com Pisada para se libertar.
+    </text>
+    <text name="tip_054" id="641237963" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se Sonic for lançado, use a Pisada para se recuperar.
+    </text>
+    <text name="tip_055" id="641237964" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Para recuperar uma Esmeralda Chaos, é preciso derrotar o inimigo que a roubou. Pise no inimigo e recupere a Esmeralda!
+    </text>
+    <text name="tip_056" id="641237965" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Todos os ataques podem ser aparados. Se o Sonic estiver prestes a sofrer um ataque, segure <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> para aparar.
+    </text>
+    <text name="tip_057" id="641237966" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Às vezes, o inimigo vai atacar de um local inesperado. Use o Parry para repelir o ataque.
+    </text>
+    <text name="tip_058" id="641237967" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando MASTER NINJA estiver se defendendo, ataque-o com um CyberLoop!
+    </text>
+    <text name="tip_059" id="641237968" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Destrua o corpo do inimigo e ataque o ponto fraco: a cabeça. O CyberLoop é capaz de destruir parte do corpo com um só golpe.
+    </text>
+    <text name="tip_060" id="641238086" font="Range_FNT_tips" layout="Range_LAY_tips">
+      O CyberLoop é muito eficaz para atacar as pernas da SPIDER. Ao cair, mire no círculo de lasers e desça nessa direção!
+    </text>
+    <text name="tip_061" id="641238087" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Colete os itens no trilho para sair dos trilhos de deslizamento!
+    </text>
+    <text name="tip_062" id="641238088" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando CATERPILLAR começar a correr, tome cuidado com os projéteis que ela soltar!
+    </text>
+    <text name="tip_063" id="641238089" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Persiga o SQUID para derrotá-lo! Para desviar dos projéteis, movimente-se com <image name="button_left_stick_Wh" /> para a esquerda ou direita.
+    </text>
+    <text name="tip_064" id="641238090" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando SQUID erguer a barreira, cerque-a com um CyberLoop para quebrá-la.
+    </text>
+    <text name="tip_065" id="641238091" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se o SQUID balançar o braço, use Esquiva ou Parry para pular para trás!
+    </text>
+    <text name="tip_066" id="641238092" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Cerque o pedestal conectado ao GHOST para derrubá-lo antes que Sonic fique sem Rings!
+    </text>
+    <text name="tip_067" id="641238093" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use os braços e o corpo de ASURA para chegar à cabeça dela. Quando Sonic toca no círculo de luz azul, consegue correr mais rápido.
+    </text>
+    <text name="tip_068" id="641238094" font="Range_FNT_tips" layout="Range_LAY_tips">
+      O inimigo fica em frenesi ao segurar a cauda dele, mas Sonic pode tentar se equilibrar inclinando <image name="button_left_stick_Wh" />.
+    </text>
+    <text name="tip_069" id="641238095" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se Sonic for puxado enquanto os combustores estiverem apagados, use um Ataque Direcionado para não esbarrar neles.
+    </text>
+    <text name="tip_070" id="641238213" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use as cordas para empurrar SUMO na direção da área carregada.
+      Quanto mais Sonic saltar, mais forte será o empurrão.
+    </text>
+    <text name="tip_071" id="641238214" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Deslize pelos círculos grandes para revelar os pontos fracos do inimigo!
+    </text>
+    <text name="tip_072" id="641238215" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Após ameaçar Sonic com uma bomba, a FORTRESS foge.
+    </text>
+    <text name="tip_073" id="641238216" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando KNIGHT estiver com o escudo levantado, Sonic pode dar a volta para acertar golpes diretos.
+    </text>
+    <text name="tip_074" id="641238217" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ser atingido por um ataque do Titã consome muito tempo.
+      Fique de olho nos sinais que ele dá antes de atacar e tente esquivar ou aparar os golpes!
+    </text>
+    <text name="tip_075" id="641238218" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use o CyberLoop Rápido para criar hastes que segurarão KNIGHT e abrirão uma brecha.
+    </text>
+    <text name="tip_076" id="641238219" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, o Titã pode contra-atacar.
+      Apare os golpes para Sonic ter oportunidades de atacá-lo.
+    </text>
+    <text name="tip_077" id="641238220" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Algumas superfícies do GIGANTO permitem que Sonic acelere.
+      Use-as para escalar rapidamente.
+    </text>
+    <text name="tip_078" id="641238221" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ao aparar (em vez de esquivar) os ataques do GIGANTO, Sonic pode realizar um contra-ataque muito potente.
+    </text>
+    <text name="tip_079" id="641238222" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Arrancadas turbinadas são a forma mais rápida de chegar a WYVERN.
+    </text>
+    <text name="tip_080" id="641238340" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Apare os golpes de WYVERN para ter oportunidades de contra-atacar.
+    </text>
+    <text name="tip_081" id="641238341" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Evite os espetos e chegue à cabeça do KNIGHT!
+    </text>
+    <text name="tip_082" id="641238342" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Suba no escudo do KNIGHT para assumir o controle dele e acertar um golpe.
+    </text>
+    <text name="tip_083" id="641238343" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Apare o escudo e rebata na direção do KNIGHT para criar uma brecha e atacar.
+    </text>
+    <text name="tip_084" id="641238344" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Destrua os Bits, as torretas voadoras, para poder contra-atacar SUPREME.
+    </text>
+    <text name="tip_085" id="641238345" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Apare o laser de SUPREME para destruir os Bits.
+    </text>
+    <text name="tip_086" id="641238346" font="Range_FNT_tips" layout="Range_LAY_tips">
+      SUPREME pode repelir CyberLoops Rápidos. Sonic será jogado para longe se tentar usar esse golpe.
+    </text>
+    <text name="tip_087" id="641238347" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use <image name="button_left_stick_Wh" /> para movimentar-se para cima, para baixo e para os lados.
+      Lembre-se das dicas para hackear e boa sorte!
+    </text>
+    <text name="tip_088" id="641238348" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Não é possível anular o feixe do THE END com um disparo.
+      Observe os movimentos dele e esquive com atenção.
+    </text>
+    <text name="tip_089" id="641238349" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Os Kocos vão tentar fugir do Sonic.
+      Pense bem na sua abordagem para conseguir levá-los até o objetivo!
+    </text>
+    <text name="tip_090" id="641238467" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Corte muita grama de uma vez para ganhar mais pontos.
+      Tente abranger a maior área possível com um CyberLoop.
+    </text>
+    <text name="tip_091" id="641238468" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando a bomba dos Kocos explode, eles criam uma tempestade de areia.
+      No meio da tempestade, use o som dos Kocos para encontrá-los.
+    </text>
+    <text name="tip_092" id="641238469" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se a TOWER estiver se movendo rápido demais para Sonic passar por baixo dela, tente carregar menos Kocos de cada vez!
+    </text>
+    <text name="tip_093" id="641238470" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Encontre uma forma de atacar o ponto fraco da TOWER diretamente na cabeça.
+    </text>
+    <text name="tip_094" id="641238471" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Cuidado para não deixar os contêineres ou o Sonic cair na lava!
+      Alguns pontos de apoio vão desabar se Sonic pisar neles.
+    </text>
+    <text name="tip_095" id="641238472" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use molas e Rings Arco-Íris para chegar ao objetivo antes de o tempo acabar!
+    </text>
+    <text name="tip_096" id="641238473" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Mova <image name="button_left_stick_Wh" /> para a esquerda ou direita para controlar o programa do Comandante.
+      Tente não ser atingido pelos projéteis inimigos.
+    </text>
+    <text name="tip_097" id="641238474" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando o medidor especial estiver no máximo, use <image name="button_left_Wh" /> para disparar o laser teleguiado.
+      Caso precise, é possível usá-lo para eliminar projéteis inimigos!
+    </text>
+    <text name="tip_098" id="641238475" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Mesmo que ainda haja inimigos comuns, o confronto é concluído se o núcleo principal for destruído.
+    </text>
+    <text name="tip_099" id="641238476" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Empacou? Confira o objetivo no canto superior direito da tela ou siga na direção do símbolo ◇.
+    </text>
+    <text name="tip_100" id="641253453" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Para falar com a Amy ou outros personagens, Sonic precisa estabilizar a frequência.
+      Explore as ilhas e colete itens mnemônicos para fazer isso.
+    </text>
+    <text name="tip_101" id="641253454" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Conclua missões de portal para abrir o cofre de Esmeralda Chaos com chaves.
+    </text>
+    <text name="tip_102" id="641253455" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Os portais costumam ficar bloqueados.
+      Derrote guardiões e use as engrenagens deixadas por eles para desbloquear os portais.
+    </text>
+    <text name="tip_103" id="641253456" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use o mapa como guia.
+      Pressione <image name="button_view_Wh" /> para abrir o mapa.
+    </text>
+    <text name="tip_104" id="641253457" font="Range_FNT_tips" layout="Range_LAY_tips">
+      É possível usar os mapas de várias formas.
+      Se quiser definir um destino específico, use o marcador do mapa.
+    </text>
+    <text name="tip_105" id="641253458" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Depois de concluir todos os desafios de uma ilha, Sonic pode viajar rápido para qualquer portal da ilha.
+    </text>
+    <text name="tip_106" id="641253459" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Além de portais normais com missões, "portais roxos" levam a pontos de pesca. Colete moedas roxas na ilha e vá pescar!
+    </text>
+    <text name="tip_107" id="641253460" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Além de sementes, a pesca também rende itens úteis para avançar, como itens mnemônicos, engrenagens de portal e chaves de cofre.
+    </text>
+    <text name="tip_108" id="641253461" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Às vezes, você pode encontrar pergaminhos ao pescar. Pergaminhos permitem viajar rápido até o Koco Ancestral e o Koco Eremita.
+    </text>
+    <text name="tip_109" id="641253462" font="Range_FNT_tips" layout="Range_LAY_tips">
+      O Koco Ancestral é grande e redondo. Se levar um Koco perdido até ele, ele retribuirá com um aumento da capacidade de Rings ou do limite de velocidade do Sonic.
+    </text>
+    <text name="tip_110" id="641253580" font="Range_FNT_tips" layout="Range_LAY_tips">
+      O Koco Eremita é alto e corpulento.
+      Além de poder redistribuir as melhorias concedidas pelo Koco Ancestral, ele pode aumentar o ataque e a defesa do Sonic com sementes coletadas na ilha.
+    </text>
+    <text name="tip_111" id="641253581" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Concluir os desafios na ilha revela partes do mapa.
+      Tente liberar todas as partes do mapa que você conseguir.
+    </text>
+    <text name="tip_112" id="641253582" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ao explorar e concluir desafios pela ilha, Sonic pode encontrar Sementes de Potência vermelhas e Sementes de Defesa azuis.
+      Visite o Koco Eremita para trocá-las por atributos para Sonic.
+    </text>
+    <text name="tip_113" id="641253583" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ao concluir dois desafios próximos, um trilho dos Anciões vai se formar entre eles. Os trilhos podem ser usados para viajar mais rápido.
+    </text>
+    <text name="tip_114" id="641253584" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando <image name="button_crosskey_left_Wh" /> aparece ao lado de um alvo no canto superior direito da tela, por exemplo, durante um tutorial, desafio ou mistério da ilha, os detalhes são exibidos.
+    </text>
+    <text name="tip_115" id="641253585" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ao explorar a ilha, Sonic pode encontrar outros personagens.
+      Fale com eles para ouvir suas histórias.
+    </text>
+    <text name="tip_116" id="641253586" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ao derrotar um inimigo, Sonic ganha um fragmento de habilidade azul.
+      Colete o suficiente deles para ganhar pontos de habilidade, exibidos no canto inferior direito.
+      Use-os para desbloquear habilidades no Menu de Pausa.
+    </text>
+    <text name="tip_117" id="641253587" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="button_start_Wh" /> para abrir o Menu de Pausa.
+      Este menu dá acesso às habilidades e a diversas configurações.
+    </text>
+    <text name="tip_118" id="641253588" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Alguns objetos na ilha são destrutíveis e podem conter itens.
+    </text>
+    <text name="tip_119" id="641253589" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em noites de chuva estelar, os inimigos derrotados revivem.
+      Objetos destruídos também são consertados e podem conceder itens outra vez.
+    </text>
+    <text name="tip_120" id="641253707" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ao explorar a ilha, uma notificação poderá aparecer.
+      Pressione <image name="button_crosskey_down_Wh" /> para praticar as ações.
+    </text>
+    <text name="tip_121" id="641253708" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic não pode entrar em portais ou falar com NPCs durante as batalhas. Derrote os inimigos perto dele para fazer isso.
+    </text>
+    <text name="tip_122" id="641253709" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Kocos se escondem em várias áreas da ilha.
+      Leve-os para o Koco Ancestral quando encontrá-los.
+    </text>
+    <text name="tip_123" id="641253710" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se estiver com poucos Rings, use o CyberLoop na grama, na areia ou em outro terreno ao redor para fazer surgir Rings.
+    </text>
+    <text name="tip_124" id="641253711" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic pode escalar paredes pretas.
+      Se pressionar <image name="button_right_trigger_Wh" />, ele também pode correr por elas.
+    </text>
+    <text name="tip_125" id="641253712" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando houver um cofre de Esmeralda Chaos ou portal por perto, alguns ícones são exibidos no centro superior da tela.
+    </text>
+    <text name="tip_126" id="641253713" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Se pressionar <image name="button_right_trigger_Wh" /> para Sonic turbinar com o maior número possível de Rings, a velocidade dele aumenta muito.
+    </text>
+    <text name="tip_127" id="641253714" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Alguns objetos da ilha podem ser usados como atalhos ao serem acionados.
+    </text>
+    <text name="tip_128" id="641253715" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Dê frutas vermelhas ao Koco Eremita para aumentar o ataque do Sonic. Dê frutas azuis ao Koco para aumentar a defesa do Sonic.
+    </text>
+    <text name="tip_129" id="641253716" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Encontre Kocos e leve-os para o Koco Ancestral. O Koco Ancestral pode aumentar a velocidade máxima e a capacidade de Rings do Sonic, além de poder redefinir as melhorias dele.
+    </text>
+    <text name="tip_130" id="641253834" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Acesse Tela do menu principal &gt; Extras &gt; Visuais do Sonic
+      para trocar o visual do Sonic
+    </text>
+    <text name="tip_131" id="641253835" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_132" id="641253836" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_133" id="641253837" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_134" id="641253838" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_135" id="641253839" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_136" id="641253840" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_137" id="641253841" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_138" id="641253842" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_139" id="641253843" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_140" id="641253961" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_141" id="641253962" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_142" id="641253963" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_143" id="641253964" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_144" id="641253965" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_145" id="641253966" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_146" id="641253967" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_147" id="641253968" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_148" id="641253969" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_149" id="641253970" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_097_Steam" id="879667387" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando o medidor especial estiver no máximo, use <image name="s_button_attack_Wh" /> para disparar o laser teleguiado.
+      Caso precise, é possível usá-lo para eliminar projéteis inimigos!
+    </text>
+    <text name="tip_000_Steam" id="1050910269" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Segure <image name="s_button_cyloop_Wh" /> ao mover-se para deixar um rastro de luz.
+      Soltar <image name="s_button_cyloop_Wh" /> ao fechar um círculo com o rastro de luz pode produzir vários efeitos.
+    </text>
+    <text name="tip_096_Steam" id="1189800890" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Mova para a esquerda ou direita para controlar o programa do Comandante.
+      Tente não ser atingido pelos projéteis inimigos.
+    </text>
+    <text name="tip_021_Xbox" id="1526093095" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_042_Steam" id="1796613691" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quando o inimigo estiver se defendendo, use <image name="s_button_qsleft_Wh" /> ou <image name="s_button_qsright_Wh" /> para ficar atrás dele.
+    </text>
+    <text name="tip_026_Steam" id="2020578113" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione e segure <image name="s_button_lightdash" /> perto de uma fileira de Rings. Sonic vai coletá-los enquanto passa correndo pela fileira.
+    </text>
+    <text name="tip_025_Steam" id="2330711616" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="s_button_qsleft_Wh" /> ou <image name="s_button_qsright_Wh" /> ao movimentar-se para ir para a direita ou esquerda rapidamente.
+      Use para fazer Sonic desviar de obstáculos ao correr.
+    </text>
+    <text name="tip_009_Steam" id="2554676038" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e depois <image name="s_button_attack_Wh" /> no ar para executar um Tiro Teleguiado na sequência de um Turbo Aéreo.
+    </text>
+    <text name="tip_016_Steam" id="2752827330" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="s_button_cyloop_Wh" />+<image name="button_right_Wh" /> quando o comando aparecer na tela para executar uma Pancada Fatal.
+    </text>
+    <text name="tip_008_Steam" id="2864809541" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Em batalha, para esquivar com Impulso Radical, pressione <image name="s_button_qsleft_Wh" /> ou <image name="s_button_qsright_Wh" /> e depois <image name="s_button_attack_Wh" />.
+    </text>
+    <text name="tip_015_Steam" id="3062960833" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Segure <image name="s_button_attack_Wh" /> durante um combo para executar um Chute Ciclone.
+    </text>
+    <text name="tip_021_Switch" id="3365561416" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_006_Steam" id="3485076547" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="s_button_qsleft_Wh" /> ou <image name="s_button_qsright_Wh" /> para esquivar.
+      A Esquiva é mais rápida do que se movimentar normalmente e é útil para evitar ataques de inimigos.
+    </text>
+    <text name="tip_005_Steam" id="3795210050" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parry não depende de sincronismo. 
+      Segure <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> para entrar no estado de Parry e Sonic repelirá ataques automaticamente.
+    </text>
+    <text name="tip_020_Steam" id="3881379131" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="s_button_attack_Wh" /> quando surgir uma mira para executar um Ataque Direcionado.
+    </text>
+    <text name="tip_004_Steam" id="4105343553" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Pressione <image name="s_button_lockon_Wh" /> quando a mira for exibida para travá-la no alvo.
+      Com a mira travada, a câmera segue o alvo automaticamente.
+    </text>
+    <text name="tip_056_Steam" id="4118797758" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Todos os ataques podem ser aparados. Se o Sonic estiver prestes a sofrer um ataque, segure <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> para aparar.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tips">
+      <typeface>RANGEmixStd</typeface>
+      <size>25</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tips">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>bottom</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="tu5000_045_Steam" id="18450111" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Quando surgir uma mira nos inimigos, pressione <image name="s_button_attack" /> para derrotá-los com Ataques Direcionados.
+    </text>
+    <text name="tu5000_035_Steam" id="750699328" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Se surgir uma mira em uma mola, pressione <image name="s_button_attack" /> para executar um Ataque Direcionado.
+      Experimente atacar a mola para executar um pulo enorme!
+    </text>
+    <text name="tu5000_015_Xbox" id="1583052833" />
+    <text name="tu5000_075_Steam" id="2116669756" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Pressione <image name="s_button_lightdash" /> quando estiver perto de uma fileira de Rings.
+    </text>
+    <text name="tu5000_temp001" id="2394432090" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp002" id="2394432091" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp003" id="2394432092" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp004" id="2394432093" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp005" id="2394432094" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp006" id="2394432095" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp007" id="2394432096" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_temp008" id="2394432097" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_010" id="2635230796" font="Range_FNT" layout="Range_LAY">
+      Movimentação
+    </text>
+    <text name="tu5000_015" id="2635230801" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Use <image name="button_left_stick" /> para movimentar-se.
+      Sonic caminha ou corre conforme a intensidade com a qual você move o <image name="button_left_stick" />.
+      
+      Pressione <image name="button_right_trigger" /> para que Sonic use o boost na direção para a qual o <image name="button_left_stick" /> está apontado. 
+    </text>
+    <text name="tu5000_020" id="2635230923" font="Range_FNT" layout="Range_LAY">
+      Pulos
+    </text>
+    <text name="tu5000_025" id="2635230928" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Pressione <image name="button_bottom" /> para pular.
+      Pule por cima de obstáculos que estiverem entre Sonic e o objetivo.
+      
+      Pressione <image name="button_bottom" /> outra vez no ar para que Sonic execute um Pulo Duplo.
+      O Pulo Duplo é útil para ajustar o local onde Sonic vai pousar.
+    </text>
+    <text name="tu5000_030" id="2635231050" font="Range_FNT" layout="Range_LAY">
+      Ataque Direcionado e Molas
+    </text>
+    <text name="tu5000_035" id="2635231055" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Se surgir uma mira em uma mola, pressione <image name="button_left" /> para executar um Ataque Direcionado.
+      Experimente atacar a mola para executar um pulo enorme!
+    </text>
+    <text name="tu5000_040" id="2635231177" font="Range_FNT" layout="Range_LAY">
+      Ataque Direcionado e Inimigos
+    </text>
+    <text name="tu5000_045" id="2635231182" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Quando surgir uma mira nos inimigos, pressione <image name="button_left" /> para derrotá-los com Ataques Direcionados.
+    </text>
+    <text name="tu5000_050" id="2635231304" font="Range_FNT" layout="Range_LAY" />
+    <text name="tu5000_055" id="2635231309" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_060" id="2635231431" font="Range_FNT" layout="Range_LAY" />
+    <text name="tu5000_065" id="2635231436" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu5000_070" id="2635231558" font="Range_FNT" layout="Range_LAY">
+      Arrancada Suave
+    </text>
+    <text name="tu5000_075" id="2635231563" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Pressione <image name="button_left_stick" /> quando estiver perto de uma fileira de Rings.
+    </text>
+    <text name="tu5000_015_Switch" id="2946174274" />
+    <text name="tu5000_015_PC" id="4128101505">
+      Use <image name="button_left_stick" /> para movimentar-se.
+      Se estiver usando um controle com direcionais analógicos, Sonic caminha
+      ou corre conforme a intensidade com a qual você move o direcional analógico. 
+      
+      Pressione <image name="button_right_trigger" /> para que Sonic use um boost na direção para a qual ele está apontado.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

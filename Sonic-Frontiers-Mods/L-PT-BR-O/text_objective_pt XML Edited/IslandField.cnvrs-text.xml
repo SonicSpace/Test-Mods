@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="obj_ilf_quest_04_detail" id="10817131" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Derrote todas as TOWERs antes do tempo acabar.
+      (Não é possível usar Esquiva neste objetivo)
+    </text>
+    <text name="obj_ilf_02puzzle_01detail" id="103816173" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      O lago diante de Sonic tem algum tipo de tampa no fundo.
+      Logo acima, há uma corrente conectada a uma pedra vedante.
+      Talvez ela se mova se for atingida com força suficiente.
+    </text>
+    <text name="obj_ilf_clearstate_010" id="449383064" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Concluiu a Ilha Kronos!
+    </text>
+    <text name="obj_ilf_clearstate_020" id="449383191" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Concluiu a Ilha Ares!
+    </text>
+    <text name="obj_ilf_clearstate_030" id="449383318" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Concluiu a Ilha Chaos!
+    </text>
+    <text name="obj_ilf_clearstate_040" id="449383445" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Concluiu a Ilha Rhea!
+    </text>
+    <text name="obj_ilf_clearstate_050" id="449383572" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Você Concluiu Todas as Ilhas!
+    </text>
+    <text name="obj_ilf_01puzzle_01detail" id="493507694" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Em meio aos túmulos, há lápides pretas que podem ser giradas.
+      Gire as lápides e aponte-as para a direção correta.
+      O desenho no chão pode dar uma dica.
+    </text>
+    <text name="obj_ilf_quest_03_detail" id="743066348" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guie os Kocos até Knuckles enquanto evita as bombas.
+      Se você for atingido pelas bombas 3 vezes, o objetivo falha.
+      (Não é possível usar Turbo e Esquiva neste objetivo) 
+    </text>
+    <text name="obj_ilf_01puzzle_01" id="1214519805" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Um Grande Mistério
+    </text>
+    <text name="obj_ilf_quest_02_detail" id="1475315565" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Leve todos os Kocos de volta para Knuckles. Para acelerar as coisas, Sonic pode carregar vários Kocos, mas as TOWERs também ficam mais rápidas.
+      (Não é possível usar Turbo e Esquiva neste objetivo)
+    </text>
+    <text name="obj_ilf_02puzzle_01" id="1926962812" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Drene a Água Para Seguir Em Frente
+    </text>
+    <text name="obj_ilf_02puzzle_02" id="1926962813" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Combine as Cores
+    </text>
+    <text name="obj_ilf_quest_01_detail" id="2207564782" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Remova ervas-daninhas com CyberLoop e consiga 7000 pontos antes de o tempo acabar.
+      Cuidado com as abelhas! Use o CyberLoop Rápido em volta de sementes para fazer as flores desabrocharem e atrair as abelhas.
+    </text>
+    <text name="obj_ilf_challenge_00" id="2541630304" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Use o Parry Para Atingir as Balas de Energia <var name="num_parried" /> Vez(es)!
+    </text>
+    <text name="obj_ilf_challenge_01" id="2541630305" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Corra e Leve o Velocímetro ao Máximo!
+    </text>
+    <text name="obj_ilf_challenge_02" id="2541630306" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Mantenha-se no Limite de Velocidade e Leve o velocímetro ao Máximo!
+    </text>
+    <text name="obj_ilf_challenge_03" id="2541630307" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Cause <var name="num_impacts" /> de Dano Antes do Tempo Acabar!
+    </text>
+    <text name="obj_ilf_challenge_04" id="2541630308" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Mova-se Lateralmente Para Pisar Nas Placas de Luz Antigas <var name="num_reflexes" /> Vezes!
+    </text>
+    <text name="obj_ilf_challenge_05" id="2541630309" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Pegue as Esferas Que Estão Caindo!
+    </text>
+    <text name="obj_ilf_03puzzle_01" id="2639405819" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Ative o Robô Death Egg
+    </text>
+    <text name="obj_ilf_03puzzle_02" id="2639405820" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Conclua o Quebra-Cabeça nas Ruínas
+    </text>
+    <text name="obj_ilf_quest_00" id="2755061729" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Reunião de Família
+    </text>
+    <text name="obj_ilf_quest_01" id="2755061730" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      A Primavera Está No Ar
+    </text>
+    <text name="obj_ilf_quest_02" id="2755061731" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Pedido de Socorro
+    </text>
+    <text name="obj_ilf_quest_03" id="2755061732" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Arrebanhamento de Kocos
+    </text>
+    <text name="obj_ilf_quest_04" id="2755061733" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      A Melhor Defesa
+    </text>
+    <text name="obj_ilf_quest_05" id="2755061734" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Colecionável Mecânico
+    </text>
+    <text name="obj_ilf_quest_06" id="2755061735" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Fazendo a Ponte
+    </text>
+    <text name="obj_ilf_quest_06_detail" id="2841285993" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Atravesse o rio e use os controles da ponte levadiça para conectá-la.
+      Chegue à outra margem antes de o tempo acabar.
+    </text>
+    <text name="obj_ilf_quest_00_detail" id="2939813999" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guie os Kocos até a mãe deles enquanto evita as bombas.
+      Se você for atingido pelas bombas 3 vezes, o objetivo falha. 
+      (Não é possível usar Turbo e Esquiva neste objetivo) 
+    </text>
+    <text name="obj_ilf_quest_05_detail" id="3573535210" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Quebre caixas para coletar peças mecânicas. Você precisa conseguir 600 peças antes de o tempo acabar!
+    </text>
+    <text name="obj_ilf_03puzzle_02detail" id="3698958445" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Um local antigo com aspecto familiar.
+      Conclua o quebra-cabeça para ver o que acontece.
+    </text>
+    <text name="obj_ilf_03puzzle_01detail" id="4009091948" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Acesse o painel para ativar o Robô Death Egg.
+    </text>
+    <text name="obj_ilf_02puzzle_02detail" id="4088649966" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Há pedras esféricas no chão.
+      Na redondeza, há cavidades de vários tons.
+      O guindaste acima parece capaz de mover essas pedras.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
