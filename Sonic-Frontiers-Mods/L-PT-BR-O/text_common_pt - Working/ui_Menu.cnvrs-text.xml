@@ -123,7 +123,7 @@
       Algumas alterações não serão refletidas em certas situações
     </text>
     <text name="menu_cmn_op3gr_combo" id="791753073" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Exibição de Combo
+      Exibição de Hits
     </text>
     <text name="menu_cmn_op3gr_item_mtips" id="800992918" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita a exibição de itens (Rings, Chaves etc.)
@@ -153,7 +153,7 @@
       Configurações
     </text>
     <text name="menu_cmn_op1ke_Acombo_mtips" id="853200707" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Ativa ou desativa o uso de habilidades nos combos automáticos
+      Habilita ou desabilita o uso de golpes/combinações automáticas feitos pelo próprio jogo
     </text>
     <text name="menu_mapicon_safe" id="861122999" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_emerald" /> Cofre da Esmeralda do Caos
@@ -210,7 +210,7 @@
       Define se há treino em uma tela de Espera ou após um fim de jogo
     </text>
     <text name="menu_title_choice_arcade" id="1137910567" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
-      Modo Fliperama
+      Modo Contra Tempo
     </text>
     <text name="menu_cmn_system" id="1161261162" font="Range_FNT_tablv1" layout="Range_LAY_tablv1">
       Sistema
@@ -742,7 +742,7 @@
       Treine enquanto o jogo carregue
     </text>
     <text name="menu_cmn_op3gr_combo_mtips" id="3636358903" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou desabilita a exibição de combos
+      Habilita ou desabilita a exibição de sequências de golpes feitos pelo Sonic
     </text>
     <text name="menu_title_choice_manual_mtips1" id="3643210254" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Acesse a seguinte URL para ler o manual online de Sonic Frontiers:

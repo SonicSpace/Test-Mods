@@ -48,9 +48,8 @@
     </text>
     <text name="notice_save_auto_PC" id="603475624" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_displayset" id="656043879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      As Configurações foram alteradas.
-      Deseja salvá-las?
-      As configurações voltam às predefinições padrão em <var name="rendering_sec" />.
+      As configurações de vídeo foram alteradas. Deseja salvá-las?
+      Voltando às predefinições padrão em <var name="rendering_sec" /> segundo(s).
     </text>
     <text name="notice_save_battle" id="717761299" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Salvar ou carregar saves não ficaram disponíveis quando Sonic estiver em uma batalha, resolvendo quebra-cabeças, jogando mini-games e nas cenas que Sonic não está no controle.
@@ -70,7 +69,7 @@
       Não há armazenamento no disco suficiente. Por favor, libere espaço e tente de novo.
     </text>
     <text name="notice_displayset_header" id="1310078597" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Configurações de Tela
+      AVISO
     </text>
     <text name="notice_ENDdifficulty_header" id="1334803229" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
       Alterar a Dificuldade
