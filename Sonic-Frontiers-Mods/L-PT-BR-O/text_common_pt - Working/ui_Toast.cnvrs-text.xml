@@ -2,7 +2,7 @@
 <cnvrsText>
   <sheet name="pt" index="9">
     <text name="toast_quest_start" id="109396333" font="Range_FNT" layout="Range_LAY">
-      PREPARADO?
+      PREPARE-SE!
     </text>
     <text name="toast_trainingroom_complete" id="164217963" font="Range_FNT_toast" layout="Range_LAY_toast">
       Carregamento Concluído!
@@ -45,7 +45,7 @@
       BÔNUS!! ×<var name="extra_bonus" />
     </text>
     <text name="toast_get_lightpillars" id="2213165268" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Obteve <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Chaves de Cofre!
+      Obteve <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Chaves de Cofre de Esmeraldas do Caos!
     </text>
     <text name="toast_lvup_both" id="2379630051" font="Range_FNT_toast" layout="Range_LAY_toast">
       <image name="exchara_level_def" /> Subiu o nNível de Defesa!  <var name="prev_level_def" /> <image name="exchara_arrow_right" /> <var name="new_level_def" />   <image name="exchara_level_pow" /> Subiu o nível de Potência!　 <var name="prev_level_pow" /> <image name="exchara_arrow_right" /> <var name="new_level_pow" /> 
@@ -78,13 +78,13 @@
       Um Cofre das Esmeraldas do Caos foi desbloqueado e agora pode ser Aberto com as <image name="exchara_skill_Ekey" /> Chaves de Cofre.
     </text>
     <text name="toast_trainingroom_ready" id="3284404881" font="Range_FNT" layout="Range_LAY">
-      PREPARADO?
+      PREPARE-SE!
     </text>
     <text name="toast_lvup_ringtospeed" id="3356100506" font="Range_FNT_toast" layout="Range_LAY_toast">
       <image name="exchara_level_ring" /> Reduziu o nível de Ring <var name="prev_level_ring" />  <image name="exchara_arrow_right" /> <var name="new_level_ring" />　<image name="exchara_level_speed" /> Aumentou o nível de Velocidade <var name="prev_level_speed" />  <image name="exchara_arrow_right" /> <var name="new_level_speed" />
     </text>
     <text name="toast_get_lightpillar_add" id="3371366561" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Concluiu a Missão e Obteve 1 <image name="exchara_skill_Ekey" /> Chave de Cofre Adicional de Esmeralda do Caos!
+      Concluiu a Missão e Obteve 1 <image name="exchara_skill_Ekey" /> Chave de Cofre Adicional de Esmeraldas do Caos!
     </text>
     <text name="toast_use_lightpillars" id="3688717923" font="Range_FNT_toast" layout="Range_LAY_toast">
       Abriu com <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Chaves de Cofre de Esmeraldas do Caos
