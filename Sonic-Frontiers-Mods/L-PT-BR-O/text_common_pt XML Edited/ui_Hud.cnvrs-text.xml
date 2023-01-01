@@ -17,7 +17,7 @@
       BOOST
     </text>
     <text name="hud_sonic_combo" id="1311680627" font="Range_FNT_HUDdeco" layout="Range_LAY">
-      COMBO
+      GOLPE(S)
     </text>
     <text name="hud_status_level" id="1373383743" font="Range_FNT" layout="Range_LAY">
       Nv.
@@ -26,7 +26,7 @@
       Seguinte
     </text>
     <text name="hud_sonic_br_combo" id="1514641178" font="Range_FNT_HUDdeco" layout="Range_LAY">
-      RECORDE DE COMBO
+      RECORDE DE GOLPES:
     </text>
     <text name="hud_pinball_ScoreRate" id="1898757599" font="Range_FNT" layout="Range_LAY">
       x<var name="ScoreRate_num" />
