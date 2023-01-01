@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cnvrsText>
   <sheet name="pt" index="9">
-    <text name="sy1000_010" id="2236369877" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Você ainda não está pronto. 
-      Volte quando for a hora certa.
+    <text name="sy9000_010" id="673343437" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você se desviou do caminho. Volte e termine sua missão.
     </text>
   </sheet>
   <fonts>

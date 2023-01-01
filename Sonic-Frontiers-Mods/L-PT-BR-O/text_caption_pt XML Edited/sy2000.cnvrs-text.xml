@@ -2,19 +2,19 @@
 <cnvrsText>
   <sheet name="pt" index="9">
     <text name="sy2000_010" id="1504120660" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Deseja Sair deste Objetivo?
+      Deseja Sair deste objetivo?
     </text>
     <text name="sy2000_011" id="1504120661" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Deseja Sair?
     </text>
     <text name="sy2000_013" id="1504120663" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sim
+      Sim!
     </text>
     <text name="sy2000_015" id="1504120665" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Não
+      Não!
     </text>
     <text name="sy2000_110" id="1504136789" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Deseja Tentar Novamente este Objetivo?
+      Deseja Tentar Novamente este objetivo?
     </text>
     <text name="sy2000_111" id="1504136790">
       Tentar Novamente?
@@ -26,13 +26,13 @@
       Não
     </text>
     <text name="sy2000_200" id="1504152791" font="Range_FNT" layout="Range_LAY">
-      Repetir o Objetivo
+      Deseja Tentar Novamente este objetivo?
     </text>
     <text name="sy2000_201" id="1504152792" font="Range_FNT" layout="Range_LAY">
-      Repetir
+      Tentar Novamente?
     </text>
     <text name="sy2000_300" id="1504168920">
-      Pegue a Esmeralda do Caos de Volta!
+      Pegue a Esmeralda do Caos de volta!
     </text>
   </sheet>
   <fonts>

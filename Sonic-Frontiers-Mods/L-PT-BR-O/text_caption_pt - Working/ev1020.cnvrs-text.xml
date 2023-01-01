@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cnvrsText>
   <sheet name="pt" index="9">
-    <text name="sy9000_010" id="673343437" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Você se Desviou do Caminho. Volte. Termine sua Missão.
+    <text name="ev1020_010" id="2318409182" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Amy! É você?
+    </text>
+    <text name="ev1020_020" id="2318409309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Olá? Tem alguém aí? Me ajuda!
+    </text>
+    <text name="ev1020_030" id="2318409436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aguenta ai! Se eu mexer nas ruínas talvez eu consiga consertar as coisas.
     </text>
   </sheet>
   <fonts>
