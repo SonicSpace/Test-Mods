@@ -9,7 +9,7 @@
       O medidor é preenchido a cada ataque que atinge o inimigo.
     </text>
     <text name="tip_021_PC" id="373962631" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Se você segurar <image name="button_right_trigger_Wh" /> enquanto se move, Sonic acelera na direção que está correndo. Isto consome carga do medidor de Turbo.
+      Se você segurar <image name="button_right_trigger_Wh" /> enquanto se move, Sonic acelera na direção que está correndo. Isto consome carga do medidor de Boost.
     </text>
     <text name="tip_000" id="641237324" font="Range_FNT_tips" layout="Range_LAY_tips">
       Segure <image name="button_top_Wh" /> ao mover-se para deixar um rastro de luz.
@@ -46,7 +46,7 @@
       Em batalha, pressione <image name="button_left_shoulder_Wh" /> para esquivar com Impulso Radical ou pressione <image name="button_right_shoulder_Wh" /> e depois <image name="button_left_Wh" />.
     </text>
     <text name="tip_009" id="641237333" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Em batalha, pressione <image name="button_right_trigger_Wh" /> e depois <image name="button_left_Wh" /> no ar para executar um Tiro Teleguiado na sequência de um Turbo Aéreo.
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e depois <image name="button_left_Wh" /> no ar para executar um Tiro Teleguiado na sequência de um Boost Aéreo.
     </text>
     <text name="tip_010" id="641237451" font="Range_FNT_tips" layout="Range_LAY_tips">
       Durante um combo, use <image name="button_right_Wh" /> para ativar uma Pisada.
@@ -58,10 +58,10 @@
       Em um combo, pressione <image name="button_bottom_Wh" /> para ativar um Golpe Giratório.
     </text>
     <text name="tip_013" id="641237454" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Em batalha, pressione <image name="button_right_trigger_Wh" /> e, em seguida, <image name="button_right_Wh" /> no ar para ativar um Chute Giratório após um Turbo Aéreo.
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e, em seguida, <image name="button_right_Wh" /> no ar para ativar um Chute Giratório após um Boost Aéreo.
     </text>
     <text name="tip_014" id="641237455" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Em batalha, pressione <image name="button_right_trigger_Wh" /> e, em seguida, <image name="button_bottom_Wh" /> no ar para ativar um Golpe Cruzado após um Turbo Aéreo.
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e, em seguida, <image name="button_bottom_Wh" /> no ar para ativar um Golpe Cruzado após um Boost Aéreo.
     </text>
     <text name="tip_015" id="641237456" font="Range_FNT_tips" layout="Range_LAY_tips">
       Segure <image name="button_left_Wh" /> durante um combo para executar um Chute Ciclone.
@@ -84,7 +84,7 @@
       Pressione <image name="button_left_Wh" /> quando surgir uma mira para executar um Ataque Direcionado.
     </text>
     <text name="tip_021" id="641237579" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Se você segurar <image name="button_right_trigger_Wh" /> enquanto se move, Sonic acelera na direção que está correndo. Isto consome carga do medidor de Turbo.
+      Se você segurar <image name="button_right_trigger_Wh" /> enquanto se move, Sonic acelera na direção que está correndo. Isto consome carga do medidor de Boost.
     </text>
     <text name="tip_022" id="641237580" font="Range_FNT_tips" layout="Range_LAY_tips">
       Pressione <image name="button_right_Wh" /> no ar para pousar com uma Pisada. Isto permite descer mais rapidamente.
@@ -93,7 +93,7 @@
       Se você pressionar e segurar <image name="button_right_Wh" /> Sonic vai fazer uma série de pisadas. A terceira pisada é a mais poderosa e causa um estouro bem amplo.
     </text>
     <text name="tip_024" id="641237582" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Pressione <image name="button_right_trigger_Wh" /> no ar para executar um Turbo Aéreo. Isto é útil para chegar a áreas que não podem ser acessadas apenas pulando.
+      Pressione <image name="button_right_trigger_Wh" /> no ar para executar um Boost Aéreo. Isto é útil para chegar a áreas que não podem ser acessadas apenas pulando.
     </text>
     <text name="tip_025" id="641237583" font="Range_FNT_tips" layout="Range_LAY_tips">
       Pressione <image name="button_left_shoulder_Wh" /> ou <image name="button_right_shoulder_Wh" /> ao movimentar-se para ir para a direita ou esquerda rapidamente.
@@ -113,7 +113,7 @@
       Segure <image name="button_right_trigger_Wh" /> para Sonic correr por certas paredes enquanto escala.
     </text>
     <text name="tip_030" id="641237705" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Quando usar o Turbo Aéreo em direção a uma parede escalável, segure <image name="button_right_trigger_Wh" /> para movimentar-se mais rápido pela parede.
+      Quando usar o Boost Aéreo em direção a uma parede escalável, segure <image name="button_right_trigger_Wh" /> para movimentar-se mais rápido pela parede.
     </text>
     <text name="tip_031" id="641237706" font="Range_FNT_tips" layout="Range_LAY_tips">
       Sonic desliza automaticamente pelos trilhos. Para sair do trilho, basta pular.
@@ -487,7 +487,7 @@
       Use para fazer Sonic desviar de obstáculos ao correr.
     </text>
     <text name="tip_009_Steam" id="2554676038" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Em batalha, pressione <image name="button_right_trigger_Wh" /> e depois <image name="s_button_attack_Wh" /> no ar para executar um Tiro Teleguiado na sequência de um Turbo Aéreo.
+      Em batalha, pressione <image name="button_right_trigger_Wh" /> e depois <image name="s_button_attack_Wh" /> no ar para executar um Tiro Teleguiado na sequência de um Boost Aéreo.
     </text>
     <text name="tip_016_Steam" id="2752827330" font="Range_FNT_tips" layout="Range_LAY_tips">
       Pressione <image name="s_button_cyloop_Wh" />+<image name="button_right_Wh" /> quando o comando aparecer na tela para executar uma Pancada Fatal.

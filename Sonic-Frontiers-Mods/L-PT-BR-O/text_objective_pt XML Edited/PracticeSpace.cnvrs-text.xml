@@ -260,7 +260,7 @@
       Trave a mira
     </text>
     <text name="ps_mission_05" id="3631826004" font="Range_FNT" layout="Range_LAY">
-      Aparagem
+      Parry
     </text>
     <text name="ps_mission_06" id="3631826005" font="Range_FNT" layout="Range_LAY">
       Esquiva
@@ -269,28 +269,28 @@
       Ative o Impulso Espectral
     </text>
     <text name="ps_mission_08" id="3631826007" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Impulso Radical
+      Comando Manual para Impulso Radical
     </text>
     <text name="ps_mission_09" id="3631826008" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Tiro Teleguiado
+      Comando Manual para Tiro Teleguiado
     </text>
     <text name="ps_mission_10" id="3631826126" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Pisada
+      Comando Manual para Pisada
     </text>
     <text name="ps_mission_11" id="3631826127" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Explosão Sônica
+      Comando Manual para Explosão Sônica
     </text>
     <text name="ps_mission_12" id="3631826128" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Golpe Giratório
+      Comando Manual para Golpe Giratório
     </text>
     <text name="ps_mission_13" id="3631826129" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Chute Giratório
+      Comando Manual para Chute Giratório
     </text>
     <text name="ps_mission_14" id="3631826130" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Golpe Cruzado
+      Comando Manual para Golpe Cruzado
     </text>
     <text name="ps_mission_15" id="3631826131" font="Range_FNT" layout="Range_LAY">
-      Comando manual para Chute Ciclone
+      Comando Manual para Chute Ciclone
     </text>
     <text name="ps_mission_16" id="3631826132" font="Range_FNT" layout="Range_LAY">
       Pancada Fatal
@@ -308,7 +308,7 @@
       Ataque Direcionado
     </text>
     <text name="ps_mission_21" id="3631826254" font="Range_FNT" layout="Range_LAY">
-      Turbo
+      Boost
     </text>
     <text name="ps_mission_22" id="3631826255" font="Range_FNT" layout="Range_LAY">
       Pisada
@@ -317,7 +317,7 @@
       Pulo com Pisada
     </text>
     <text name="ps_mission_24" id="3631826257" font="Range_FNT" layout="Range_LAY">
-      Turbo Aéreo
+      Boost Aéreo
     </text>
     <text name="ps_mission_25" id="3631826258" font="Range_FNT" layout="Range_LAY">
       Deslocamento Rápido
@@ -338,10 +338,10 @@
       Corrida na Parede
     </text>
     <text name="ps_mission_31" id="3631826381" font="Range_FNT" layout="Range_LAY">
-      Corrida Turbo na Parede
+      Corrida Boost na Parede
     </text>
     <text name="ps_mission_32" id="3631826382" font="Range_FNT" layout="Range_LAY">
-      Cancelar Turbo Aéreo com Pisada
+      Cancelar Boost Aéreo com Pisada
     </text>
     <text name="ps_mission_33" id="3631826383" font="Range_FNT" layout="Range_LAY">
       Cancelar Ataque Direcionado com Pisada
@@ -350,199 +350,199 @@
       Truque Aéreo x3
     </text>
     <text name="ps_mission_35" id="3631826385" font="Range_FNT" layout="Range_LAY">
-      Aparagem Contínua
+      Parry Contínuo
     </text>
     <text name="ps_mission_36" id="3631826386" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_37" id="3631826387" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_38" id="3631826388" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_39" id="3631826389" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_40" id="3631826507" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_41" id="3631826508" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_42" id="3631826509" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_43" id="3631826510" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_44" id="3631826511" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_45" id="3631826512" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_46" id="3631826513" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_47" id="3631826514" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_48" id="3631826515" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_49" id="3631826516" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_50" id="3631826634" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_51" id="3631826635" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_52" id="3631826636" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_53" id="3631826637" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_54" id="3631826638" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_55" id="3631826639" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_56" id="3631826640" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_57" id="3631826641" font="Range_FNT" layout="Range_LAY">
-      Execute combos em sequência
+      Execute Combos em Sequência
     </text>
     <text name="ps_mission_58" id="3631826642" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_59" id="3631826643" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_60" id="3631826761" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_61" id="3631826762" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_62" id="3631826763" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_63" id="3631826764" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_64" id="3631826765" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_65" id="3631826766" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_66" id="3631826767" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_67" id="3631826768" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_68" id="3631826769" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_69" id="3631826770" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_70" id="3631826888" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_71" id="3631826889" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_72" id="3631826890" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_73" id="3631826891" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_74" id="3631826892" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_75" id="3631826893" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_76" id="3631826894" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_77" id="3631826895" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_78" id="3631826896" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_79" id="3631826897" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_80" id="3631827015" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_81" id="3631827016" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_82" id="3631827017" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_83" id="3631827018" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_84" id="3631827019" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_85" id="3631827020" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_86" id="3631827021" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_87" id="3631827022" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_88" id="3631827023" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_89" id="3631827024" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_90" id="3631827142" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_91" id="3631827143" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_92" id="3631827144" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_93" id="3631827145" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_94" id="3631827146" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_95" id="3631827147" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_96" id="3631827148" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_97" id="3631827149" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_98" id="3631827150" font="Range_FNT" layout="Range_LAY">
-      Execute ações em sequência
+      Execute Ações em Sequência
     </text>
     <text name="ps_mission_99" id="3631827151" font="Range_FNT" layout="Range_LAY">
-      Encadeie combos de ataque
+      Encadeie Combos de ataque
     </text>
     <text name="ps_explain_00" id="3649726180" font="Range_FNT" layout="Range_LAY" />
     <text name="ps_explain_01" id="3649726181" font="Range_FNT" layout="Range_LAY" />
@@ -655,28 +655,28 @@
       Golpe Cruzado → Chute Ciclone
     </text>
     <text name="ps_explain_58" id="3649726823" font="Range_FNT" layout="Range_LAY">
-      Pulo → Turbo Aéreo → Cancelar Turbo Aéreo com Pisada → Turbo
+      Pulo → Boost Aéreo → Cancelar Boost Aéreo com Pisada → Boost
     </text>
     <text name="ps_explain_59" id="3649726824" font="Range_FNT" layout="Range_LAY">
-      Pulo → Turbo Aéreo → Cancelar Turbo Aéreo com Pisada → Turbo → Deslizada
+      Pulo → Boost Aéreo → Cancelar Boost Aéreo com Pisada → Boost → Deslizada
     </text>
     <text name="ps_explain_60" id="3649726942" font="Range_FNT" layout="Range_LAY">
-      Turbo → Pulo → Pisada
+      Boost → Pulo → Pisada
     </text>
     <text name="ps_explain_61" id="3649726943" font="Range_FNT" layout="Range_LAY">
-      Turbo → Pulo → Pisada → Turbo
+      Boost → Pulo → Pisada → Boost
     </text>
     <text name="ps_explain_62" id="3649726944" font="Range_FNT" layout="Range_LAY">
-      Turbo → Pulo → Pisada → Turbo → Pulo Duplo
+      Boost → Pulo → Pisada → Boost → Pulo Duplo
     </text>
     <text name="ps_explain_63" id="3649726945" font="Range_FNT" layout="Range_LAY">
-      Turbo → Arrancada Suave → Pisada
+      Boost → Arrancada Suave → Pisada
     </text>
     <text name="ps_explain_64" id="3649726946" font="Range_FNT" layout="Range_LAY">
-      Turbo → Arrancada Suave → Pisada → Turbo
+      Boost → Arrancada Suave → Pisada → Boost
     </text>
     <text name="ps_explain_65" id="3649726947" font="Range_FNT" layout="Range_LAY">
-      Turbo → Arrancada Suave → Pisada → Turbo → Pulo Duplo
+      Boost → Arrancada Suave → Pisada → Boost → Pulo Duplo
     </text>
     <text name="ps_explain_66" id="3649726948" font="Range_FNT" layout="Range_LAY">
       Ataque Direcionado → Cancelar Ataque Direcionado com Pisada → Pulo Duplo
@@ -694,88 +694,88 @@
       Pulo → Arrancada Suave → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada
     </text>
     <text name="ps_explain_71" id="3649727070" font="Range_FNT" layout="Range_LAY">
-      Pulo → Arrancada Suave → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada → Turbo
+      Pulo → Arrancada Suave → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada → Boost
     </text>
     <text name="ps_explain_72" id="3649727071" font="Range_FNT" layout="Range_LAY">
-      Turbo → Ataque Direcionado → Ataque Direcionado
+      Boost → Ataque Direcionado → Ataque Direcionado
     </text>
     <text name="ps_explain_73" id="3649727072" font="Range_FNT" layout="Range_LAY">
-      Turbo → Ataque Direcionado → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada
+      Boost → Ataque Direcionado → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada
     </text>
     <text name="ps_explain_74" id="3649727073" font="Range_FNT" layout="Range_LAY">
-      Turbo → Ataque Direcionado → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada → Pulo Duplo
+      Boost → Ataque Direcionado → Ataque Direcionado → Cancelar Ataque Direcionado com Pisada → Pulo Duplo
     </text>
     <text name="ps_explain_75" id="3649727074" font="Range_FNT" layout="Range_LAY">
       Pulo → Ataque Direcionado → Ataque Direcionado
     </text>
     <text name="ps_explain_76" id="3649727075" font="Range_FNT" layout="Range_LAY">
-      Pulo → Ataque Direcionado → Ataque Direcionado → Turbo Aéreo
+      Pulo → Ataque Direcionado → Ataque Direcionado → Boost Aéreo
     </text>
     <text name="ps_explain_77" id="3649727076" font="Range_FNT" layout="Range_LAY">
-      Pulo → Ataque Direcionado → Ataque Direcionado → Turbo Aéreo → Cancelar Turbo Aéreo com Pisada
+      Pulo → Ataque Direcionado → Ataque Direcionado → Boost Aéreo → Cancelar Boost Aéreo com Pisada
     </text>
     <text name="ps_explain_78" id="3649727077" font="Range_FNT" layout="Range_LAY">
-      Turbo → Corrida na Parede → Pulo Duplo
+      Boost → Corrida na Parede → Pulo Duplo
     </text>
     <text name="ps_explain_79" id="3649727078" font="Range_FNT" layout="Range_LAY">
-      Turbo → Corrida na Parede → Pulo Duplo → Turbo Aéreo
+      Boost → Corrida na Parede → Pulo Duplo → Boost Aéreo
     </text>
     <text name="ps_explain_80" id="3649727196" font="Range_FNT" layout="Range_LAY">
-      Turbo → Corrida na Parede → Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede
+      Boost → Corrida na Parede → Pulo Duplo → Boost Aéreo → Corrida Boost na Parede
     </text>
     <text name="ps_explain_81" id="3649727197" font="Range_FNT" layout="Range_LAY">
-      Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede
+      Pulo Duplo → Boost Aéreo → Corrida Boost na Parede
     </text>
     <text name="ps_explain_82" id="3649727198" font="Range_FNT" layout="Range_LAY">
-      Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede → Pulo
+      Pulo Duplo → Boost Aéreo → Corrida Boost na Parede → Pulo
     </text>
     <text name="ps_explain_83" id="3649727199" font="Range_FNT" layout="Range_LAY">
-      Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede → Pulo → Turbo Aéreo
+      Pulo Duplo → Boost Aéreo → Corrida Boost na Parede → Pulo → Boost Aéreo
     </text>
     <text name="ps_explain_84" id="3649727200" font="Range_FNT" layout="Range_LAY">
-      Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede → Pulo → Turbo Aéreo → Corrida Turbo na Parede
+      Pulo Duplo → Boost Aéreo → Corrida Boost na Parede → Pulo → Boost Aéreo → Corrida Boost na Parede
     </text>
     <text name="ps_explain_85" id="3649727201" font="Range_FNT" layout="Range_LAY">
-      Deslizada → Pulo Duplo → Turbo Aéreo
+      Deslizada → Pulo Duplo → Boost Aéreo
     </text>
     <text name="ps_explain_86" id="3649727202" font="Range_FNT" layout="Range_LAY">
-      Deslizada → Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede
+      Deslizada → Pulo Duplo → Boost Aéreo → Corrida Boost na Parede
     </text>
     <text name="ps_explain_87" id="3649727203" font="Range_FNT" layout="Range_LAY">
-      Deslizada → Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede → Pulo
+      Deslizada → Pulo Duplo → Boost Aéreo → Corrida Boost na Parede → Pulo
     </text>
     <text name="ps_explain_88" id="3649727204" font="Range_FNT" layout="Range_LAY">
-      Deslizada → Pulo Duplo → Turbo Aéreo → Corrida Turbo na Parede → Pulo → Arrancada Suave
+      Deslizada → Pulo Duplo → Boost Aéreo → Corrida Boost na Parede → Pulo → Arrancada Suave
     </text>
     <text name="ps_explain_89" id="3649727205" font="Range_FNT" layout="Range_LAY">
-      Pulo → Ataque Direcionado → Turbo Aéreo
+      Pulo → Ataque Direcionado → Boost Aéreo
     </text>
     <text name="ps_explain_90" id="3649727323" font="Range_FNT" layout="Range_LAY">
-      Pulo → Ataque Direcionado → Turbo Aéreo → Corrida Turbo na Parede
+      Pulo → Ataque Direcionado → Boost Aéreo → Corrida Boost na Parede
     </text>
     <text name="ps_explain_91" id="3649727324" font="Range_FNT" layout="Range_LAY">
-      Pulo → Ataque Direcionado → Turbo Aéreo → Corrida Turbo na Parede → Pulo Duplo
+      Pulo → Ataque Direcionado → Boost Aéreo → Corrida Boost na Parede → Pulo Duplo
     </text>
     <text name="ps_explain_92" id="3649727325" font="Range_FNT" layout="Range_LAY">
-      Turbo → Pulo Duplo → Corrida na Parede
+      Boost → Pulo Duplo → Corrida na Parede
     </text>
     <text name="ps_explain_93" id="3649727326" font="Range_FNT" layout="Range_LAY">
-      Turbo → Pulo Duplo → Corrida na Parede → Pulo
+      Boost → Pulo Duplo → Corrida na Parede → Pulo
     </text>
     <text name="ps_explain_94" id="3649727327" font="Range_FNT" layout="Range_LAY">
-      Turbo → Pulo Duplo → Corrida na Parede → Pulo → Ataque Direcionado
+      Boost → Pulo Duplo → Corrida na Parede → Pulo → Ataque Direcionado
     </text>
     <text name="ps_explain_95" id="3649727328" font="Range_FNT" layout="Range_LAY">
-      Ataque Direcionado → Turbo Aéreo → Corrida Turbo na Parede
+      Ataque Direcionado → Boost Aéreo → Corrida Boost na Parede
     </text>
     <text name="ps_explain_96" id="3649727329" font="Range_FNT" layout="Range_LAY">
-      Ataque Direcionado → Turbo Aéreo → Corrida Turbo na Parede → Pulo
+      Ataque Direcionado → Boost Aéreo → Corrida Boost na Parede → Pulo
     </text>
     <text name="ps_explain_97" id="3649727330" font="Range_FNT" layout="Range_LAY">
-      Ataque Direcionado → Turbo Aéreo → Corrida Turbo na Parede → Pulo → Turbo Aéreo
+      Ataque Direcionado → Boost Aéreo → Corrida Boost na Parede → Pulo → Boost Aéreo
     </text>
     <text name="ps_explain_98" id="3649727331" font="Range_FNT" layout="Range_LAY">
-      Ataque Direcionado → Turbo Aéreo → Corrida Turbo na Parede → Pulo → Turbo Aéreo → Arrancada Suave
+      Ataque Direcionado → Boost Aéreo → Corrida Boost na Parede → Pulo → Boost Aéreo → Arrancada Suave
     </text>
     <text name="ps_explain_99" id="3649727332" font="Range_FNT" layout="Range_LAY" />
     <text name="ps_command_16_Steam" id="3757358566" font="Range_FNT" layout="Range_LAY">
