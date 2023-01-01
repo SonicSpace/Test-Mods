@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="tu1000dlc_010" id="3963480491" font="Range_FNT" layout="Range_LAY">
+      Caixa de Tesouro de Explorador Resgatada
+    </text>
+    <text name="tu1000dlc_015" id="3963480496" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Você resgatou a Caixa de Tesouro de Explorador. Os seguintes itens foram obtidos:
+      
+      40 itens Mnemônicos da Amy 
+      10 chaves de Cofre das Esmeralda do Caos
+      1 engrenagem de Portal da Ilha Kronos
+    </text>
+    <text name="tu1000dlc_020" id="3963480618" font="Range_FNT" layout="Range_LAY">
+      Resgate da Caixa de Tesouro de Explorador
+    </text>
+    <text name="tu1000dlc_025" id="3963480623" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      O conteúdo da Caixa de Tesouro de Explorador ficará disponível após concluir o tutorial e retornar à tela do menu principal ou entrar no CybeEespaço.
+    </text>
+    <text name="tu1000dlc_030" id="3963480745" font="Range_FNT" layout="Range_LAY">
+      O Espeto de Churrasco
+    </text>
+    <text name="tu1000dlc_035" id="3963480750" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      O Espeto de Churrasco fica disponível após entrar em um Ponto de Pesca pela segunda vez.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
