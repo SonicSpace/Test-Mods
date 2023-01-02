@@ -245,7 +245,7 @@
     <text name="menu_field_sa1_save_Xbox" id="1307177876" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_op_message_01_detail" id="1310021465" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       As configurações do jogo foram alteradas. 
-               Deseja Salvar estas alterações?
+             Deseja Salvar estas alterações?
     </text>
     <text name="menu_btnguide_mapzoom_Steam_1" id="1344870835" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ampliar
