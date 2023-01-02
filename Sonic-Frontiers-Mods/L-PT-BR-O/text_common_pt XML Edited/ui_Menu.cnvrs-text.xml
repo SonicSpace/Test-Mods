@@ -561,7 +561,7 @@
       Escolha a qualidade dos gráficos para um conjunto de configurações
     </text>
     <text name="menu_cmn_op3gr_blur" id="2878722948" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Desfoque
+      Desfoque de Movimento
     </text>
     <text name="menu_cmn_op3gr_goal" id="2889010704" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição de Objetivos
@@ -685,7 +685,7 @@
       <image name="exchara_micon_heart" /> Item Mnemônico
     </text>
     <text name="menu_cmn_op4la_voice_mtips" id="3440017638" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Altera o Idioma da Dublagem
+      Altera o idioma da dublagem
     </text>
     <text name="menu_title_choice_excontents" id="3446621124" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       DLC's
