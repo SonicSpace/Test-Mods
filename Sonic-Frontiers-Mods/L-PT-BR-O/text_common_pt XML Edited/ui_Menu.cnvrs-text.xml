@@ -666,7 +666,7 @@
     </text>
     <text name="menu_field_save_Switch" id="3280754129" font="Range_FNT_tablv1" layout="Range_LAY_tablv1" />
     <text name="menu_cmn_op3gr_screen" id="3284846313" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Modo de Tela
+      Tipo de Tela
     </text>
     <text name="menu_cmn_op3gr_vsync_mtips" id="3302490106" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Sincroniza a taxa de quadros de um jogo com a taxa de atualização de um monitor.
@@ -791,7 +791,7 @@
       Escolha uma configuração para o bloom
     </text>
     <text name="menu_cmn_choice_fullscreen" id="3911675902" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Tela Cheia
+      Modo Tela Cheia
     </text>
     <text name="menu_btnguide_close0" id="3913627095" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Voltar
@@ -821,7 +821,7 @@
       <image name="exchara_micon_emy" /> <image name="exchara_micon_sage" /> História Secundária
     </text>
     <text name="menu_cmn_choice_borderless" id="3986808840" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Janela Em Tela Cheia
+      Modo Janela Em Tela Cheia
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips_Switch" id="3995606731" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita a Vibração HD
