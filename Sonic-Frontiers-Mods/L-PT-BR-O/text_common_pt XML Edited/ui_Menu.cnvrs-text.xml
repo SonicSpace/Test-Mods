@@ -171,7 +171,7 @@
       Tempo de Jogo
     </text>
     <text name="menu_btnguide_yes" id="962988808" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sim
+      Sim!
     </text>
     <text name="menu_btnguide_notapply" id="980890490" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Não!
@@ -320,7 +320,7 @@
       Ajusta as configurações do jogo
     </text>
     <text name="menu_cmn_op3gr_resolution" id="1789808105" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Resolução
+      Resolução da Tela
     </text>
     <text name="menu_cmn_choice_easy_mtips" id="1792076683" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Recomendado para quem deseja um foco maior na história.
@@ -742,7 +742,7 @@
       Treine enquanto o jogo carregue
     </text>
     <text name="menu_cmn_op3gr_combo_mtips" id="3636358903" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Habilita ou desabilita a exibição de sequências de golpes feitos pelo Sonic
+      Habilita ou desabilita a exibição de números de golpes feitos pelo Sonic
     </text>
     <text name="menu_title_choice_manual_mtips1" id="3643210254" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Acesse a seguinte URL para ler o manual online de Sonic Frontiers:
@@ -827,7 +827,7 @@
       Habilita ou desabilita a Vibração HD
     </text>
     <text name="menu_btnguide_no" id="3998180736" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Não
+      Não!
     </text>
     <text name="menu_field_sa1_save_mtips" id="4007676388" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Salvar

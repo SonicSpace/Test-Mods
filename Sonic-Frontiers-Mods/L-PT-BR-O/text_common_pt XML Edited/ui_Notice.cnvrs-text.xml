@@ -48,7 +48,9 @@
     </text>
     <text name="notice_save_auto_PC" id="603475624" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_displayset" id="656043879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      As configurações de vídeo foram alteradas. Deseja salvá-las?
+           As configurações de vídeo foram alteradas. 
+                              Deseja salvá-las?
+                       
       Voltando às predefinições padrão em <var name="rendering_sec" /> segundo(s).
     </text>
     <text name="notice_save_battle" id="717761299" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
