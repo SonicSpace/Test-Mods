@@ -92,7 +92,7 @@
       Mensagem do Sistema
     </text>
     <text name="notice_header_battle" id="1911547491" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
-      Salvar/Carregar está Indisponível
+      Salvar ou Carregar o Save Está Temporariamente Indisponível
     </text>
     <text name="notice_header_battle_Xbox" id="2105355535" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
     <text name="notice_ENDdifficulty_detail" id="2364183169" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
@@ -106,7 +106,7 @@
     </text>
     <text name="notice_playgo_detail" id="2544957261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Aguarde até que a cópia dos dados seja concluída
-      Progresso: <var name="copy_progress" />%
+      Progresso: <var name="copy_progress" />% Concluído!
     </text>
     <text name="SecondaryActivityAll" id="2649127134">
       Reinicie a partir da seção atual.
@@ -126,7 +126,7 @@
     <text name="notice_save_unfound_PC" id="3224987652" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_save_unfound_Xbox" id="3788785828" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="notice_quit_detail" id="3866166746" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Deseja Fechar o Jogo?
+      Deseja fechar o jogo?
     </text>
     <text name="notice_save_unfound_Switch" id="3999537861" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="ErrorwindowHead_5" id="4224531886" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">

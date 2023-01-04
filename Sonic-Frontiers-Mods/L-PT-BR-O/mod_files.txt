@@ -5,3 +5,6 @@ add pak.text_caption_pt-br/raw/text/text_skill_pt.pac
 add pak.text_caption_pt-br/raw/text/text_objective_pt.pac
 add pak.text_caption_pt-br/raw/text/text_RichPresence_pt.pac
 add pak.text_caption_pt-br/raw/text/text_dlc_common_pt.pac
+add pak.text_caption_pt-br/raw/ui/ui_boot.pac
+add pak.text_caption_pt-br/raw/ui/ui_gamemodetitle.pac
+add pak.text_caption_pt-br/raw/ui/ui_gamemodetitle_pt.pac

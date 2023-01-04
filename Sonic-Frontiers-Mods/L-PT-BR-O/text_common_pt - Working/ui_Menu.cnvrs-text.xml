@@ -5,10 +5,10 @@
       Volume Principal
     </text>
     <text name="menu_map_releaserate" id="40411268" font="Range_FNT" layout="Range_LAY">
-      Progresso do Mapa
+      Progresso da Ilha
     </text>
     <text name="menu_map_percent" id="41719106" font="Range_FNT" layout="Range_LAY">
-      %
+      % CONCLUÍDO!
     </text>
     <text name="menu_cmn_choice_reverse" id="47129727" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Inverter
@@ -171,10 +171,10 @@
       Tempo de Jogo
     </text>
     <text name="menu_btnguide_yes" id="962988808" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sim!
+      SIM!
     </text>
     <text name="menu_btnguide_notapply" id="980890490" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Não!
+      CANCELAR!
     </text>
     <text name="menu_cmn_op1ke_vibration_Switch" id="993776721" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Vibração HD
@@ -186,7 +186,7 @@
       Personalizado
     </text>
     <text name="menu_btnguide_cancel" id="1049729657" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Não!
+      CANCELAR!
     </text>
     <text name="menu_cmn_op3gr_skillp" id="1052714492" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Exibição de Pontos de Habilidade
@@ -375,7 +375,7 @@
       <image name="exchara_micon_spana" /> Item Mnemônico
     </text>
     <text name="menu_btnguide_quit" id="2024364174" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sim!
+      SAIR!
     </text>
     <text name="menu_btnguide_skip" id="2028299646" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Pular Cena
@@ -402,7 +402,7 @@
       Máx.
     </text>
     <text name="menu_cmn_choice_taa" id="2150203761" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      TAA
+      TAA (Padrão)
     </text>
     <text name="menu_cmn_op3_graphics_mtips" id="2152670265" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Configurações de gráfico e desempenho
@@ -461,7 +461,7 @@
       Modo Desempenho
     </text>
     <text name="menu_cmn_choice_high" id="2468487301" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Qualidade Alta
+      Qualidade Alta (Padrão)
     </text>
     <text name="menu_cmn_op3gr_notification_mtips" id="2470791790" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Habilita ou desabilita as notificações enquanto você explora as ilhas
@@ -582,7 +582,7 @@
       Altera o idioma do texto da interface de usuário
     </text>
     <text name="menu_cmn_op1ke_difficulty" id="2933022091" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Dificuldade
+      Modo de Dificuldade
     </text>
     <text name="menu_field_sa1_save_Switch" id="2945111477" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_field_encyclopedia" id="2985912837" font="Range_FNT_tablv1" layout="Range_LAY_tablv1">
@@ -666,7 +666,7 @@
     </text>
     <text name="menu_field_save_Switch" id="3280754129" font="Range_FNT_tablv1" layout="Range_LAY_tablv1" />
     <text name="menu_cmn_op3gr_screen" id="3284846313" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Tipo de Tela
+      Tipo de Janela
     </text>
     <text name="menu_cmn_op3gr_vsync_mtips" id="3302490106" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Sincroniza a taxa de quadros de um jogo com a taxa de atualização de um monitor.
@@ -782,7 +782,7 @@
       Tentar Novamente o Objetivo
     </text>
     <text name="menu_btnguide_apply" id="3813702767" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Sim!
+      APLICAR AS ALTERAÇÕES!
     </text>
     <text name="menu_btnguide_hermit_shortcut" id="3890217411" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Ir até o Koco Eremita
@@ -827,13 +827,13 @@
       Habilita ou desabilita a Vibração HD
     </text>
     <text name="menu_btnguide_no" id="3998180736" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Não!
+      CANCELAR!
     </text>
     <text name="menu_field_sa1_save_mtips" id="4007676388" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Salvar
     </text>
     <text name="menu_cmn_choice_60fps" id="4021138924" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      60 FPS
+      60 FPS (Padrão)
     </text>
     <text name="menu_cmn_op1ke_vibration" id="4023382722" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Vibração

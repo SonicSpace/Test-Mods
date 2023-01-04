@@ -91,10 +91,10 @@
       OXIGÊNIO
     </text>
     <text name="hud_info_hurryup1" id="2823092755" font="Range_FNT_HUDdeco" layout="Range_LAY">
-      Rápido!
+      RÁPIDO!
     </text>
     <text name="hud_info_hurryup2" id="2823092756" font="Range_FNT_HUDdeco" layout="Range_LAY">
-      Rápido!
+      RÁPIDO!
     </text>
     <text name="hud_enemy_boss1" id="3206077989" font="Range_FNT" layout="Range_LAY">
       GIGANTO
