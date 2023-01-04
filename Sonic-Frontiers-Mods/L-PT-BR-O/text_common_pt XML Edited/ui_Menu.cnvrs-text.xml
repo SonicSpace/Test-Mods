@@ -8,7 +8,7 @@
       Progresso da Ilha
     </text>
     <text name="menu_map_percent" id="41719106" font="Range_FNT" layout="Range_LAY">
-      % CONCLUÍDO!
+      % 
     </text>
     <text name="menu_cmn_choice_reverse" id="47129727" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Inverter
