@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="si3001_003" id="2903740488" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mais uma rodada de Portais, Chaves e Esmeraldas...
+    </text>
+    <text name="si3001_005" id="2903740490" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Preciso ir atrás das outras Esmeraldas!
+    </text>
+    <text name="si3001_009" id="2903740494" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Preciso voltar a procurar as Esmeraldas.
+    </text>
+    <text name="si3001_020" id="2903740739" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O Tails tá me preocupando... Não. Preciso ter fé nele. Tô contando com ele, e ele tá contando comigo.
+    </text>
+    <text name="si3001_021" id="2903740740" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tanta destruição... Como será que era na época dos Anciões?
+    </text>
+    <text name="si3001_022" id="2903740741" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que tô batendo um recorde de quantas vezes encontrei as Esmeraldas
+      num período tão curto de tempo. Haha!
+    </text>
+    <text name="si3001_023" id="2903740742" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Espero que eu consiga me livrar dessa CyberEnergia depois que todo mundo estiver seguro.
+      Não tô... me sentindo muito bem...
+    </text>
+    <text name="si3001_017a" id="3702838550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que é muito tarde pra ligar pra Rouge e pedir pra ela roubar as outras Esmeraldas pra mim?
+    </text>
+    <text name="si3001_017b" id="3702838551">
+      Aposto que o Omega teria adorado enfrentar aqueles Titãs.
+    </text>
+    <text name="si3001_017c" id="3702838552">
+      A essa altura, eu não ia achar ruim se o Shadow me desse uma mãozinha...
+    </text>
+    <text name="si3001_018a" id="3702838677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tá tão quente aqui. Por que tô sentindo... frio?
+    </text>
+    <text name="si3001_018b" id="3702838678">
+      É meio como se... desse pra ouvir o CyberEspaço.
+    </text>
+    <text name="si3001_018c" id="3702838679">
+      O que eu não daria pra ter a ajuda da Blaze agora.
+    </text>
+    <text name="si3001_019a" id="3702838804" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A Amy disse que a primeira ilha tava penando pra se recuperar da devastação que sofreu.
+      Esse lugar me dá a mesma sensação.
+    </text>
+    <text name="si3001_019b" id="3702838805" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aposto que o Zavok ia se sentir em casa aqui. Como será que ele tá? Péssimo, eu espero. RÁ!
+    </text>
+    <text name="si3001_019c" id="3702838806" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que tem um palácio escondido dentro do vulcão igual na Ilha dos Anjos?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

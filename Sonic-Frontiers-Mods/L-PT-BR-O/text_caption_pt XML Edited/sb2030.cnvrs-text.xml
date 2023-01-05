@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb2030_010" id="1841230522" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei! Tô disposto a deixar o passado pra trás se você me contar como recuperar meus amigos.
+      Tanto a Amy quanto o Knuckles estão parecendo fantasma. Tipo você.
+    </text>
+    <text name="sb2030_020" id="1841230649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Todos os dados do CyberEspaço são restritos a quem é de fora.
+    </text>
+    <text name="sb2030_030" id="1841230776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas é aí que tá. Eles estão meio que dentro e meio que fora.
+      Você não pode pelo menos me dizer se vão ficar bem?
+    </text>
+    <text name="sb2030_040" id="1841230903" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A condição deles é estável. Estão presos entre a dimensão digital e esta, mas não correm risco de vida.
+    </text>
+    <text name="sb2030_050" id="1841231030" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Que alívio. Bom, mais ou menos. Valeu por responder!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

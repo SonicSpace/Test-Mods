@@ -1,2 +1,1 @@
-ev3030.cnvrs-text 
 sb1010.cnvrs-text

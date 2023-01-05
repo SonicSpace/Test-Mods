@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4040_010" id="3350330423" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Parece que o Tails tava certo. As ruínas eram tecnologias que os Anciões usavam
+      pra transferir ideias pro CyberEspaço, mas não corpos.
+    </text>
+    <text name="sb4040_020" id="3350330550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Correto. Eles queriam arquivar todas as conquistas, criações e conhecimento.
+    </text>
+    <text name="sb4040_030" id="3350330677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Se não pudessem passar isso para o próprio povo, poderiam passar para quem herdasse este mundo deles.
+    </text>
+    <text name="sb4040_040" id="3350330804" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Dessa forma, além do conhecimento técnico, poderiam repassar a percepção e as intenções deles.
+    </text>
+    <text name="sb4040_050" id="3350330931" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então é basicamente um disco rígido gigante pra fazer backup de tudo sobre eles. Impressionante.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

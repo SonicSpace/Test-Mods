@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="si1001_002" id="73271625" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sinto que tem uma Esmeralda do Caos por perto. É melhor pegar!
+    </text>
+    <text name="si1001_004" id="73271627" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Melhor ir pegar aquela Esmeralda!
+    </text>
+    <text name="si1001_010" id="73271750" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tô progredindo bem. O que será que a Amy tá fazendo?
+    </text>
+    <text name="si1001_011" id="73271751" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      De que tipo de devastação será que essa ilha tá se recuperando?
+    </text>
+    <text name="si1001_013" id="73271753" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Preciso encontrar um jeito de recuperar a Amy. Seria bom ter a ajuda dela pra achar o Tails.
+    </text>
+    <text name="si1001_014" id="73271754" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Voz sinistra no céu? Tá por aí? Não? Beleza.
+    </text>
+    <text name="si1001_015" id="73271755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É bom ter um lugar novo pra explorar, mas tô muito preocupado com a Amy e o Tails.
+    </text>
+    <text name="si1001_025" id="73271882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aposto que a Tangle ia adorar escalar essas ruínas.
+    </text>
+    <text name="si1001_026" id="73271883" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que tem um Jardim dos Chaos escondido por aqui? Eh, acho que não é o clima certo pra isso.
+    </text>
+    <text name="si1001_028" id="73271885" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Primeiro, salvar os amigos. Segundo, ir pra casa. Terceiro, relaxar com um bom livro e um ou sete cachorros-quentes.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

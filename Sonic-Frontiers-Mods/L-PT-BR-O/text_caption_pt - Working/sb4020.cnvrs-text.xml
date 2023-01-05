@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4020_010" id="1698101049" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei, o CyberEspaço interagiu mesmo com o meu cérebro?
+    </text>
+    <text name="sb4020_020" id="1698101176" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ele foi criado para catalogar redes neurais, entre outras coisas, então sim.
+    </text>
+    <text name="sb4020_030" id="1698101303" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Certo, agora me escuta: você acha que todos aqueles lugares que eu visitei foram tirados da minha memória?
+    </text>
+    <text name="sb4020_040" id="1698101430" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É plausível. Ele importou os dados da sua memória e aplicou
+      aos seus arredores para que você pudesse compreendê-los.
+    </text>
+    <text name="sb4020_050" id="1698101557" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que isso me deu a vantagem de que eu precisava pra escapar todas as vezes?
+      Eu tava andando em terreno conhecido? Rá! Que beleza!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

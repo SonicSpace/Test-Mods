@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4090_010" id="1038452914" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você foi criada pelo Eggman, não foi?
+    </text>
+    <text name="sb4090_020" id="1038453041" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Correto. Meu código-fonte foi compilado por ele.
+    </text>
+    <text name="sb4090_030" id="1038453168" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O escopo das minhas capacidades foi amplamente modificado quando me integrei ao CyberEspaço,
+      mas ele é meu criador.
+    </text>
+    <text name="sb4090_040" id="1038453295" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, cara. Aposto que ele não esperava que a I.A. genial dele fosse sugerir que a gente trabalhasse junto.
+    </text>
+    <text name="sb4090_050" id="1038453422" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Apresentei o cenário com a maior probabilidade de sobrevivência. Só isso.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

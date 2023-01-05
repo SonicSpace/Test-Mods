@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb1050_010" id="4225709113" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Essas ruínas são quase um quebra-cabeça.
+    </text>
+    <text name="sb1050_020" id="4225709240" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Pois é. Nem sei o que eu tô fazendo. Tô só seguindo minha intuição.
+    </text>
+    <text name="sb1050_030" id="4225709367" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bom, a energia delas é ligada ao CyberEspaço, não é? E você recebeu esse poder
+      quando me libertou. Será que essa ligação tá te dando um discernimento especial?
+    </text>
+    <text name="sb1050_040" id="4225709494" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Talvez eles usassem essa ligação entre eles. Tipo, em vez de falarem um idioma,
+      eles compartilhavam os pensamentos e sentimentos diretamente!
+    </text>
+    <text name="sb1050_050" id="4225709621" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Talvez. Tudo o que sei é que isso atualiza o mapa na minha cabeça
+      e me deixa um passo mais perto de salvar você!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

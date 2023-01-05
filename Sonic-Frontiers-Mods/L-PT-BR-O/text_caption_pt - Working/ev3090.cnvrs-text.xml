@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev3090_010" id="194262613" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bom... é isso. O canhão tá pronto.
+    </text>
+    <text name="ev3090_020" id="194262740" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3090_030" id="194262867" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu peguei as peças erradas?
+    </text>
+    <text name="ev3090_040" id="194262994" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não. O herói dele não apareceu. Ele tá com medo de ter acontecido alguma coisa.
+    </text>
+    <text name="ev3090_050" id="194263121" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tipo quando eu surtei depois do ataque do Infinite. 
+      Bastou uma decisão errada e eu desmoronei...
+    </text>
+    <text name="ev3090_060" id="194263248" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Opa... quê?
+    </text>
+    <text name="ev3090_070" id="194263375" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Escuta. Os outros estão contando com você. 
+      Eu tô aqui pra ajudar, então não desiste, ok?
+    </text>
+    <text name="ev3090_080" id="194263502" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3090_090" id="194263629" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você tá me preocupando, Tails. Quer conversar?
+    </text>
+    <text name="ev3090_100" id="194278615" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Agora não. Vamos nos concentrar em achar as Esmeraldas.
+    </text>
+    <text name="ev3090_110" id="194278742" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tá bem.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

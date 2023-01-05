@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="si2001_005" id="3635989707" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aquelas Esmeraldas não vão cair do céu!
+    </text>
+    <text name="si2001_008" id="3635989710" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É melhor eu voltar a procurar as Esmeraldas.
+    </text>
+    <text name="si2001_009" id="3635989711" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É melhor eu ver como tá o Knuckles.
+    </text>
+    <text name="si2001_015" id="3635989834" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O que o Knuckles tá fazendo aqui?
+    </text>
+    <text name="si2001_017" id="3635989836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aquela menina flutuante tá torrando a minha paciência.
+    </text>
+    <text name="si2001_018" id="3635989837" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aposto que a Rouge ia adorar caçar tesouros nessas ruínas!
+    </text>
+    <text name="si2001_019" id="3635989838" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Me lembra um pouco o lugar onde a gente achou o Jardim da Babilônia. O que será que o Jet anda aprontando?
+    </text>
+    <text name="si2001_020" id="3635989956" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não parece o estilo dos Kocos construir essas ruínas. Será que...
+    </text>
+    <text name="si2001_021" id="3635989957" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aquelas criaturas nas visões. Elas me lembram...
+    </text>
+    <text name="si2001_023" id="3635989959" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Que beleza, tem areia no meu sapato!
+    </text>
+    <text name="si2001_024" id="3635989960" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Qual é a ligação entre os Anciões e a Ilha dos Anjos? Existe alguma?
+    </text>
+    <text name="si2001_027" id="3635989963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Esse lugar tá me dando saudade do curry de Shamar. Eu devia voltar lá uma hora essas!
+    </text>
+    <text name="si2001_028" id="3635989964" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tem umas regiões que me passam quase a mesma impressão que Sandopolis. Estranho.
+    </text>
+    <text name="si2001_029" id="3635989965" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É seco, mas não tem fantasmas. Prefiro meu deserto sem fantasmas mesmo, obrigado.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

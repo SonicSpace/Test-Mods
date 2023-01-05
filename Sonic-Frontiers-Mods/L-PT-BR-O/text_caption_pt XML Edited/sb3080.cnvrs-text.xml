@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb3080_010" id="3092071092" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm... O motivo da gente ter vindo aqui é porque detectamos que as Esmeraldas do Caos foram trazidas pra cá...
+    </text>
+    <text name="sb3080_020" id="3092071219" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Descobriu alguma coisa?
+    </text>
+    <text name="sb3080_030" id="3092071346" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tô tentando juntar as peças. A tecnologia dos Anciões foi construída
+      especialmente para as Esmeraldas do Caos e funciona com o poder delas.
+    </text>
+    <text name="sb3080_040" id="3092071473" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Todos os sistemas das Ilhas Starfall, até o CyberEspaço, estavam
+      num tipo de modo de repouso sem a Energia das Esmeraldas.
+    </text>
+    <text name="sb3080_050" id="3092071600" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas, quando o fornecimento de energia voltou, alguém teria iniciado os sistemas, que voltaram à ativa.
+    </text>
+    <text name="sb3080_060" id="3092071727" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que eu até sei quem...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

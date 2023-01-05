@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb2010_010" id="189001148" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tirando os Kocos, essas ilhas parecem desertas, não acha?
+    </text>
+    <text name="sb2010_020" id="189001275" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É. Eu vi várias construções dos Anciões nas duas ilhas, mas não tem ninguém nelas.
+    </text>
+    <text name="sb2010_030" id="189001402" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Considerando o estado de decadência e o tanto que a natureza já se espalhou,
+      eu diria que não tem ninguém faz tempo. Mais tempo do que qualquer civilização que a gente conheça.
+    </text>
+    <text name="sb2010_040" id="189001529" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Gosto de pensar que eles acabaram se estabelecendo em outro lugar. Não que eles... se foram.
+    </text>
+    <text name="sb2010_050" id="189001656" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Algumas das tecnologias ativas parecem ter sido construídas pra armazenar e proteger as Esmeraldas do Caos.
+      Comparando isso ao que tem na Ilha dos Anjos... sinto que vim parar aqui por algum motivo.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

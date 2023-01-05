@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb1080_010" id="261602230" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então, tem uma coisa nessas ruínas que me deixou intrigado.
+    </text>
+    <text name="sb1080_020" id="261602357" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O motivo da gente ter vindo aqui é porque o Tails detectou que as Esmeraldas do Caos foram trazidas
+      pra cá, certo?
+    </text>
+    <text name="sb1080_030" id="261602484" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E, agora, tô encontrando chaves digitais e torres de confinamento que parecem feitas especialmente
+      pras Esmeraldas. Tipo, como se metade disso aqui tivesse sido construído pensando nelas.
+    </text>
+    <text name="sb1080_040" id="261602611" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que os Anciões usavam as Esmeraldas do Caos antigamente? Já sabemos de outras civilizações antigas
+      que faziam o mesmo.
+    </text>
+    <text name="sb1080_050" id="261602738" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, mas aquelas tentaram usar as Esmeraldas. O objetivo aqui parece ser contenção.
+    </text>
+    <text name="sb1080_060" id="261602865" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que sabiam de alguma coisa sobre o poder delas que não sabemos?
+      As Esmeraldas do Caos ainda são bem misteriosas, mesmo depois de tudo o que fizemos com elas.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

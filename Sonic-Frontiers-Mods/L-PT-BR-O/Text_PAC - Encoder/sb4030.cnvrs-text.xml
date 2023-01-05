@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4030_010" id="376732088" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu tinha colocado o Dr. Eggman no CyberEspaço para protegê-lo da destruição iminente.
+      Eu esperava evitar as variáveis externas também.
+    </text>
+    <text name="sb4030_020" id="376732215" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não era para você ter vindo para cá.
+    </text>
+    <text name="sb4030_030" id="376732342" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, já saquei isso. Agora entendo por que você trancou meus amigos nas CyberCelas e me enfrentou.
+    </text>
+    <text name="sb4030_040" id="376732469" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu também não pretendia deixar os Titãs em paz.
+    </text>
+    <text name="sb4030_050" id="376732596" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Já é tarde pra qualquer um de nós pedir desculpas. É melhor a gente se concentrar em resolver o problema.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

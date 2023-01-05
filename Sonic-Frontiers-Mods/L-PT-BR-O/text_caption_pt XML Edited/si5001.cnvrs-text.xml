@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="si4000_024" id="1911346885" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ruínas e tesouros. Você ia se sentir em casa aqui, Knux.
+    </text>
+    <text name="si4000_025" id="1911346886" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nunca vou confiar numa torre outra vez, não importa o quanto ela seja legal!
+    </text>
+    <text name="si4000_027" id="1911346888" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tantas ruínas. Não vou deixar isso se repetir!
+    </text>
+    <text name="si4000_028" id="1911346889" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aquela coisa é enorme! Parece importante...
+    </text>
+    <text name="si4001_001" id="2171491269" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Beleza! Mesma coisa de antes! Pegar as Engrenagens, pegar as Chaves,
+      pegar as Esmeraldas e, depois, aproveitar o dia!
+    </text>
+    <text name="si4001_002" id="2171491270" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Preciso encontrar aquelas Esmeraldas logo!
+    </text>
+    <text name="si4001_006" id="2171491274" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O tempo tá acabando! Cadê as Esmeraldas?
+    </text>
+    <text name="si4001_014" id="2171491399" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Amy... a Cream nunca vai me perdoar se eu não te levar de volta!
+    </text>
+    <text name="si4001_017" id="2171491402" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails... é estranho não ter você comigo... 
+    </text>
+    <text name="si4001_021" id="2171491523" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Knuckles... não posso deixar tudo acabar enquanto você me deve uma!
+    </text>
+    <text name="si4001_025" id="2171491527" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eggman... talvez você tome jeito depois dessa... 
+    </text>
+    <text name="si4001_026" id="2171491528" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sage... a gente evoluiu bastante, não é?
+    </text>
+    <text name="si4001_027" id="2171491529" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sage... você cresceu muito nesse meio-tempo.
+    </text>
+    <text name="si4001_028" id="2171491530" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sage... seu pai é complicado, mas você até que é gente boa.
+    </text>
+    <text name="si4001_029" id="2171491531" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O que eu não daria pra comer um cachorro-quente e tirar uma soneca agora...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb3070_010" id="118472757" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estamos em uma altitude muito elevada. É difícil estimar com todas essas nuvens!
+    </text>
+    <text name="sb3070_020" id="118472884" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Se a gente subir mais, vai acabar esbarrando na Ilha dos Anjos.
+      São condições bem adversas pra viver e trabalhar.
+    </text>
+    <text name="sb3070_030" id="118473011" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É provável que os Anciões tiveram um motivo pra vir até aqui.
+    </text>
+    <text name="sb3070_040" id="118473138" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Com base na infraestrutura, acho que essa área não era residencial.
+      Parece mais linhas de frente militares.
+    </text>
+    <text name="sb3070_050" id="118473265" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Posição de primeiro ataque, é? Porque, assim, aqueles canhões não são de enfeite.
+      Considerando tudo o que a gente viu, que tipo de inimigo estavam se preparando pra enfrentar?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

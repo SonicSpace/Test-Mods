@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev4060_010" id="3426120279" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Desta vez, esses Titãs movidos a Esmeraldas do Caos serão a chave da vitória.
+    </text>
+    <text name="ev4060_020" id="3426120406" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Caso contrário... foi decidido que um pequeno grupo
+      levará as Esmeraldas para a maior que nos trouxe aqui.  
+    </text>
+    <text name="ev4060_030" id="3426120533" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Esperemos que não chegue a esse ponto.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

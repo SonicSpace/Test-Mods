@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb1090_010" id="3235200565" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, olá. Você aparece em todo lugar. 
+    </text>
+    <text name="sb1090_020" id="3235200692" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sabe, eu... eu acho que a gente nunca se apresentou direito. Eu sou o Sonic...
+    </text>
+    <text name="sb1090_030" id="3235200819" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu sei quem você é. Sei sua idade, sua biometria, suas vulnerabilidades.
+      Você gosta de alta velocidade, tem temperamento explosivo e é imediatista.
+    </text>
+    <text name="sb1090_040" id="3235200946" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah... então você é minha fã. 
+      Mas eu não sei nada sobre você, Dona...?
+    </text>
+    <text name="sb1090_050" id="3235201073" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não vou compartilhar dados pessoais com um inimigo!
+    </text>
+    <text name="sb1090_060" id="3235201200" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Por que somos inimigos?
+      Que menina esquisita... mas ela não passa a impressão de ser má.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

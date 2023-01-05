@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb3040_010" id="4082579640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Analisei o portal do CyberEspaço na última vez que você o usou.
+    </text>
+    <text name="sb3040_020" id="4082579767" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Enquanto você tava conectado, ele liberou uma avalanche de dados. Era muita coisa pra processar,
+      mas consegui dar uma olhada nos dados pessoais dos Anciões.
+    </text>
+    <text name="sb3040_030" id="4082579894" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, então e aí? Você sabe a data de aniversário de cada um agora?
+    </text>
+    <text name="sb3040_040" id="4082580021" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Muito mais do que isso. Era a própria essência deles, Sonic! As esperanças, os sonhos,
+      tudo o que fazia deles o que eram. Percebe a correlação?
+    </text>
+    <text name="sb3040_050" id="4082580148" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Parece muito com o que aconteceu com você, a Amy e o Knuckles. 
+      Fico feliz que você esteja intacto, mas por que foram todos enviados pra rede daquele jeito?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

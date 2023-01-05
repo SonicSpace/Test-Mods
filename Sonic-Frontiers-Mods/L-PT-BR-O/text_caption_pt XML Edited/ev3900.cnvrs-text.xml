@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev3900_010" id="705447143" font="Range_FNT" layout="Range_LAY">
+      Fale com o Tails
+    </text>
+    <text name="ev3900_020" id="705447270" font="Range_FNT" layout="Range_LAY">
+      Encontre o Tails
+    </text>
+    <text name="ev3900_030" id="705447397" font="Range_FNT" layout="Range_LAY">
+      Pegue a Esmeralda do Caos
+    </text>
+    <text name="ev3900_040" id="705447524" font="Range_FNT" layout="Range_LAY">
+      Colete Chaves de Cofre dos Portais
+    </text>
+    <text name="ev3900_050" id="705447651" font="Range_FNT" layout="Range_LAY">
+      Vá para a Cratera
+    </text>
+    <text name="ev3900_060" id="705447778" font="Range_FNT" layout="Range_LAY">
+      Siga Adiante
+    </text>
+    <text name="ev3900_070" id="705447905" font="Range_FNT" layout="Range_LAY">
+      Resolva o Quebra-Cabeça
+    </text>
+    <text name="ev3900_080" id="705448032" font="Range_FNT" layout="Range_LAY">
+      Colete Itens Mnemônicos do Tails
+    </text>
+    <text name="ev3900_090" id="705448159" font="Range_FNT" layout="Range_LAY">
+      Procure pelos Amigos
+    </text>
+    <text name="ev3900_100" id="705463145" font="Range_FNT" layout="Range_LAY">
+      Resolva o Quebra-Cabeça do Portão dos Anciões
+    </text>
+    <text name="ev3900_110" id="705463272">
+      Abaixe a Ponte Levadiça
+    </text>
+    <text name="ev3900_200" id="705479274" font="Range_FNT" layout="Range_LAY">
+      Obtenha Rings
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev4040_010" id="1773890905" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E, embora nossa terra natal tenha se perdido, nossa história não se perdeu, graças ao CyberEspaço.
+    </text>
+    <text name="ev4040_020" id="1773891032" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Podemos transferir nossas esperanças, sonhos e lembranças para o CyberEspaço 
+      e acessá-los a qualquer momento.
+    </text>
+    <text name="ev4040_030" id="1773891159" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ancestral. Precisam de você.
+    </text>
+    <text name="ev4040_040" id="1773891286" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Para quê? O que houve?
+    </text>
+    <text name="ev4040_050" id="1773891413" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ele nos seguiu. Este mundo está em perigo.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

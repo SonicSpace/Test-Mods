@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb2040_010" id="519861561" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não é justo. Por que você consegue ir e vir do CyberEspaço à vontade e eu fico preso no caminho?
+    </text>
+    <text name="sb2040_020" id="519861688" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sei lá. Parece que cada um reagiu à dimensão de um jeito diferente.
+    </text>
+    <text name="sb2040_030" id="519861815" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É. Não vi saída. Suas viagens parecem menos complicadas.
+    </text>
+    <text name="sb2040_040" id="519861942" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bom, não importa. A voz bizarra no céu diz que eu tenho que acabar com os Titãs
+      pra fazer vocês voltarem ao normal, então esse é o plano!
+    </text>
+    <text name="sb2040_050" id="519862069" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, é? Por que ela só tá falando com você e não com a gente?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

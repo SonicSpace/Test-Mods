@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb2020_010" id="3162599483" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A Amy disse que não foi muito legal ficar na CyberCela. Como foi pra você?
+    </text>
+    <text name="sb2020_020" id="3162599610" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Horrível. Um verdadeiro pesadelo.
+    </text>
+    <text name="sb2020_030" id="3162599737" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Foi a maior solidão que já senti. E, ao mesmo tempo, eu mergulhava
+      em visões e emoções horríveis. Foi como eu disse, um pesadelo.
+    </text>
+    <text name="sb2020_040" id="3162599864" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vixe. Essas visões... elas não eram parecidas com o que a Tikal mostrou pra gente naquela época, eram?
+      Essas ruínas são do mesmo período em que os seus ancestrais foram extintos?
+    </text>
+    <text name="sb2020_050" id="3162599991" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que não. Mas se você estiver certo e aquela prisão estivesse trazendo essas lembranças de volta...
+      É cruel. Se eu descobrir quem fez isso, vou fazer a pessoa pagar!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

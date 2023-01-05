@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb1040_010" id="1252110778" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Como você consegue voltar do CyberEspaço tão facilmente?
+    </text>
+    <text name="sb1040_020" id="1252110905" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sei lá. Deve ser porque sou incrível mesmo! Mas aposto que você teria um palpite melhor sobre isso.
+    </text>
+    <text name="sb1040_030" id="1252111032" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não vou compartilhar dados com o inimigo. Além do mais, sua sobrevivência pode ser mera sorte.
+      Você não pode enganar o destino para sempre.
+    </text>
+    <text name="sb1040_040" id="1252111159" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uau, valeu pelo incentivo.
+      Bom, vou continuar enganando até descobrir como resgatar a Amy!
+    </text>
+    <text name="sb1040_050" id="1252111286" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não importa se tudo isso é uma grande armadilha ou se continuar jogando robôs esquisitos
+      pra cima de mim, nada vai me atrapalhar nem me deter. Pode crer!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

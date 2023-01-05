@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4070_010" id="3681190836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Os Anciões vieram para este mundo dezenas de milhares de anos atrás.
+    </text>
+    <text name="sb4070_020" id="3681190963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Este planeta ainda estava subdesenvolvido na época, e a tecnologia deles era vastamente superior
+      a todo o resto daquele período.
+    </text>
+    <text name="sb4070_030" id="3681191090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu sabia que tinha algo diferente, mas fiquei surpreso com o fato de que os Anciões vieram do espaço.
+    </text>
+    <text name="sb4070_040" id="3681191217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A construção flutuante, as estruturas gigantescas, o CyberEspaço... não fazia sentido
+      que essas coisas avançadas também fossem antigas. Mas tudo veio do espaço, então... tá explicado, eu acho.
+    </text>
+    <text name="sb4070_050" id="3681191344" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu me pergunto: como seria este mundo se os Anciões tivessem sobrevivido?
+      Em outras circunstâncias, eu gostaria de fazer as simulações.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

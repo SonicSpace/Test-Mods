@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev6020_010" id="2952130393" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então... foi divertido.
+    </text>
+    <text name="ev6020_020" id="2952130520" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev6020_030" id="2952130647" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev6020_040" id="2952130774" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev6020_050" id="2952130901" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas acho que é hora de ir. Sei que todo mundo tem planos.
+    </text>
+    <text name="ev6020_060" id="2952131028" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você mal vai me reconhecer quando a gente se ver na próxima vez!
+    </text>
+    <text name="ev6020_070" id="2952131155" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Será que a Cream e a Sticks estão ocupadas? A gente podia fazer uma viagem!
+    </text>
+    <text name="ev6020_085" id="2952131287" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vai ser bom voltar pra minha ilha. Pelo menos... por um tempo.
+    </text>
+    <text name="ev6020_090" id="2952131409" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então vamos! O que estamos esperando?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

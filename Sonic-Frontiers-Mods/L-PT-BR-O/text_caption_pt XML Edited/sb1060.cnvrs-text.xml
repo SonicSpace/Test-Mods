@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb1060_010" id="2904340152" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah... Ei! Você não acha que aquele Titã é meio que exagero?
+    </text>
+    <text name="sb1060_020" id="2904340279" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você é um inimigo que deve ser eliminado e é completamente indefeso diante do poder do Titã.
+    </text>
+    <text name="sb1060_030" id="2904340406" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Pode ser, mas aposto que eu dou conta do recado se estiver de Super Sonic. Só preciso das Esmeraldas do Caos!
+    </text>
+    <text name="sb1060_040" id="2904340533" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Improvável. Em qualquer cenário, os resultados finais não mudarão.
+    </text>
+    <text name="sb1060_050" id="2904340660" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Além disso, o que você procura está na presença dele. Você perdeu a batalha antes mesmo de ela começar.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
